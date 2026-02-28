@@ -1,4 +1,4 @@
-name: Daily Scan
+name: Daily Run
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: "0 7 * * *"  # 07:00 UTC daily
 
 jobs:
-  scan:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,14 +21,26 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run scanner
+      - name: Discovery
         run: |
-          python scanner.py
+          python discovery.py
+
+      - name: Evidence packs + report
+        run: |
+          python evidence.py
+
+      - name: Shortlist
+        run: |
+          python shortlist.py
+
+      - name: Build LLM input
+        run: |
+          python llm_input_builder.py
 
       - name: Commit updates
         run: |
           git config user.name "nume-lead-engine-bot"
           git config user.email "bot@nume.local"
-          git add docs/report.json snapshots || true
-          git commit -m "Update daily report" || echo "No changes"
+          git add docs/*.json docs/LLM_INPUT.md candidates.csv snapshots evidence_packs || true
+          git commit -m "Daily update" || echo "No changes"
           git push
