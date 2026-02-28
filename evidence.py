@@ -22,7 +22,10 @@ OBFUSCATED_AT_RE = re.compile(
     r"([A-Z0-9._%+-]+)\s*(?:\[at\]|\(at\)|\sat\s)\s*([A-Z0-9.-]+)\s*(?:\[dot\]|\(dot\)|\sdot\s|\.)\s*([A-Z]{2,})",
     re.IGNORECASE,
 )
-CONTACT_KEYWORDS = ["contact", "press", "pr", "media", "wholesale", "stockist", "support", "help", "partnership", "collab"]
+CONTACT_KEYWORDS = [
+    "contact", "press", "pr", "media", "wholesale", "stockist",
+    "support", "help", "partnership", "collab"
+]
 
 CONTACT_PATHS = [
     "/contact", "/contact-us", "/contactus",
@@ -89,6 +92,10 @@ def extract_external_links(html: str, base_url: str):
     return list(links)
 
 def guess_official_site_from_article(article_url: str):
+    """
+    Try to extract a likely brand website from an article page by finding external links.
+    (This can fail on Google News redirect wrappers; we then fallback to guessing by brand name.)
+    """
     try:
         html = fetch(article_url)
         links = extract_external_links(html, article_url)
@@ -101,7 +108,10 @@ def guess_official_site_from_article(article_url: str):
                 continue
 
             low = u.lower()
-            if any(x in low for x in ["facebook.com", "instagram.com", "linkedin.com", "tiktok.com", "twitter.com", "x.com", "youtube.com", "pinterest.com"]):
+            if any(x in low for x in [
+                "facebook.com", "instagram.com", "linkedin.com", "tiktok.com",
+                "twitter.com", "x.com", "youtube.com", "pinterest.com"
+            ]):
                 continue
             if any(x in low for x in ["doubleclick", "utm_", "google.com", "goo.gl"]):
                 continue
@@ -109,6 +119,44 @@ def guess_official_site_from_article(article_url: str):
             return u.split("#")[0].split("?")[0].rstrip("/")
     except Exception:
         return ""
+    return ""
+
+def guess_site_from_brand_name(brand_name: str):
+    """
+    Free fallback: try common domains from the brand name.
+    Validates by checking if the page loads and has basic commerce/contact cues.
+    """
+    if not brand_name:
+        return ""
+
+    # normalize brand name into a domain-ish slug
+    s = brand_name.lower().strip()
+    s = re.sub(r"[^a-z0-9]+", "", s)
+
+    if len(s) < 3:
+        return ""
+
+    candidates = [
+        f"https://{s}.com",
+        f"https://www.{s}.com",
+        f"https://{s}.co",
+        f"https://www.{s}.co",
+        f"https://{s}.co.uk",
+        f"https://www.{s}.co.uk",
+    ]
+
+    cues = ["shop", "product", "cart", "beauty", "skincare", "makeup", "fragrance", "contact", "press", "newsletter", "wholesale"]
+
+    for u in candidates:
+        try:
+            html = fetch(u, timeout=12)
+            text = clean_text(html).lower()
+            if any(c in text for c in cues):
+                p = urlparse(u)
+                return f"{p.scheme}://{p.netloc}".rstrip("/")
+        except Exception:
+            continue
+
     return ""
 
 def build_page_set(site_url: str):
@@ -357,14 +405,22 @@ def run():
         matched_query = (item.get("matched_query") or "watchlist").strip()
 
         website = (item.get("website") or "").strip()
+
+        # 1) Try infer from article
         if not website and evidence_link and opened_articles < max_articles_to_open:
             website = guess_official_site_from_article(evidence_link)
             opened_articles += 1
 
+        # 2) Fallback: guess from brand name
+        if not website:
+            website = guess_site_from_brand_name(brand_guess)
+
+        # normalize website root
         if website:
             try:
                 p = urlparse(website)
-                website = f"{p.scheme}://{p.netloc}".rstrip("/")
+                if p.scheme and p.netloc:
+                    website = f"{p.scheme}://{p.netloc}".rstrip("/")
             except Exception:
                 pass
 
@@ -380,7 +436,11 @@ def run():
         }
 
         if evidence_link:
-            evidence["news_mentions"].append({"title": item.get("title", ""), "link": evidence_link, "published": item.get("published", "")})
+            evidence["news_mentions"].append({
+                "title": item.get("title", ""),
+                "link": evidence_link,
+                "published": item.get("published", "")
+            })
 
         if website:
             pages = build_page_set(website)
@@ -407,7 +467,6 @@ def run():
                     })
 
                     evidence["site"]["fetched_pages"][label] = {"url": url, "snippet": text[:700]}
-
                     time.sleep(0.8)
                 except Exception:
                     continue
