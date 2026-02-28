@@ -16,7 +16,13 @@ REPORT_JSON = "docs/report.json"
 DISCOVERY_JSON = "docs/discovery.json"
 
 USER_AGENT = "NumeLeadEngine/1.0"
+
 EMAIL_RE = re.compile(r"[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}", re.IGNORECASE)
+OBFUSCATED_AT_RE = re.compile(
+    r"([A-Z0-9._%+-]+)\s*(?:\[at\]|\(at\)|\sat\s)\s*([A-Z0-9.-]+)\s*(?:\[dot\]|\(dot\)|\sdot\s|\.)\s*([A-Z]{2,})",
+    re.IGNORECASE,
+)
+CONTACT_KEYWORDS = ["contact", "press", "pr", "media", "wholesale", "stockist", "support", "help", "partnership", "collab"]
 
 CONTACT_PATHS = [
     "/contact", "/contact-us", "/contactus",
@@ -83,10 +89,6 @@ def extract_external_links(html: str, base_url: str):
     return list(links)
 
 def guess_official_site_from_article(article_url: str):
-    """
-    Opens the news article and attempts to find an external link that looks like a brand site.
-    Heuristic: first external link that's not the publisher's registered domain.
-    """
     try:
         html = fetch(article_url)
         links = extract_external_links(html, article_url)
@@ -95,33 +97,56 @@ def guess_official_site_from_article(article_url: str):
         pub_base = f"https://{pub_domain}"
 
         for u in links:
-            # skip same publisher domain
             if same_registered_domain(u, pub_base):
                 continue
 
-            # skip obvious social / trackers
             low = u.lower()
             if any(x in low for x in ["facebook.com", "instagram.com", "linkedin.com", "tiktok.com", "twitter.com", "x.com", "youtube.com", "pinterest.com"]):
                 continue
             if any(x in low for x in ["doubleclick", "utm_", "google.com", "goo.gl"]):
                 continue
 
-            # accept first plausible
             return u.split("#")[0].split("?")[0].rstrip("/")
     except Exception:
         return ""
     return ""
 
+def build_page_set(site_url: str):
+    if not site_url:
+        return {}
+    base = site_url.rstrip("/")
+    pages = {"homepage": base}
+    for p in WATCH_PATH_HINTS:
+        url = urljoin(base + "/", p.lstrip("/"))
+        pages[p.strip("/").replace("-", "_")] = url
+
+    seen = set()
+    final = {}
+    for k, u in pages.items():
+        if u not in seen:
+            seen.add(u)
+            final[k] = u
+
+    keys = list(final.keys())[:6]
+    return {k: final[k] for k in keys}
+
+def hash_text(text: str) -> str:
+    import hashlib
+    return hashlib.sha256(text.encode("utf-8", errors="ignore")).hexdigest()
+
+def load_snapshot(brand: str, label: str):
+    path = os.path.join(SNAPSHOT_DIR, f"{slug(brand)}__{label}.json")
+    if not os.path.exists(path):
+        return {}
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+def save_snapshot(brand: str, label: str, data: dict):
+    path = os.path.join(SNAPSHOT_DIR, f"{slug(brand)}__{label}.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
 def find_contact_methods(site_url: str):
-    """
-    def find_contact_methods(site_url: str):
-    """
-    Legal + brand-owned only:
-    - crawls a few internal pages likely to contain contact/pr emails
-    - uses sitemap.xml when available
-    - extracts normal + obfuscated emails
-    - finds contact page URLs even when forms are embedded externally
-    """
     out = {"primary_email": "", "other_emails": [], "contact_form_url": "", "checked_pages": []}
     if not site_url:
         return out
@@ -130,8 +155,13 @@ def find_contact_methods(site_url: str):
     found = set()
 
     def add_emails_from_text(text: str):
-        OBFUSCATED_AT_RE = re.compile(r"([A-Z0-9._%+-]+)\s*(?:\[at\]|\(at\)|\sat\s)\s*([A-Z0-9.-]+)\s*(?:\[dot\]|\(dot\)|\sdot\s|\.)\s*([A-Z]{2,})", re.IGNORECASE)
-CONTACT_KEYWORDS = ["contact", "press", "pr", "media", "wholesale", "stockist", "support", "help", "partnership", "collab"]
+        if not text:
+            return
+        for m in EMAIL_RE.findall(text):
+            found.add(m)
+        for m in OBFUSCATED_AT_RE.findall(text):
+            email = f"{m[0]}@{m[1]}.{m[2]}"
+            found.add(email)
 
     def is_internal(u: str) -> bool:
         return same_registered_domain(u, base)
@@ -141,11 +171,11 @@ CONTACT_KEYWORDS = ["contact", "press", "pr", "media", "wholesale", "stockist", 
 
     candidates = []
 
-    # 1) Known likely paths
+    # Known likely paths
     for p in CONTACT_PATHS:
         candidates.append(urljoin(base + "/", p.lstrip("/")))
 
-    # 2) Homepage scan: pick up footer/header internal links with contact-ish words
+    # Homepage scan: footer/header links
     try:
         html = fetch(base)
         soup = BeautifulSoup(html, "html.parser")
@@ -166,22 +196,20 @@ CONTACT_KEYWORDS = ["contact", "press", "pr", "media", "wholesale", "stockist", 
             u = norm(urljoin(base, href))
             anchor = (a.get_text(" ") or "").strip().lower()
 
-            # If link text or URL looks contact-ish, add it
             if is_internal(u) and any(k in (u.lower() + " " + anchor) for k in CONTACT_KEYWORDS):
                 candidates.append(u)
 
     except Exception:
         pass
 
-    # 3) Sitemap: super reliable for finding hidden contact/press URLs
+    # Sitemap: find hidden contact/press pages
     sitemap_urls = [urljoin(base + "/", "sitemap.xml"), urljoin(base + "/", "sitemap_index.xml")]
     for sm in sitemap_urls:
         try:
             xml = fetch(sm)
             out["checked_pages"].append(sm)
-            # quick parse: find <loc> URLs
             locs = re.findall(r"<loc>\s*(.*?)\s*</loc>", xml, flags=re.IGNORECASE)
-            for u in locs[:800]:  # cap
+            for u in locs[:800]:
                 u = norm(u)
                 low = u.lower()
                 if is_internal(u) and any(k in low for k in ["contact", "press", "pr", "media", "wholesale", "stockist", "support"]):
@@ -190,17 +218,15 @@ CONTACT_KEYWORDS = ["contact", "press", "pr", "media", "wholesale", "stockist", 
         except Exception:
             continue
 
-    # Deduplicate + cap work
     uniq = []
     for u in candidates:
         u = norm(u)
         if u and u not in uniq and is_internal(u):
             uniq.append(u)
-    candidates = uniq[:14]  # increase a bit; still polite
+    candidates = uniq[:14]
 
     contact_page_candidate = ""
 
-    # 4) Crawl candidate pages and extract emails / find contact page URL
     for url in candidates:
         try:
             html = fetch(url)
@@ -209,15 +235,12 @@ CONTACT_KEYWORDS = ["contact", "press", "pr", "media", "wholesale", "stockist", 
             add_emails_from_text(html)
 
             soup = BeautifulSoup(html, "html.parser")
-            # mailto links on that page
             for a in soup.select("a[href^='mailto:']"):
                 href = a.get("href", "")
                 email = href.replace("mailto:", "").split("?")[0].strip()
                 if email:
                     found.add(email)
 
-            # Mark a contact page even if no <form> tag
-            # Many sites embed forms via external scripts. If page has typical “contact” cues, we accept the page URL.
             low = url.lower()
             page_text = (soup.get_text(" ") or "").lower()
             if not contact_page_candidate and ("contact" in low or "contact" in page_text):
@@ -228,8 +251,6 @@ CONTACT_KEYWORDS = ["contact", "press", "pr", "media", "wholesale", "stockist", 
             continue
 
     emails = sorted(found)
-
-    # Prefer role-based inboxes (what you want for outreach)
     preferred_order = [
         "press@", "pr@", "media@", "partnership", "collab",
         "hello@", "info@", "contact@", "wholesale", "sales@",
@@ -249,132 +270,11 @@ CONTACT_KEYWORDS = ["contact", "press", "pr", "media", "wholesale", "stockist", 
 
     out["primary_email"] = primary
     out["other_emails"] = [e for e in emails if e != primary][:10]
-    out["contact_form_url"] = contact_page_candidate  # treat as contact route even if form is embedded
+    out["contact_form_url"] = contact_page_candidate
 
     return out
-
-    # also add any footer/header contact-ish links from homepage
-    try:
-        html = fetch(base)
-        soup = BeautifulSoup(html, "html.parser")
-        for a in soup.select("a[href]"):
-            href = (a.get("href") or "").strip()
-            if not href:
-                continue
-            if href.startswith("mailto:"):
-                email = href.replace("mailto:", "").split("?")[0].strip()
-                if email:
-                    out["other_emails"].append(email)
-            else:
-                u = urljoin(base, href)
-                if same_registered_domain(u, base) and any(k in u.lower() for k in ["contact", "press", "support", "help", "wholesale"]):
-                    candidates.append(u)
-    except Exception:
-        pass
-
-    # de-dupe, limit
-    uniq = []
-    for c in candidates:
-        if c and c not in uniq and same_registered_domain(c, base):
-            uniq.append(c)
-    candidates = uniq[:10]
-
-    found = set(out["other_emails"])
-    contact_form = ""
-
-    for url in candidates:
-        try:
-            html = fetch(url)
-            out["checked_pages"].append(url)
-
-            for m in EMAIL_RE.findall(html):
-                found.add(m)
-
-            soup = BeautifulSoup(html, "html.parser")
-            for a in soup.select("a[href^='mailto:']"):
-                href = a.get("href", "")
-                email = href.replace("mailto:", "").split("?")[0].strip()
-                if email:
-                    found.add(email)
-
-            if not contact_form and any(k in url.lower() for k in ["contact", "support", "help"]):
-                if soup.select("form"):
-                    contact_form = url
-
-            time.sleep(0.6)
-        except Exception:
-            continue
-
-    emails = sorted(found)
-    preferred_order = ["hello@", "info@", "press@", "pr@", "partnership", "collab", "wholesale", "support@", "care@", "team@"]
-
-    primary = ""
-    for pref in preferred_order:
-        for e in emails:
-            if pref in e.lower():
-                primary = e
-                break
-        if primary:
-            break
-    if not primary and emails:
-        primary = emails[0]
-
-    others = [e for e in emails if e != primary][:8]
-    out["primary_email"] = primary
-    out["other_emails"] = others
-    out["contact_form_url"] = contact_form
-    return out
-
-def build_page_set(site_url: str):
-    """
-    Try a few standard pages without being too heavy.
-    """
-    if not site_url:
-        return {}
-
-    base = site_url.rstrip("/")
-    pages = {"homepage": base}
-
-    # add some likely pages
-    for p in WATCH_PATH_HINTS:
-        url = urljoin(base + "/", p.lstrip("/"))
-        pages[p.strip("/").replace("-", "_")] = url
-
-    # de-dupe by url
-    seen = set()
-    final = {}
-    for k, u in pages.items():
-        if u not in seen:
-            seen.add(u)
-            final[k] = u
-    # limit total fetches
-    keys = list(final.keys())[:6]
-    return {k: final[k] for k in keys}
-
-def hash_text(text: str) -> str:
-    import hashlib
-    return hashlib.sha256(text.encode("utf-8", errors="ignore")).hexdigest()
-
-def load_snapshot(brand: str, label: str):
-    path = os.path.join(SNAPSHOT_DIR, f"{slug(brand)}__{label}.json")
-    if not os.path.exists(path):
-        return {}
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-def save_snapshot(brand: str, label: str, data: dict):
-    path = os.path.join(SNAPSHOT_DIR, f"{slug(brand)}__{label}.json")
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
 
 def score_brand(evidence: dict) -> dict:
-    """
-    Free-only scoring:
-    - has_contact is weighted heavily
-    - news count matters
-    - site fetched pages that exist matters
-    - change detection matters for brands already seen (snapshots)
-    """
     score = 0
     reasons = []
 
@@ -431,7 +331,6 @@ def run():
     candidates = load_discovery_candidates()
     watchlist = load_watchlist()
 
-    # Merge (watchlist first)
     merged = []
     seen_brand = set()
     for item in watchlist + candidates:
@@ -444,12 +343,9 @@ def run():
         seen_brand.add(key)
         merged.append(item)
 
-    report = {
-        "generated_at": now_iso(),
-        "brands": []
-    }
+    report = {"generated_at": now_iso(), "brands": []}
 
-    # Limit how many articles we open for website guessing
+    # how many articles to open for guessing sites
     with open("discovery.json", "r", encoding="utf-8") as f:
         cfg = json.load(f)
     max_articles_to_open = int(cfg.get("limits", {}).get("max_articles_to_open", 30))
@@ -465,7 +361,6 @@ def run():
             website = guess_official_site_from_article(evidence_link)
             opened_articles += 1
 
-        # Normalize website root
         if website:
             try:
                 p = urlparse(website)
@@ -484,12 +379,9 @@ def run():
             "generated_at": now_iso()
         }
 
-        # News mentions: reuse discovery evidence_link + a couple more items would be nice,
-        # but free-only: keep it light and just include the evidence_link as the "recent" mention.
         if evidence_link:
             evidence["news_mentions"].append({"title": item.get("title", ""), "link": evidence_link, "published": item.get("published", "")})
 
-        # Site evidence + change detection
         if website:
             pages = build_page_set(website)
             evidence["site"]["pages"] = pages
@@ -514,35 +406,26 @@ def run():
                         "updated_at": now_iso()
                     })
 
-                    # store short snippet for LLM pack
-                    evidence["site"]["fetched_pages"][label] = {
-                        "url": url,
-                        "snippet": text[:700]
-                    }
+                    evidence["site"]["fetched_pages"][label] = {"url": url, "snippet": text[:700]}
 
                     time.sleep(0.8)
                 except Exception:
                     continue
 
-            # Contacts
             try:
                 evidence["contact"] = find_contact_methods(website)
             except Exception:
                 pass
 
-        # Score
         evidence = score_brand(evidence)
 
-        # Save evidence pack file
         pack_path = os.path.join(EVIDENCE_DIR, f"{slug(brand_guess)}.json")
         with open(pack_path, "w", encoding="utf-8") as f:
             json.dump(evidence, f, ensure_ascii=False, indent=2)
 
         report["brands"].append(evidence)
-
         time.sleep(0.2)
 
-    # Sort by score (desc)
     report["brands"].sort(key=lambda x: (x.get("has_contact", False), x.get("score", 0)), reverse=True)
 
     with open(REPORT_JSON, "w", encoding="utf-8") as f:
