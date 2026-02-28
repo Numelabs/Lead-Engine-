@@ -1,1 +1,25 @@
-
+{
+  "region": "UK",
+  "focus_city": "London",
+  "queries": [
+    "UK beauty brand launch",
+    "London beauty brand launch",
+    "new beauty brand UK",
+    "new beauty brand London",
+    "UK makeup brand launch",
+    "London makeup brand launch",
+    "UK fragrance brand launch",
+    "London fragrance brand launch",
+    "UK fashion brand launch",
+    "London fashion brand launch",
+    "UK beauty brand campaign",
+    "London beauty brand campaign",
+    "UK beauty brand funding",
+    "London beauty brand hiring"
+  ],
+  "limits": {
+    "per_query": 12,
+    "max_candidates_per_run": 50,
+    "max_articles_to_open": 30
+  }
+}
