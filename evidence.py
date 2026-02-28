@@ -114,19 +114,144 @@ def guess_official_site_from_article(article_url: str):
 
 def find_contact_methods(site_url: str):
     """
-    Only looks at pages on the brand's site.
-    Extracts:
-      - role-based emails if present
-      - contact form page URL if detected
+    def find_contact_methods(site_url: str):
+    """
+    Legal + brand-owned only:
+    - crawls a few internal pages likely to contain contact/pr emails
+    - uses sitemap.xml when available
+    - extracts normal + obfuscated emails
+    - finds contact page URLs even when forms are embedded externally
     """
     out = {"primary_email": "", "other_emails": [], "contact_form_url": "", "checked_pages": []}
     if not site_url:
         return out
 
     base = site_url.rstrip("/")
-    candidates = [base]
+    found = set()
+
+    def add_emails_from_text(text: str):
+        OBFUSCATED_AT_RE = re.compile(r"([A-Z0-9._%+-]+)\s*(?:\[at\]|\(at\)|\sat\s)\s*([A-Z0-9.-]+)\s*(?:\[dot\]|\(dot\)|\sdot\s|\.)\s*([A-Z]{2,})", re.IGNORECASE)
+CONTACT_KEYWORDS = ["contact", "press", "pr", "media", "wholesale", "stockist", "support", "help", "partnership", "collab"]
+
+    def is_internal(u: str) -> bool:
+        return same_registered_domain(u, base)
+
+    def norm(u: str) -> str:
+        return u.split("#")[0].strip()
+
+    candidates = []
+
+    # 1) Known likely paths
     for p in CONTACT_PATHS:
         candidates.append(urljoin(base + "/", p.lstrip("/")))
+
+    # 2) Homepage scan: pick up footer/header internal links with contact-ish words
+    try:
+        html = fetch(base)
+        soup = BeautifulSoup(html, "html.parser")
+
+        add_emails_from_text(html)
+
+        for a in soup.select("a[href]"):
+            href = (a.get("href") or "").strip()
+            if not href:
+                continue
+
+            if href.startswith("mailto:"):
+                email = href.replace("mailto:", "").split("?")[0].strip()
+                if email:
+                    found.add(email)
+                continue
+
+            u = norm(urljoin(base, href))
+            anchor = (a.get_text(" ") or "").strip().lower()
+
+            # If link text or URL looks contact-ish, add it
+            if is_internal(u) and any(k in (u.lower() + " " + anchor) for k in CONTACT_KEYWORDS):
+                candidates.append(u)
+
+    except Exception:
+        pass
+
+    # 3) Sitemap: super reliable for finding hidden contact/press URLs
+    sitemap_urls = [urljoin(base + "/", "sitemap.xml"), urljoin(base + "/", "sitemap_index.xml")]
+    for sm in sitemap_urls:
+        try:
+            xml = fetch(sm)
+            out["checked_pages"].append(sm)
+            # quick parse: find <loc> URLs
+            locs = re.findall(r"<loc>\s*(.*?)\s*</loc>", xml, flags=re.IGNORECASE)
+            for u in locs[:800]:  # cap
+                u = norm(u)
+                low = u.lower()
+                if is_internal(u) and any(k in low for k in ["contact", "press", "pr", "media", "wholesale", "stockist", "support"]):
+                    candidates.append(u)
+            break
+        except Exception:
+            continue
+
+    # Deduplicate + cap work
+    uniq = []
+    for u in candidates:
+        u = norm(u)
+        if u and u not in uniq and is_internal(u):
+            uniq.append(u)
+    candidates = uniq[:14]  # increase a bit; still polite
+
+    contact_page_candidate = ""
+
+    # 4) Crawl candidate pages and extract emails / find contact page URL
+    for url in candidates:
+        try:
+            html = fetch(url)
+            out["checked_pages"].append(url)
+
+            add_emails_from_text(html)
+
+            soup = BeautifulSoup(html, "html.parser")
+            # mailto links on that page
+            for a in soup.select("a[href^='mailto:']"):
+                href = a.get("href", "")
+                email = href.replace("mailto:", "").split("?")[0].strip()
+                if email:
+                    found.add(email)
+
+            # Mark a contact page even if no <form> tag
+            # Many sites embed forms via external scripts. If page has typical “contact” cues, we accept the page URL.
+            low = url.lower()
+            page_text = (soup.get_text(" ") or "").lower()
+            if not contact_page_candidate and ("contact" in low or "contact" in page_text):
+                contact_page_candidate = url
+
+            time.sleep(0.6)
+        except Exception:
+            continue
+
+    emails = sorted(found)
+
+    # Prefer role-based inboxes (what you want for outreach)
+    preferred_order = [
+        "press@", "pr@", "media@", "partnership", "collab",
+        "hello@", "info@", "contact@", "wholesale", "sales@",
+        "support@", "care@", "team@"
+    ]
+
+    primary = ""
+    for pref in preferred_order:
+        for e in emails:
+            if pref in e.lower():
+                primary = e
+                break
+        if primary:
+            break
+    if not primary and emails:
+        primary = emails[0]
+
+    out["primary_email"] = primary
+    out["other_emails"] = [e for e in emails if e != primary][:10]
+    out["contact_form_url"] = contact_page_candidate  # treat as contact route even if form is embedded
+
+    return out
 
     # also add any footer/header contact-ish links from homepage
     try:
