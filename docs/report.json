@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T23:40:42.310526+00:00",
+  "generated_at": "2026-02-28T23:55:59.922841+00:00",
   "brands": [
     {
       "brand_name": "REOME",
@@ -51,7 +51,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:40:42.310613+00:00",
+      "generated_at": "2026-02-28T23:55:59.922921+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -111,7 +111,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:00.463479+00:00",
+      "generated_at": "2026-02-28T23:56:16.322804+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -166,7 +166,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:17.270396+00:00",
+      "generated_at": "2026-02-28T23:56:31.473446+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -197,7 +197,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:33.483121+00:00",
+      "generated_at": "2026-02-28T23:56:48.746557+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -227,7 +227,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:33.895099+00:00",
+      "generated_at": "2026-02-28T23:56:50.166882+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -257,7 +257,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:34.299654+00:00",
+      "generated_at": "2026-02-28T23:56:51.443527+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -287,7 +287,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:34.699683+00:00",
+      "generated_at": "2026-02-28T23:56:52.888378+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -317,7 +317,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:35.109561+00:00",
+      "generated_at": "2026-02-28T23:56:54.611631+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Cult US beauty brand finally",
+      "matched_query": "UK beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtaXgxaHZJVVVLMXpoRU0tTFpOdndfa1JQNVl3ZndCRUkwYXdaMU9XaDhZTXdxS1dzTEdXVlFkSUVCaHI4a0JkMHZuX1ROTXJacjA2MHJ1djNfdlhocW02MmhzcTZhS2dEeFJoSnBsNFU5SFhjc05mcDc2R3ZmQQ?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Cult US beauty brand finally launches in UK and sells out of £7.99 tool in just 24 hours - The Sun",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtaXgxaHZJVVVLMXpoRU0tTFpOdndfa1JQNVl3ZndCRUkwYXdaMU9XaDhZTXdxS1dzTEdXVlFkSUVCaHI4a0JkMHZuX1ROTXJacjA2MHJ1djNfdlhocW02MmhzcTZhS2dEeFJoSnBsNFU5SFhjc05mcDc2R3ZmQQ?oc=5",
+          "published": "Mon, 06 Oct 2025 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-02-28T23:56:56.358628+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -347,7 +377,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:35.530974+00:00",
+      "generated_at": "2026-02-28T23:56:57.696820+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -377,7 +407,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:35.938637+00:00",
+      "generated_at": "2026-02-28T23:56:58.886998+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -385,15 +415,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "K-beauty brands go toe to",
+      "brand_name": "Rhode brings its billion-dollar beauty",
       "matched_query": "UK beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOXZFR2N4eW1TeU5NMnowOXJiV2p0dDlGYzZDVUlEX0lPQ0xYeTNubkpueXZTZlJMRlpneG9ZSHZOTEdlNEJjUHQ4UXpQNzNUenVkdGRCclV4bjZSQXBUVGRpQmpNSWRidXhnb3N1bndWN0V5amZVSFBvY3V0eHZtTDlVQnVxU2J4ekltdTB1b0ZMU1c0SFAzYnBUN2lmU2VFX1d4aUZpRGFGdTR6ZklZT0F1RXY1bXZ3TlBCUXJoNk9ZNmxXTmtYMEJUVFNHRXZreTVvTU9YTHU1UC1ZcEk3ZmNyczVXUk4yUkRiTC01RQ?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeHJMU0VqekhQS0JVTEhoLWRMLVBIYm9Ga2JZZmhzZjlOR2JYVkJnd1k2dzFfUF8wTUFlSlN4S3lSSDR0UjlVSXZaakYwYW9MQm5vcjB6djFTVDJLdDZ3S1E5blNTb0dvQ2ZDWk00Z0RheldiNloyMS1ySzVhcDVpSnBBdnVNbWppek1HYmVTMi1NRGtTelowOXpUU1pwY3Bwc0J3Z3JfMA?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "K-beauty brands go toe to toe in Britain as market serves as regional launch pad - Korea JoongAng Daily",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOXZFR2N4eW1TeU5NMnowOXJiV2p0dDlGYzZDVUlEX0lPQ0xYeTNubkpueXZTZlJMRlpneG9ZSHZOTEdlNEJjUHQ4UXpQNzNUenVkdGRCclV4bjZSQXBUVGRpQmpNSWRidXhnb3N1bndWN0V5amZVSFBvY3V0eHZtTDlVQnVxU2J4ekltdTB1b0ZMU1c0SFAzYnBUN2lmU2VFX1d4aUZpRGFGdTR6ZklZT0F1RXY1bXZ3TlBCUXJoNk9ZNmxXTmtYMEJUVFNHRXZreTVvTU9YTHU1UC1ZcEk3ZmNyczVXUk4yUkRiTC01RQ?oc=5",
-          "published": "Tue, 03 Feb 2026 08:00:00 GMT"
+          "title": "Rhode brings its billion-dollar beauty empire to UK high street with Sephora - TheIndustry.beauty",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeHJMU0VqekhQS0JVTEhoLWRMLVBIYm9Ga2JZZmhzZjlOR2JYVkJnd1k2dzFfUF8wTUFlSlN4S3lSSDR0UjlVSXZaakYwYW9MQm5vcjB6djFTVDJLdDZ3S1E5blNTb0dvQ2ZDWk00Z0RheldiNloyMS1ySzVhcDVpSnBBdnVNbWppek1HYmVTMi1NRGtTelowOXpUU1pwY3Bwc0J3Z3JfMA?oc=5",
+          "published": "Mon, 10 Nov 2025 08:00:00 GMT"
         }
       ],
       "contact": {
@@ -407,7 +437,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:36.332410+00:00",
+      "generated_at": "2026-02-28T23:56:59.911912+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -437,7 +467,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:36.743651+00:00",
+      "generated_at": "2026-02-28T23:57:01.010502+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -467,7 +497,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:37.144567+00:00",
+      "generated_at": "2026-02-28T23:57:01.817154+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -497,37 +527,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:37.559045+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Sephora UK confirms launch date",
-      "matched_query": "UK beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODFqOWd1NVplTWNYNTE4MjNYRHBIX2JWY2x0ZDBEMjBFUjdGZWlMOVpMYk5Pb2Mya3FRZkQ0MjVrMjlHTTh4VjhObjZmZmdzWjlzSmFaLW5MeGNNbWdvSnpCb1ZUVlVsRm1CNEtQQlQzemdOQVhRVDc4ajM4bXZ3VGdad2phc1ZYUktRYVFn?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Sephora UK confirms launch date of Hailey Bieber’s Rhode in-store and online - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODFqOWd1NVplTWNYNTE4MjNYRHBIX2JWY2x0ZDBEMjBFUjdGZWlMOVpMYk5Pb2Mya3FRZkQ0MjVrMjlHTTh4VjhObjZmZmdzWjlzSmFaLW5MeGNNbWdvSnpCb1ZUVlVsRm1CNEtQQlQzemdOQVhRVDc4ajM4bXZ3VGdad2phc1ZYUktRYVFn?oc=5",
-          "published": "Tue, 21 Oct 2025 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-02-28T23:41:37.975168+00:00",
+      "generated_at": "2026-02-28T23:57:02.914821+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -557,7 +557,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:38.364606+00:00",
+      "generated_at": "2026-02-28T23:57:04.636758+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -587,7 +587,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:38.891150+00:00",
+      "generated_at": "2026-02-28T23:57:05.476009+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -617,7 +617,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:39.287454+00:00",
+      "generated_at": "2026-02-28T23:57:06.589817+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -647,7 +647,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:39.683727+00:00",
+      "generated_at": "2026-02-28T23:57:07.217008+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -677,7 +677,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:40.101325+00:00",
+      "generated_at": "2026-02-28T23:57:08.608075+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -707,7 +707,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:40.500409+00:00",
+      "generated_at": "2026-02-28T23:57:09.645028+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -737,7 +737,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:40.886774+00:00",
+      "generated_at": "2026-02-28T23:57:10.421217+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -767,7 +767,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:41.290957+00:00",
+      "generated_at": "2026-02-28T23:57:10.996532+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -797,7 +797,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:41.675592+00:00",
+      "generated_at": "2026-02-28T23:57:12.170428+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -827,7 +827,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:42.133829+00:00",
+      "generated_at": "2026-02-28T23:57:13.604996+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -857,7 +857,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:42.528925+00:00",
+      "generated_at": "2026-02-28T23:57:15.031070+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -887,7 +887,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:42.948889+00:00",
+      "generated_at": "2026-02-28T23:57:16.394968+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -917,7 +917,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:43.379609+00:00",
+      "generated_at": "2026-02-28T23:57:17.255250+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -947,7 +947,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:43.804604+00:00",
+      "generated_at": "2026-02-28T23:57:18.340275+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -977,7 +977,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:44.217055+00:00",
+      "generated_at": "2026-02-28T23:57:19.566642+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1007,7 +1007,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:44.601752+00:00",
+      "generated_at": "2026-02-28T23:57:21.333917+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1037,7 +1037,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:45.021725+00:00",
+      "generated_at": "2026-02-28T23:57:22.369406+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1067,7 +1067,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:45.446954+00:00",
+      "generated_at": "2026-02-28T23:57:23.820035+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1097,7 +1097,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:45.647377+00:00",
+      "generated_at": "2026-02-28T23:57:24.717620+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1127,7 +1127,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:45.847879+00:00",
+      "generated_at": "2026-02-28T23:57:25.711654+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1157,7 +1157,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:46.048435+00:00",
+      "generated_at": "2026-02-28T23:57:26.285976+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Driven by TikTok trends, new",
+      "matched_query": "new beauty brand London",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLXkzWGhXdjBqbnRXTWdYRDkya051ZXYwdlJ0RXBGYWw3eVVSWWg1STJUUEVpQm9PWWRDdm1EZnNhM29UbUtIZmdGOFpkWDJRWTlJSmJmUnAyRC1LN3FWOHFFRHRjZ2JuaE5RUFh2d1EwdkVuWTk2TllJdEgxMnJ1WTIzSUg5OUxQYlhUNGZuSmpEeWx1Rjg0dk9ZbzFYaEtPdDlQYnpoaGY?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Driven by TikTok trends, new beauty brands target children - FashionNetwork France",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLXkzWGhXdjBqbnRXTWdYRDkya051ZXYwdlJ0RXBGYWw3eVVSWWg1STJUUEVpQm9PWWRDdm1EZnNhM29UbUtIZmdGOFpkWDJRWTlJSmJmUnAyRC1LN3FWOHFFRHRjZ2JuaE5RUFh2d1EwdkVuWTk2TllJdEgxMnJ1WTIzSUg5OUxQYlhUNGZuSmpEeWx1Rjg0dk9ZbzFYaEtPdDlQYnpoaGY?oc=5",
+          "published": "Fri, 28 Nov 2025 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-02-28T23:57:27.125607+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1187,7 +1217,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:46.248960+00:00",
+      "generated_at": "2026-02-28T23:57:28.094691+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1217,37 +1247,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:46.449781+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "This Month’s Most Covetable Limited-Edition",
-      "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenVEUkR0VXE3LUhLd29MSU9KdndQMGJLUGIzS0FGVUdhNlZqZ01JeEhPRENZeFlzSVB5M1dqY1dIWi1JOGF4MjROSUN0RGFRZ1pGT2xUZEtFVGxkNDB2Z3p3Y1h3clBtZ2VGVVRxX0h3YU01d2lXUm5kUzBwMXBzdQ?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "This Month’s Most Covetable Limited-Edition Beauty Launches We Can’t Stop Talking About - Marie Claire UK",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenVEUkR0VXE3LUhLd29MSU9KdndQMGJLUGIzS0FGVUdhNlZqZ01JeEhPRENZeFlzSVB5M1dqY1dIWi1JOGF4MjROSUN0RGFRZ1pGT2xUZEtFVGxkNDB2Z3p3Y1h3clBtZ2VGVVRxX0h3YU01d2lXUm5kUzBwMXBzdQ?oc=5",
-          "published": "Sat, 29 Nov 2025 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-02-28T23:41:46.650326+00:00",
+      "generated_at": "2026-02-28T23:57:29.645528+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1277,7 +1277,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:46.850743+00:00",
+      "generated_at": "2026-02-28T23:57:30.499555+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1307,7 +1307,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:47.051180+00:00",
+      "generated_at": "2026-02-28T23:57:31.279416+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1337,7 +1337,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:47.251677+00:00",
+      "generated_at": "2026-02-28T23:57:32.338646+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1345,15 +1345,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Louis Vuitton's beauty brand has",
+      "brand_name": "The Makeup Brands Currently Commanding",
       "matched_query": "UK makeup brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdHdXbVRQUzM1ZkRRZFV6enRLYnBPdV9CbDloeHgtN19nd2pZQVJDNk9xaWg0S0ZRelJ0S0lHUFFjLTZmUmdJR0dqZm84b1lJNmV5UXBodnFIdEEzMkYzU3NwbVoxc0VVOGtmVFpLTjAzVEZMZGxYNjVhR0JXZUlINWdxYjE3dFpyQXFQdkd0R2xjdTdaZDl6cDJnbXRtejl0N2NOUVZR?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDRUb2hqT2lMTGRWWmFIcDhBa1JxZWlQR1ZWUVlIVWhTaTdWaGE2U1lKeklYOVhhSUNZM25ieG9QMldMVTZIQVZva05XQlFCVUtyc21oV0tqOFp2Yld5azZXaTJ5NklaSlZHTXhpM0NXOFJSXzZWQXViSFZrZnlqOGdrTjdHQmI1?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Louis Vuitton's beauty brand has officially launched - fashionunited.uk",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdHdXbVRQUzM1ZkRRZFV6enRLYnBPdV9CbDloeHgtN19nd2pZQVJDNk9xaWg0S0ZRelJ0S0lHUFFjLTZmUmdJR0dqZm84b1lJNmV5UXBodnFIdEEzMkYzU3NwbVoxc0VVOGtmVFpLTjAzVEZMZGxYNjVhR0JXZUlINWdxYjE3dFpyQXFQdkd0R2xjdTdaZDl6cDJnbXRtejl0N2NOUVZR?oc=5",
-          "published": "Tue, 19 Aug 2025 07:00:00 GMT"
+          "title": "The Makeup Brands Currently Commanding My Attention as a Beauty Insider - Marie Claire UK",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDRUb2hqT2lMTGRWWmFIcDhBa1JxZWlQR1ZWUVlIVWhTaTdWaGE2U1lKeklYOVhhSUNZM25ieG9QMldMVTZIQVZva05XQlFCVUtyc21oV0tqOFp2Yld5azZXaTJ5NklaSlZHTXhpM0NXOFJSXzZWQXViSFZrZnlqOGdrTjdHQmI1?oc=5",
+          "published": "Tue, 27 Jan 2026 08:00:00 GMT"
         }
       ],
       "contact": {
@@ -1367,7 +1367,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:47.452161+00:00",
+      "generated_at": "2026-02-28T23:57:33.186476+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1375,15 +1375,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Glossier's first ever powder blush,",
+      "brand_name": "Sephora UK confirms launch date",
       "matched_query": "UK makeup brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1lUbm02LUFoaXpUU2oyTGIxd1RUM2Vta0ZOQWxZY0FsQ24tblotMWNRU2Y0ekRJT1E3N0lWUEhaMHd2WGRsMXlkQkZLQUNESnJYanFHbXdwUW82dkZrU04waFpCNTEwd0ZCYlZDbjRocHoxbmFOYUtSaHlhdkIxbUZKZlFycWlYUlBXODhraklib2prSjd2Y2puQWZaazlfeDcw?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODFqOWd1NVplTWNYNTE4MjNYRHBIX2JWY2x0ZDBEMjBFUjdGZWlMOVpMYk5Pb2Mya3FRZkQ0MjVrMjlHTTh4VjhObjZmZmdzWjlzSmFaLW5MeGNNbWdvSnpCb1ZUVlVsRm1CNEtQQlQzemdOQVhRVDc4ajM4bXZ3VGdad2phc1ZYUktRYVFn?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Glossier's first ever powder blush, plus 3 more beauty launches under £30 to shop this month - Good Housekeeping",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1lUbm02LUFoaXpUU2oyTGIxd1RUM2Vta0ZOQWxZY0FsQ24tblotMWNRU2Y0ekRJT1E3N0lWUEhaMHd2WGRsMXlkQkZLQUNESnJYanFHbXdwUW82dkZrU04waFpCNTEwd0ZCYlZDbjRocHoxbmFOYUtSaHlhdkIxbUZKZlFycWlYUlBXODhraklib2prSjd2Y2puQWZaazlfeDcw?oc=5",
-          "published": "Wed, 28 Jan 2026 08:00:00 GMT"
+          "title": "Sephora UK confirms launch date of Hailey Bieber’s Rhode in-store and online - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODFqOWd1NVplTWNYNTE4MjNYRHBIX2JWY2x0ZDBEMjBFUjdGZWlMOVpMYk5Pb2Mya3FRZkQ0MjVrMjlHTTh4VjhObjZmZmdzWjlzSmFaLW5MeGNNbWdvSnpCb1ZUVlVsRm1CNEtQQlQzemdOQVhRVDc4ajM4bXZ3VGdad2phc1ZYUktRYVFn?oc=5",
+          "published": "Tue, 21 Oct 2025 07:00:00 GMT"
         }
       ],
       "contact": {
@@ -1397,7 +1397,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:47.652643+00:00",
+      "generated_at": "2026-02-28T23:57:34.171143+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1427,7 +1427,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:47.853139+00:00",
+      "generated_at": "2026-02-28T23:57:35.478152+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1457,7 +1457,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:48.053641+00:00",
+      "generated_at": "2026-02-28T23:57:37.042982+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1487,7 +1487,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:48.254113+00:00",
+      "generated_at": "2026-02-28T23:57:37.963062+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1517,7 +1517,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:48.454594+00:00",
+      "generated_at": "2026-02-28T23:57:39.268378+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1547,7 +1547,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:48.655147+00:00",
+      "generated_at": "2026-02-28T23:57:39.576927+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1577,7 +1577,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:48.855687+00:00",
+      "generated_at": "2026-02-28T23:57:40.832816+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1607,7 +1607,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:49.056222+00:00",
+      "generated_at": "2026-02-28T23:57:41.804760+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1637,7 +1637,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:49.256711+00:00",
+      "generated_at": "2026-02-28T23:57:43.064159+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1667,7 +1667,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-02-28T23:41:49.457192+00:00",
+      "generated_at": "2026-02-28T23:57:44.624737+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
