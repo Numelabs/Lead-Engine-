@@ -1,1 +1,35 @@
-
+{
+  "offers": [
+    {
+      "name": "Launch Sprint",
+      "best_for": "Brands in a launch/campaign window (new page, press spike, announcements).",
+      "deliverables": [
+        "1 hero direction + 2 alternates",
+        "Macro/texture set",
+        "Routine tiles (3–6)",
+        "Paid-social crops (4:5, 9:16, 1:1)"
+      ],
+      "timeline": "3–7 days"
+    },
+    {
+      "name": "Always-on Visual System",
+      "best_for": "Brands posting regularly but stuck in repetitive visuals.",
+      "deliverables": [
+        "Repeatable look system (lighting/composition/material rules)",
+        "Monthly refresh set (8–20 assets)",
+        "Variant library for ads + organic"
+      ],
+      "timeline": "Monthly"
+    },
+    {
+      "name": "Performance Pack",
+      "best_for": "Brands actively running Meta ads or scaling paid spend.",
+      "deliverables": [
+        "8–16 ad variants across 3 angles",
+        "Hooks + proofs + product truth frames",
+        "Short cutdowns (optional)"
+      ],
+      "timeline": "5–10 days"
+    }
+  ]
+}
