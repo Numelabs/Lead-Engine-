@@ -5,11 +5,18 @@ on:
   schedule:
     - cron: "0 7 * * *"  # 07:00 UTC daily
 
+permissions:
+  contents: write
+
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -22,25 +29,46 @@ jobs:
           pip install -r requirements.txt
 
       - name: Discovery
-        run: |
-          python discovery.py
+        run: python discovery.py
 
       - name: Evidence packs + report
-        run: |
-          python evidence.py
+        run: python evidence.py
 
       - name: Shortlist
-        run: |
-          python shortlist.py
+        run: python shortlist.py
 
       - name: Build LLM input
-        run: |
-          python llm_input_builder.py
+        run: python llm_input_builder.py
 
       - name: Commit updates
         run: |
           git config user.name "nume-lead-engine-bot"
           git config user.email "bot@nume.local"
+
           git add docs/*.json docs/LLM_INPUT.md candidates.csv snapshots evidence_packs || true
-          git commit -m "Daily update" || echo "No changes"
-          git push
+
+          git status
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+
+          git commit -m "Daily update"
+          git push origin HEAD:${{ github.ref_name }}
+                      - name: Cache
+  uses: actions/cache@v5.0.3
+  with:
+    # A list of files, directories, and wildcard patterns to cache and restore
+    path: 
+    # An explicit key for restoring and saving the cache
+    key: 
+    # An ordered multiline string listing the prefix-matched keys, that are used for restoring stale cache if no cache hit occurred for key. Note `cache-hit` returns false in this case.
+    restore-keys: # optional
+    # The chunk size used to split up large files during upload, in bytes
+    upload-chunk-size: # optional
+    # An optional boolean when enabled, allows windows runners to save or restore caches that can be restored or saved respectively on other platforms
+    enableCrossOsArchive: # optional, default is false
+    # Fail the workflow if cache entry is not found
+    fail-on-cache-miss: # optional, default is false
+    # Check if a cache entry exists for the given input(s) (key, restore-keys) without downloading the cache
+    lookup-only: # optional, default is false
+    # Run the post step to save the cache even if another step before fails
+    save-always: # optional, default is false
+          
