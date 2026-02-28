@@ -9,9 +9,14 @@
     "other_emails": [],
     "contact_form_url": "https://reome.com/contact",
     "checked_pages": [
-      "https://reome.com",
+      "https://reome.com/sitemap.xml",
       "https://reome.com/contact",
-      "https://reome.com/stockists"
+      "https://reome.com/stockists",
+      "https://reome.com/about",
+      "https://reome.com/products/hydra-plasma-veil-5",
+      "https://reome.com/products/biogenic-melting-cream",
+      "https://reome.com/products/active-recovery-broth",
+      "https://reome.com/products/firming-eye-treatment"
     ]
   },
   "site": {
@@ -43,7 +48,7 @@
     },
     "change_flags": []
   },
-  "generated_at": "2026-02-28T23:05:25.820694+00:00",
+  "generated_at": "2026-02-28T23:40:42.310613+00:00",
   "score": 51,
   "score_reasons": [
     "Contact method found",

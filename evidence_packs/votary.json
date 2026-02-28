@@ -5,12 +5,20 @@
   "website": "https://votary.co.uk",
   "news_mentions": [],
   "contact": {
-    "primary_email": "",
-    "other_emails": [],
-    "contact_form_url": "",
+    "primary_email": "sales@VOTARY.co.uk",
+    "other_emails": [
+      "sales@votary.co.uk",
+      "skincare@VOTARY.co.uk",
+      "skincare@votary.co.uk"
+    ],
+    "contact_form_url": "https://votary.co.uk/stockists",
     "checked_pages": [
-      "https://votary.co.uk",
-      "https://votary.co.uk/stockists"
+      "https://votary.co.uk/sitemap.xml",
+      "https://votary.co.uk/stockists",
+      "https://votary.co.uk/products/super-barrier-balm",
+      "https://votary.co.uk/pages/votary-in-the-press",
+      "https://votary.co.uk/pages/contact-us",
+      "https://votary.co.uk/products/shower-gel"
     ]
   },
   "site": {
@@ -42,10 +50,11 @@
     },
     "change_flags": []
   },
-  "generated_at": "2026-02-28T23:05:36.655395+00:00",
-  "score": 16,
+  "generated_at": "2026-02-28T23:41:00.463479+00:00",
+  "score": 51,
   "score_reasons": [
+    "Contact method found",
     "4 site page(s) captured"
   ],
-  "has_contact": false
+  "has_contact": true
 }
