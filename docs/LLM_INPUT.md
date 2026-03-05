@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-03-04T08:04:51.174010+00:00
+Generated at: 2026-03-05T08:07:26.680222+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -69,7 +69,7 @@ Website: https://skinrocks.com
 Discovery query: watchlist
 Evidence link: 
 Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage, shop
+Site changed flags: homepage, products, shop, collections
 Contact: email=None form=https://skinrocks.com/products/the-eye-cream
 News mentions: None
 Site snippets:
