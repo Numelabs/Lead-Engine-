@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-03-08T07:54:20.773238+00:00
+Generated at: 2026-03-09T09:12:59.693522+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -64,19 +64,19 @@ OFFER PRESETS (choose the best fit per brand):
 EVIDENCE SHORTLIST (do not browse; only use this):
 
 === BRAND 1 ===
-Name: Votary
-Website: https://votary.co.uk
+Name: REOME
+Website: https://reome.com
 Discovery query: watchlist
 Evidence link: 
 Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage, shop
-Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
+Site changed flags: homepage, products, shop, collections
+Contact: email=None form=https://reome.com/contact
 News mentions: None
 Site snippets:
-- homepage (https://votary.co.uk)
-  VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders Enjoy 20% off everything with code WOMEN26 Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE WHY VOTARY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Enjoy 20% off everything with code WOMEN26 Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your
-- products (https://votary.co.uk/products)
-  Collections - VOTARY No duties, tariffs, or taxes on US orders Enjoy 20% off everything with code WOMEN26 Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE WHY VOTARY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Enjoy 20% off everything with code WOMEN26 Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your Cart is Empty Continue Shopp
+- homepage (https://reome.com)
+  REOME | Award-Winning Biotechnology Skincare Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Biotechnology About Treatments 0 Bag Shop Biotechnology About Treatments Shop Hydra-Plasma Veil NEW Biogenic Melting Cream BESTSELLER Active Recovery Broth BESTSELLER Firming Eye Treatment AWARD-WINNING Three Suns Balm Award-winning Skin Evolution Set NEW Shop All Shop all The Collection Shop all Hydra-Plasma Veil NEW Bio-Cellulose Mask Shop now Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Shop now Active Recovery Broth BESTSELLER Serum Concentrate Shop now Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Shop now Three Suns 
+- products (https://reome.com/products)
+  Collections – REOME Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Biotechnology About Treatments 0 Bag Shop Biotechnology About Treatments Shop Hydra-Plasma Veil NEW Biogenic Melting Cream BESTSELLER Active Recovery Broth BESTSELLER Firming Eye Treatment AWARD-WINNING Three Suns Balm Award-winning Skin Evolution Set NEW Shop All Shop all The Collection Shop all Hydra-Plasma Veil NEW Bio-Cellulose Mask Shop now Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Shop now Active Recovery Broth BESTSELLER Serum Concentrate Shop now Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Shop now Three Suns Balm Award-winning Revita
 
 === BRAND 2 ===
 Name: Skin Rocks
@@ -94,18 +94,18 @@ Site snippets:
   Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended BEST SELLER The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per BEST SELLER The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. Regul
 
 === BRAND 3 ===
-Name: REOME
-Website: https://reome.com
+Name: Votary
+Website: https://votary.co.uk
 Discovery query: watchlist
 Evidence link: 
 Score: 51 Reasons: Contact method found, 4 site page(s) captured
 Site changed flags: None
-Contact: email=None form=https://reome.com/contact
+Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
 News mentions: None
 Site snippets:
-- homepage (https://reome.com)
-  REOME | Award-Winning Biotechnology Skincare Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Biotechnology About Treatments 0 Bag Shop Biotechnology About Treatments Shop Hydra-Plasma Veil NEW Biogenic Melting Cream BESTSELLER Active Recovery Broth BESTSELLER Firming Eye Treatment AWARD-WINNING Three Suns Balm Award-winning Skin Evolution Set NEW Shop All Shop all The Collection Shop all Hydra-Plasma Veil NEW Bio-Cellulose Mask Shop now Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Shop now Active Recovery Broth BESTSELLER Serum Concentrate Shop now Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Shop now Three Suns 
-- products (https://reome.com/products)
-  Collections – REOME Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Biotechnology About Treatments 0 Bag Shop Biotechnology About Treatments Shop Hydra-Plasma Veil NEW Biogenic Melting Cream BESTSELLER Active Recovery Broth BESTSELLER Firming Eye Treatment AWARD-WINNING Three Suns Balm Award-winning Skin Evolution Set NEW Shop All Shop all The Collection Shop all Hydra-Plasma Veil NEW Bio-Cellulose Mask Shop now Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Shop now Active Recovery Broth BESTSELLER Serum Concentrate Shop now Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Shop now Three Suns Balm Award-winning Revita
+- homepage (https://votary.co.uk)
+  VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders Enjoy 20% off everything with code WOMEN26 Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE WHY VOTARY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Enjoy 20% off everything with code WOMEN26 Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your
+- products (https://votary.co.uk/products)
+  Collections - VOTARY No duties, tariffs, or taxes on US orders Enjoy 20% off everything with code WOMEN26 Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE WHY VOTARY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Enjoy 20% off everything with code WOMEN26 Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your Cart is Empty Continue Shopp
 
 
