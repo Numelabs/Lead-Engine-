@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T09:12:59.652906+00:00",
+  "generated_at": "2026-03-10T08:07:11.802939+00:00",
   "rules": {
     "requires_website": true,
     "requires_contact": true
@@ -8,6 +8,67 @@
   "total_actionable": 3,
   "count": 3,
   "shortlist": [
+    {
+      "brand_name": "Skin Rocks",
+      "matched_query": "watchlist",
+      "evidence_link": "",
+      "website": "https://skinrocks.com",
+      "news_mentions": [],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "https://skinrocks.com/products/the-eye-cream",
+        "checked_pages": [
+          "https://skinrocks.com/sitemap.xml",
+          "https://skinrocks.com/products/the-eye-cream",
+          "https://skinrocks.com/products/the-flannel",
+          "https://skinrocks.com/products/the-antioxidant",
+          "https://skinrocks.com/products/the-cotton-rounds"
+        ]
+      },
+      "site": {
+        "pages": {
+          "homepage": "https://skinrocks.com",
+          "products": "https://skinrocks.com/products",
+          "shop": "https://skinrocks.com/shop",
+          "collections": "https://skinrocks.com/collections",
+          "press": "https://skinrocks.com/press",
+          "journal": "https://skinrocks.com/journal"
+        },
+        "fetched_pages": {
+          "homepage": {
+            "url": "https://skinrocks.com",
+            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended BEST SELLER The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per BEST SELLER The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. "
+          },
+          "products": {
+            "url": "https://skinrocks.com/products",
+            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended BEST SELLER The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per BEST SELLER The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. Regul"
+          },
+          "shop": {
+            "url": "https://skinrocks.com/shop",
+            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended BEST SELLER The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per BEST SELLER The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. "
+          },
+          "collections": {
+            "url": "https://skinrocks.com/collections",
+            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended BEST SELLER The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per BEST SELLER The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. Regul"
+          }
+        },
+        "change_flags": [
+          "homepage",
+          "products",
+          "shop",
+          "collections"
+        ]
+      },
+      "generated_at": "2026-03-10T08:06:03.345098+00:00",
+      "score": 71,
+      "score_reasons": [
+        "Contact method found",
+        "4 site page(s) captured",
+        "Site changed since last check"
+      ],
+      "has_contact": true
+    },
     {
       "brand_name": "REOME",
       "matched_query": "watchlist",
@@ -56,78 +117,13 @@
             "snippet": "Collections – REOME Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Biotechnology About Treatments 0 Bag Shop Biotechnology About Treatments Shop Hydra-Plasma Veil NEW Biogenic Melting Cream BESTSELLER Active Recovery Broth BESTSELLER Firming Eye Treatment AWARD-WINNING Three Suns Balm Award-winning Skin Evolution Set NEW Shop All Shop all The Collection Shop all Hydra-Plasma Veil NEW Bio-Cellulose Mask Shop now Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Shop now Active Recovery Broth BESTSELLER Serum Concentrate Shop now Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Shop now Three Suns Balm Award-winning Revita"
           }
         },
-        "change_flags": [
-          "homepage",
-          "products",
-          "shop",
-          "collections"
-        ]
+        "change_flags": []
       },
-      "generated_at": "2026-03-09T09:11:00.737297+00:00",
-      "score": 71,
+      "generated_at": "2026-03-10T08:05:30.710480+00:00",
+      "score": 51,
       "score_reasons": [
         "Contact method found",
-        "4 site page(s) captured",
-        "Site changed since last check"
-      ],
-      "has_contact": true
-    },
-    {
-      "brand_name": "Skin Rocks",
-      "matched_query": "watchlist",
-      "evidence_link": "",
-      "website": "https://skinrocks.com",
-      "news_mentions": [],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "https://skinrocks.com/products/the-eye-cream",
-        "checked_pages": [
-          "https://skinrocks.com/sitemap.xml",
-          "https://skinrocks.com/products/the-eye-cream",
-          "https://skinrocks.com/products/the-flannel",
-          "https://skinrocks.com/products/the-antioxidant",
-          "https://skinrocks.com/products/the-cotton-rounds"
-        ]
-      },
-      "site": {
-        "pages": {
-          "homepage": "https://skinrocks.com",
-          "products": "https://skinrocks.com/products",
-          "shop": "https://skinrocks.com/shop",
-          "collections": "https://skinrocks.com/collections",
-          "press": "https://skinrocks.com/press",
-          "journal": "https://skinrocks.com/journal"
-        },
-        "fetched_pages": {
-          "homepage": {
-            "url": "https://skinrocks.com",
-            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended BEST SELLER The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per BEST SELLER The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. "
-          },
-          "products": {
-            "url": "https://skinrocks.com/products",
-            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended BEST SELLER The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per BEST SELLER The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. Regul"
-          },
-          "shop": {
-            "url": "https://skinrocks.com/shop",
-            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended BEST SELLER The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per BEST SELLER The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. "
-          },
-          "collections": {
-            "url": "https://skinrocks.com/collections",
-            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended BEST SELLER The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per BEST SELLER The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. Regul"
-          }
-        },
-        "change_flags": [
-          "homepage",
-          "shop"
-        ]
-      },
-      "generated_at": "2026-03-09T09:11:34.307067+00:00",
-      "score": 71,
-      "score_reasons": [
-        "Contact method found",
-        "4 site page(s) captured",
-        "Site changed since last check"
+        "4 site page(s) captured"
       ],
       "has_contact": true
     },
@@ -183,7 +179,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-03-09T09:11:18.463028+00:00",
+      "generated_at": "2026-03-10T08:05:48.034832+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
