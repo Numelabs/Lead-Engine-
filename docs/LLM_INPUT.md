@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-03-12T09:13:23.283004+00:00
+Generated at: 2026-03-13T09:07:20.761664+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -74,9 +74,9 @@ Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
 News mentions: None
 Site snippets:
 - homepage (https://votary.co.uk)
-  VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE WHY VOTARY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Shower Gel. £35 Add Super Barrier B
+  VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders FREE Mini Intense Night Oil with orders over £50* Sign up for Exclusive Offers & Discounts ✨ Discover new Super Barrier Balm SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE WHY VOTARY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Mini Intense Night Oil with orders over £50* Sign up for Exclusive Offers & Discounts ✨ Discover new Super Barrier Balm Login CON
 - products (https://votary.co.uk/products)
-  Collections - VOTARY No duties, tariffs, or taxes on US orders Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE WHY VOTARY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Shower Gel. £35 Add Super Barrier Balm. £35 Add £0 Subtotal Tax 
+  Collections - VOTARY No duties, tariffs, or taxes on US orders FREE Mini Intense Night Oil with orders over £50* Sign up for Exclusive Offers & Discounts ✨ Discover new Super Barrier Balm SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE WHY VOTARY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Mini Intense Night Oil with orders over £50* Sign up for Exclusive Offers & Discounts ✨ Discover new Super Barrier Balm Login CONTACT US 0 Your Cart is Empty 
 
 === BRAND 2 ===
 Name: Skin Rocks
@@ -84,7 +84,7 @@ Website: https://skinrocks.com
 Discovery query: watchlist
 Evidence link: 
 Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage, products, shop, collections
+Site changed flags: homepage, shop
 Contact: email=None form=https://skinrocks.com/products/the-eye-cream
 News mentions: None
 Site snippets:
