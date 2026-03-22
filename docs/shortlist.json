@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T07:57:27.698142+00:00",
+  "generated_at": "2026-03-22T08:01:33.788729+00:00",
   "rules": {
     "requires_website": true,
     "requires_contact": true
@@ -8,70 +8,6 @@
   "total_actionable": 3,
   "count": 3,
   "shortlist": [
-    {
-      "brand_name": "REOME",
-      "matched_query": "watchlist",
-      "evidence_link": "",
-      "website": "https://reome.com",
-      "news_mentions": [],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "https://reome.com/contact",
-        "checked_pages": [
-          "https://reome.com/sitemap.xml",
-          "https://reome.com/contact",
-          "https://reome.com/stockists",
-          "https://reome.com/about",
-          "https://reome.com/products/hydra-plasma-veil-5",
-          "https://reome.com/products/biogenic-melting-cream",
-          "https://reome.com/products/active-recovery-broth",
-          "https://reome.com/products/three-suns-balm"
-        ]
-      },
-      "site": {
-        "pages": {
-          "homepage": "https://reome.com",
-          "products": "https://reome.com/products",
-          "shop": "https://reome.com/shop",
-          "collections": "https://reome.com/collections",
-          "press": "https://reome.com/press",
-          "journal": "https://reome.com/journal"
-        },
-        "fetched_pages": {
-          "homepage": {
-            "url": "https://reome.com",
-            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème The Bio-Glow Duo Bundle Worth £140 The Extraordinary Skin Set Bundle Worth £265 Skin Evolution Set NEW Discovery Size Shop All Shop All New Biogenic Melting Cream Breakthrou"
-          },
-          "products": {
-            "url": "https://reome.com/products",
-            "snippet": "Collections – REOME Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème The Bio-Glow Duo Bundle Worth £140 The Extraordinary Skin Set Bundle Worth £265 Skin Evolution Set NEW Discovery Size Shop All Shop All New Biogenic Melting Cream Breakthrough technology, suitable f"
-          },
-          "shop": {
-            "url": "https://reome.com/shop",
-            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème The Bio-Glow Duo Bundle Worth £140 The Extraordinary Skin Set Bundle Worth £265 Skin Evolution Set NEW Discovery Size Shop All Shop All New Biogenic Melting Cream Breakthrou"
-          },
-          "collections": {
-            "url": "https://reome.com/collections",
-            "snippet": "Collections – REOME Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème The Bio-Glow Duo Bundle Worth £140 The Extraordinary Skin Set Bundle Worth £265 Skin Evolution Set NEW Discovery Size Shop All Shop All New Biogenic Melting Cream Breakthrough technology, suitable f"
-          }
-        },
-        "change_flags": [
-          "homepage",
-          "products",
-          "shop",
-          "collections"
-        ]
-      },
-      "generated_at": "2026-03-21T07:55:53.773563+00:00",
-      "score": 71,
-      "score_reasons": [
-        "Contact method found",
-        "4 site page(s) captured",
-        "Site changed since last check"
-      ],
-      "has_contact": true
-    },
     {
       "brand_name": "Skin Rocks",
       "matched_query": "watchlist",
@@ -122,12 +58,70 @@
           "shop"
         ]
       },
-      "generated_at": "2026-03-21T07:56:32.441211+00:00",
+      "generated_at": "2026-03-22T08:00:32.997115+00:00",
       "score": 71,
       "score_reasons": [
         "Contact method found",
         "4 site page(s) captured",
         "Site changed since last check"
+      ],
+      "has_contact": true
+    },
+    {
+      "brand_name": "REOME",
+      "matched_query": "watchlist",
+      "evidence_link": "",
+      "website": "https://reome.com",
+      "news_mentions": [],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "https://reome.com/contact",
+        "checked_pages": [
+          "https://reome.com/sitemap.xml",
+          "https://reome.com/contact",
+          "https://reome.com/stockists",
+          "https://reome.com/about",
+          "https://reome.com/products/hydra-plasma-veil-5",
+          "https://reome.com/products/biogenic-melting-cream",
+          "https://reome.com/products/active-recovery-broth",
+          "https://reome.com/products/three-suns-balm"
+        ]
+      },
+      "site": {
+        "pages": {
+          "homepage": "https://reome.com",
+          "products": "https://reome.com/products",
+          "shop": "https://reome.com/shop",
+          "collections": "https://reome.com/collections",
+          "press": "https://reome.com/press",
+          "journal": "https://reome.com/journal"
+        },
+        "fetched_pages": {
+          "homepage": {
+            "url": "https://reome.com",
+            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème The Bio-Glow Duo Bundle Worth £140 The Extraordinary Skin Set Bundle Worth £265 Skin Evolution Set NEW Discovery Size Shop All Shop All New Biogenic Melting Cream Breakthrou"
+          },
+          "products": {
+            "url": "https://reome.com/products",
+            "snippet": "Collections – REOME Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème The Bio-Glow Duo Bundle Worth £140 The Extraordinary Skin Set Bundle Worth £265 Skin Evolution Set NEW Discovery Size Shop All Shop All New Biogenic Melting Cream Breakthrough technology, suitable f"
+          },
+          "shop": {
+            "url": "https://reome.com/shop",
+            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème The Bio-Glow Duo Bundle Worth £140 The Extraordinary Skin Set Bundle Worth £265 Skin Evolution Set NEW Discovery Size Shop All Shop All New Biogenic Melting Cream Breakthrou"
+          },
+          "collections": {
+            "url": "https://reome.com/collections",
+            "snippet": "Collections – REOME Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème The Bio-Glow Duo Bundle Worth £140 The Extraordinary Skin Set Bundle Worth £265 Skin Evolution Set NEW Discovery Size Shop All Shop All New Biogenic Melting Cream Breakthrough technology, suitable f"
+          }
+        },
+        "change_flags": []
+      },
+      "generated_at": "2026-03-22T07:59:54.328161+00:00",
+      "score": 51,
+      "score_reasons": [
+        "Contact method found",
+        "4 site page(s) captured"
       ],
       "has_contact": true
     },
@@ -183,7 +177,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-03-21T07:56:14.074811+00:00",
+      "generated_at": "2026-03-22T08:00:14.749880+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
