@@ -14,9 +14,9 @@
       "https://reome.com/stockists",
       "https://reome.com/about",
       "https://reome.com/products/hydra-plasma-veil-5",
-      "https://reome.com/products/biogenic-melting-cream",
+      "https://reome.com/products/firming-eye-treatment",
       "https://reome.com/products/active-recovery-broth",
-      "https://reome.com/products/three-suns-balm"
+      "https://reome.com/products/skin-evolution-set"
     ]
   },
   "site": {
@@ -31,28 +31,34 @@
     "fetched_pages": {
       "homepage": {
         "url": "https://reome.com",
-        "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème The Bio-Glow Duo Bundle Worth £140 The Extraordinary Skin Set Bundle Worth £265 Skin Evolution Set NEW Discovery Size Shop All Shop All New Biogenic Melting Cream Breakthrou"
+        "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Active Recovery Broth BESTSELLER Serum Concentrate Skin Evolution Set Bundle, Worth £140 Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator The Bio-Glow Duo Bundle, Worth £140 Three Suns Balm Award-winning Revitalising Cleanser The Extraordinary Skin Set Bundle, Worth £265 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose"
       },
       "products": {
         "url": "https://reome.com/products",
-        "snippet": "Collections – REOME Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème The Bio-Glow Duo Bundle Worth £140 The Extraordinary Skin Set Bundle Worth £265 Skin Evolution Set NEW Discovery Size Shop All Shop All New Biogenic Melting Cream Breakthrough technology, suitable f"
+        "snippet": "Collections – REOME Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Active Recovery Broth BESTSELLER Serum Concentrate Skin Evolution Set Bundle, Worth £140 Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator The Bio-Glow Duo Bundle, Worth £140 Three Suns Balm Award-winning Revitalising Cleanser The Extraordinary Skin Set Bundle, Worth £265 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hyd"
       },
       "shop": {
         "url": "https://reome.com/shop",
-        "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème The Bio-Glow Duo Bundle Worth £140 The Extraordinary Skin Set Bundle Worth £265 Skin Evolution Set NEW Discovery Size Shop All Shop All New Biogenic Melting Cream Breakthrou"
+        "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Active Recovery Broth BESTSELLER Serum Concentrate Skin Evolution Set Bundle, Worth £140 Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator The Bio-Glow Duo Bundle, Worth £140 Three Suns Balm Award-winning Revitalising Cleanser The Extraordinary Skin Set Bundle, Worth £265 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose"
       },
       "collections": {
         "url": "https://reome.com/collections",
-        "snippet": "Collections – REOME Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème The Bio-Glow Duo Bundle Worth £140 The Extraordinary Skin Set Bundle Worth £265 Skin Evolution Set NEW Discovery Size Shop All Shop All New Biogenic Melting Cream Breakthrough technology, suitable f"
+        "snippet": "Collections – REOME Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Active Recovery Broth BESTSELLER Serum Concentrate Skin Evolution Set Bundle, Worth £140 Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator The Bio-Glow Duo Bundle, Worth £140 Three Suns Balm Award-winning Revitalising Cleanser The Extraordinary Skin Set Bundle, Worth £265 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hyd"
       }
     },
-    "change_flags": []
+    "change_flags": [
+      "homepage",
+      "products",
+      "shop",
+      "collections"
+    ]
   },
-  "generated_at": "2026-03-23T10:33:05.853070+00:00",
-  "score": 51,
+  "generated_at": "2026-03-24T10:10:34.405151+00:00",
+  "score": 71,
   "score_reasons": [
     "Contact method found",
-    "4 site page(s) captured"
+    "4 site page(s) captured",
+    "Site changed since last check"
   ],
   "has_contact": true
 }
