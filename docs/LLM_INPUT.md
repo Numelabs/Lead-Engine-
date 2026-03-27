@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-03-26T08:04:17.441768+00:00
+Generated at: 2026-03-27T08:01:45.961819+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -74,9 +74,9 @@ Contact: email=None form=https://reome.com/contact
 News mentions: None
 Site snippets:
 - homepage (https://reome.com)
-  REOME | Award-Winning Biotechnology Skincare Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Active Recovery Broth BESTSELLER Serum Concentrate Skin Evolution Set Bundle, Worth £140 Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator The Bio-Glow Duo Bundle, Worth £140 Three Suns Balm Award-winning Revitalising Cleanser The Extraordinary Skin Set Bundle, Worth £265 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose
+  REOME | Award-Winning Biotechnology Skincare Skip to content Free delivery with all UK orders over £60 Free Hydra-Plasma Veil when you spend £125 Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £140 The Bio-Glow Duo Bundle, Worth £140 The Extraordinary Skin Set Bundle, Worth £265 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellul
 - products (https://reome.com/products)
-  Collections – REOME Skip to content Free delivery with all UK orders over £60 All orders receive a complimentary gift Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Active Recovery Broth BESTSELLER Serum Concentrate Skin Evolution Set Bundle, Worth £140 Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator The Bio-Glow Duo Bundle, Worth £140 Three Suns Balm Award-winning Revitalising Cleanser The Extraordinary Skin Set Bundle, Worth £265 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hyd
+  Collections – REOME Skip to content Free delivery with all UK orders over £60 Free Hydra-Plasma Veil when you spend £125 Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £140 The Bio-Glow Duo Bundle, Worth £140 The Extraordinary Skin Set Bundle, Worth £265 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep 
 
 === BRAND 2 ===
 Name: Skin Rocks
@@ -84,7 +84,7 @@ Website: https://skinrocks.com
 Discovery query: watchlist
 Evidence link: 
 Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage, products, shop, collections
+Site changed flags: homepage, shop
 Contact: email=None form=https://skinrocks.com/products/the-eye-cream
 News mentions: None
 Site snippets:
