@@ -7,14 +7,8 @@
   "contact": {
     "primary_email": "",
     "other_emails": [],
-    "contact_form_url": "https://skinrocks.com/products/the-eye-cream",
-    "checked_pages": [
-      "https://skinrocks.com/sitemap.xml",
-      "https://skinrocks.com/products/the-eye-cream",
-      "https://skinrocks.com/products/the-flannel",
-      "https://skinrocks.com/products/the-antioxidant",
-      "https://skinrocks.com/products/the-cotton-rounds"
-    ]
+    "contact_form_url": "",
+    "checked_pages": []
   },
   "site": {
     "pages": {
@@ -48,12 +42,11 @@
       "shop"
     ]
   },
-  "generated_at": "2026-03-29T07:52:55.454305+00:00",
-  "score": 71,
+  "generated_at": "2026-03-30T08:22:25.482169+00:00",
+  "score": 36,
   "score_reasons": [
-    "Contact method found",
     "4 site page(s) captured",
     "Site changed since last check"
   ],
-  "has_contact": true
+  "has_contact": false
 }
