@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-03-31T08:10:39.325960+00:00
+Generated at: 2026-04-01T08:18:32.367363+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -69,7 +69,7 @@ Website: https://votary.co.uk
 Discovery query: watchlist
 Evidence link: 
 Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage, products, shop, collections
+Site changed flags: homepage, shop
 Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
 News mentions: None
 Site snippets:
@@ -84,14 +84,14 @@ Website: https://skinrocks.com
 Discovery query: watchlist
 Evidence link: 
 Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage, shop
+Site changed flags: homepage, products, shop, collections
 Contact: email=None form=https://skinrocks.com/products/the-eye-cream
 News mentions: None
 Site snippets:
 - homepage (https://skinrocks.com)
-  Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended BEST SELLER The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per BEST SELLER The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. 
+  Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. Regular price £15.00 Reg
 - products (https://skinrocks.com/products)
-  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended BEST SELLER The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per BEST SELLER The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. Regul
+  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. Regular price £15.00 Regular 
 
 === BRAND 3 ===
 Name: REOME
