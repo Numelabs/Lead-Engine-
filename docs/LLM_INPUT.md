@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-04-01T08:18:32.367363+00:00
+Generated at: 2026-04-02T08:09:11.609441+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -64,21 +64,6 @@ OFFER PRESETS (choose the best fit per brand):
 EVIDENCE SHORTLIST (do not browse; only use this):
 
 === BRAND 1 ===
-Name: Votary
-Website: https://votary.co.uk
-Discovery query: watchlist
-Evidence link: 
-Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage, shop
-Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
-News mentions: None
-Site snippets:
-- homepage (https://votary.co.uk)
-  VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders 20% OFF sitewide with code EASTER20 SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE WHY VOTARY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders 20% OFF sitewide with code EASTER20 Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Shower Gel. £35 Add Super Barrier Balm. £35 Add £0 Subtotal Tax included. Shipping calculated at checkout. Go to 
-- products (https://votary.co.uk/products)
-  Collections - VOTARY No duties, tariffs, or taxes on US orders 20% OFF sitewide with code EASTER20 SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE WHY VOTARY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders 20% OFF sitewide with code EASTER20 Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Shower Gel. £35 Add Super Barrier Balm. £35 Add £0 Subtotal Tax included. Shipping calculated at checkout. Go to cart SHOP FIND YOUR ROUTINE S
-
-=== BRAND 2 ===
 Name: Skin Rocks
 Website: https://skinrocks.com
 Discovery query: watchlist
@@ -89,11 +74,11 @@ Contact: email=None form=https://skinrocks.com/products/the-eye-cream
 News mentions: None
 Site snippets:
 - homepage (https://skinrocks.com)
-  Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. Regular price £15.00 Reg
+  Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended Save 20% EASTER OFFER The Eye Cream 15ml Regular price £56.00 Regular price £70.00 Sale price £56.00 Unit price / per Add to bag Regular price £56.00 Regular price £70.00 Sale price £56.00 Unit price / per Save 20% EASTER OFFER The Flannel One Pack Regular price £6.80 Regular price £8.50 Sale price £6.80 Unit price / per Add to bag Regular price £6.80 Regular price £8.50 Sale price £6.80 Unit price / per Save 20% EASTER OFFER The Antioxidant 30ml Regular price £60.00 Regular price £75.00 Sale price £60.00 Unit price / per Add to bag Regular price £60.00 Regular price 
 - products (https://skinrocks.com/products)
-  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Unit price / per Add to bag Regular price £70.00 Regular price Sale price £70.00 Unit price / per The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Unit price / per Add to bag Regular price £8.50 Regular price Sale price £8.50 Unit price / per The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Unit price / per Add to bag Regular price £75.00 Regular price Sale price £75.00 Unit price / per The Cotton Rounds Five rounds per pack. Regular price £15.00 Regular 
+  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended Save 20% EASTER OFFER The Eye Cream 15ml Regular price £56.00 Regular price £70.00 Sale price £56.00 Unit price / per Add to bag Regular price £56.00 Regular price £70.00 Sale price £56.00 Unit price / per Save 20% EASTER OFFER The Flannel One Pack Regular price £6.80 Regular price £8.50 Sale price £6.80 Unit price / per Add to bag Regular price £6.80 Regular price £8.50 Sale price £6.80 Unit price / per Save 20% EASTER OFFER The Antioxidant 30ml Regular price £60.00 Regular price £75.00 Sale price £60.00 Unit price / per Add to bag Regular price £60.00 Regular price £75.0
 
-=== BRAND 3 ===
+=== BRAND 2 ===
 Name: REOME
 Website: https://reome.com
 Discovery query: watchlist
@@ -107,5 +92,20 @@ Site snippets:
   REOME | Award-Winning Biotechnology Skincare Skip to content Free delivery with all UK orders over £60 Free Hydra-Plasma Veil when you spend £125 Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £140 The Bio-Glow Duo Bundle, Worth £140 The Extraordinary Skin Set Bundle, Worth £265 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellul
 - products (https://reome.com/products)
   Collections – REOME Skip to content Free delivery with all UK orders over £60 Free Hydra-Plasma Veil when you spend £125 Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £140 The Bio-Glow Duo Bundle, Worth £140 The Extraordinary Skin Set Bundle, Worth £265 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep 
+
+=== BRAND 3 ===
+Name: Votary
+Website: https://votary.co.uk
+Discovery query: watchlist
+Evidence link: 
+Score: 51 Reasons: Contact method found, 4 site page(s) captured
+Site changed flags: None
+Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
+News mentions: None
+Site snippets:
+- homepage (https://votary.co.uk)
+  VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders 20% OFF sitewide with code EASTER20 SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE WHY VOTARY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders 20% OFF sitewide with code EASTER20 Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Shower Gel. £35 Add Super Barrier Balm. £35 Add £0 Subtotal Tax included. Shipping calculated at checkout. Go to 
+- products (https://votary.co.uk/products)
+  Collections - VOTARY No duties, tariffs, or taxes on US orders 20% OFF sitewide with code EASTER20 SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE WHY VOTARY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders 20% OFF sitewide with code EASTER20 Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Shower Gel. £35 Add Super Barrier Balm. £35 Add £0 Subtotal Tax included. Shipping calculated at checkout. Go to cart SHOP FIND YOUR ROUTINE S
 
 
