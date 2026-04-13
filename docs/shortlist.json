@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T08:05:15.002125+00:00",
+  "generated_at": "2026-04-13T09:03:22.489049+00:00",
   "rules": {
     "requires_website": true,
     "requires_contact": true
@@ -58,7 +58,7 @@
           "shop"
         ]
       },
-      "generated_at": "2026-04-12T08:03:51.360647+00:00",
+      "generated_at": "2026-04-13T09:01:53.216096+00:00",
       "score": 71,
       "score_reasons": [
         "Contact method found",
@@ -76,9 +76,10 @@
       "contact": {
         "primary_email": "",
         "other_emails": [],
-        "contact_form_url": "https://reome.com/stockists",
+        "contact_form_url": "https://reome.com/contact",
         "checked_pages": [
           "https://reome.com/sitemap.xml",
+          "https://reome.com/contact",
           "https://reome.com/stockists",
           "https://reome.com/about",
           "https://reome.com/products/hydra-plasma-veil-5",
@@ -116,7 +117,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-04-12T08:03:09.538717+00:00",
+      "generated_at": "2026-04-13T09:01:10.811506+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -176,7 +177,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-04-12T08:03:30.921683+00:00",
+      "generated_at": "2026-04-13T09:01:33.124364+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
