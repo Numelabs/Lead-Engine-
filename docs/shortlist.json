@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T08:50:57.245484+00:00",
+  "generated_at": "2026-04-23T08:55:46.019630+00:00",
   "rules": {
     "requires_website": true,
     "requires_contact": true
@@ -60,12 +60,10 @@
         },
         "change_flags": [
           "homepage",
-          "products",
-          "shop",
-          "collections"
+          "shop"
         ]
       },
-      "generated_at": "2026-04-22T08:49:15.096968+00:00",
+      "generated_at": "2026-04-23T08:53:50.271862+00:00",
       "score": 71,
       "score_reasons": [
         "Contact method found",
@@ -121,10 +119,12 @@
         },
         "change_flags": [
           "homepage",
-          "shop"
+          "products",
+          "shop",
+          "collections"
         ]
       },
-      "generated_at": "2026-04-22T08:49:33.894273+00:00",
+      "generated_at": "2026-04-23T08:54:08.862292+00:00",
       "score": 71,
       "score_reasons": [
         "Contact method found",
@@ -183,7 +183,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-04-22T08:48:52.563202+00:00",
+      "generated_at": "2026-04-23T08:53:27.415548+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
