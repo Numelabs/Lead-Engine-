@@ -1,6 +1,65 @@
 {
-  "generated_at": "2026-05-15T09:48:14.986012+00:00",
+  "generated_at": "2026-05-16T08:47:34.269602+00:00",
   "brands": [
+    {
+      "brand_name": "Skin Rocks",
+      "matched_query": "watchlist",
+      "evidence_link": "",
+      "website": "https://skinrocks.com",
+      "news_mentions": [],
+      "contact": {
+        "primary_email": "store@skinrocks.com",
+        "other_emails": [],
+        "contact_form_url": "https://skinrocks.com/products/the-eye-cream",
+        "checked_pages": [
+          "https://skinrocks.com/sitemap.xml",
+          "https://skinrocks.com/products/the-eye-cream",
+          "https://skinrocks.com/products/the-flannel",
+          "https://skinrocks.com/products/the-antioxidant",
+          "https://skinrocks.com/products/the-cotton-rounds"
+        ]
+      },
+      "site": {
+        "pages": {
+          "homepage": "https://skinrocks.com",
+          "products": "https://skinrocks.com/products",
+          "shop": "https://skinrocks.com/shop",
+          "collections": "https://skinrocks.com/collections",
+          "press": "https://skinrocks.com/press",
+          "journal": "https://skinrocks.com/journal"
+        },
+        "fetched_pages": {
+          "homepage": {
+            "url": "https://skinrocks.com",
+            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Add to bag Regular price £70.00 Regular price Sale price £70.00 The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Add to bag Regular price £8.50 Regular price Sale price £8.50 The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Add to bag Regular price £75.00 Regular price Sale price £75.00 The Cotton Rounds Five rounds per pack. Regular price £15.00 Regular price Sale price £15.00 Add to bag Regular price £15.00 Regular price Sale price £15.00 Subtotal "
+          },
+          "products": {
+            "url": "https://skinrocks.com/products",
+            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Add to bag Regular price £70.00 Regular price Sale price £70.00 The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Add to bag Regular price £8.50 Regular price Sale price £8.50 The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Add to bag Regular price £75.00 Regular price Sale price £75.00 The Cotton Rounds Five rounds per pack. Regular price £15.00 Regular price Sale price £15.00 Add to bag Regular price £15.00 Regular price Sale price £15.00 Subtotal £0.00"
+          },
+          "shop": {
+            "url": "https://skinrocks.com/shop",
+            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Add to bag Regular price £70.00 Regular price Sale price £70.00 The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Add to bag Regular price £8.50 Regular price Sale price £8.50 The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Add to bag Regular price £75.00 Regular price Sale price £75.00 The Cotton Rounds Five rounds per pack. Regular price £15.00 Regular price Sale price £15.00 Add to bag Regular price £15.00 Regular price Sale price £15.00 Subtotal "
+          },
+          "collections": {
+            "url": "https://skinrocks.com/collections",
+            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Add to bag Regular price £70.00 Regular price Sale price £70.00 The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Add to bag Regular price £8.50 Regular price Sale price £8.50 The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Add to bag Regular price £75.00 Regular price Sale price £75.00 The Cotton Rounds Five rounds per pack. Regular price £15.00 Regular price Sale price £15.00 Add to bag Regular price £15.00 Regular price Sale price £15.00 Subtotal £0.00"
+          }
+        },
+        "change_flags": [
+          "homepage",
+          "shop"
+        ]
+      },
+      "generated_at": "2026-05-16T08:48:10.383171+00:00",
+      "score": 71,
+      "score_reasons": [
+        "Contact method found",
+        "4 site page(s) captured",
+        "Site changed since last check"
+      ],
+      "has_contact": true
+    },
     {
       "brand_name": "REOME",
       "matched_query": "watchlist",
@@ -49,19 +108,13 @@
             "snippet": "Collections – REOME Skip to content Complimentary UK shipping with orders over £60 Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose shee"
           }
         },
-        "change_flags": [
-          "homepage",
-          "products",
-          "shop",
-          "collections"
-        ]
+        "change_flags": []
       },
-      "generated_at": "2026-05-15T09:48:14.986098+00:00",
-      "score": 71,
+      "generated_at": "2026-05-16T08:47:34.269695+00:00",
+      "score": 51,
       "score_reasons": [
         "Contact method found",
-        "4 site page(s) captured",
-        "Site changed since last check"
+        "4 site page(s) captured"
       ],
       "has_contact": true
     },
@@ -115,70 +168,9 @@
             "snippet": "Collections - VOTARY No duties, tariffs, or taxes on US orders FREE Blemish Rescue Oil with orders over £50* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Blemish Rescue Oil with orders over £50* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your Cart is Empty Co"
           }
         },
-        "change_flags": [
-          "homepage",
-          "products",
-          "shop",
-          "collections"
-        ]
-      },
-      "generated_at": "2026-05-15T09:48:33.016861+00:00",
-      "score": 71,
-      "score_reasons": [
-        "Contact method found",
-        "4 site page(s) captured",
-        "Site changed since last check"
-      ],
-      "has_contact": true
-    },
-    {
-      "brand_name": "Skin Rocks",
-      "matched_query": "watchlist",
-      "evidence_link": "",
-      "website": "https://skinrocks.com",
-      "news_mentions": [],
-      "contact": {
-        "primary_email": "store@skinrocks.com",
-        "other_emails": [],
-        "contact_form_url": "https://skinrocks.com/products/the-eye-cream",
-        "checked_pages": [
-          "https://skinrocks.com/sitemap.xml",
-          "https://skinrocks.com/products/the-eye-cream",
-          "https://skinrocks.com/products/the-flannel",
-          "https://skinrocks.com/products/the-antioxidant",
-          "https://skinrocks.com/products/the-cotton-rounds"
-        ]
-      },
-      "site": {
-        "pages": {
-          "homepage": "https://skinrocks.com",
-          "products": "https://skinrocks.com/products",
-          "shop": "https://skinrocks.com/shop",
-          "collections": "https://skinrocks.com/collections",
-          "press": "https://skinrocks.com/press",
-          "journal": "https://skinrocks.com/journal"
-        },
-        "fetched_pages": {
-          "homepage": {
-            "url": "https://skinrocks.com",
-            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Add to bag Regular price £70.00 Regular price Sale price £70.00 The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Add to bag Regular price £8.50 Regular price Sale price £8.50 The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Add to bag Regular price £75.00 Regular price Sale price £75.00 The Cotton Rounds Five rounds per pack. Regular price £15.00 Regular price Sale price £15.00 Add to bag Regular price £15.00 Regular price Sale price £15.00 Subtotal "
-          },
-          "products": {
-            "url": "https://skinrocks.com/products",
-            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Add to bag Regular price £70.00 Regular price Sale price £70.00 The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Add to bag Regular price £8.50 Regular price Sale price £8.50 The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Add to bag Regular price £75.00 Regular price Sale price £75.00 The Cotton Rounds Five rounds per pack. Regular price £15.00 Regular price Sale price £15.00 Add to bag Regular price £15.00 Regular price Sale price £15.00 Subtotal £0.00"
-          },
-          "shop": {
-            "url": "https://skinrocks.com/shop",
-            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Add to bag Regular price £70.00 Regular price Sale price £70.00 The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Add to bag Regular price £8.50 Regular price Sale price £8.50 The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Add to bag Regular price £75.00 Regular price Sale price £75.00 The Cotton Rounds Five rounds per pack. Regular price £15.00 Regular price Sale price £15.00 Add to bag Regular price £15.00 Regular price Sale price £15.00 Subtotal "
-          },
-          "collections": {
-            "url": "https://skinrocks.com/collections",
-            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Recommended The Eye Cream 15ml Regular price £70.00 Regular price Sale price £70.00 Add to bag Regular price £70.00 Regular price Sale price £70.00 The Flannel One Pack Regular price £8.50 Regular price Sale price £8.50 Add to bag Regular price £8.50 Regular price Sale price £8.50 The Antioxidant 30ml Regular price £75.00 Regular price Sale price £75.00 Add to bag Regular price £75.00 Regular price Sale price £75.00 The Cotton Rounds Five rounds per pack. Regular price £15.00 Regular price Sale price £15.00 Add to bag Regular price £15.00 Regular price Sale price £15.00 Subtotal £0.00"
-          }
-        },
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:48:50.751945+00:00",
+      "generated_at": "2026-05-16T08:47:54.090462+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -187,13 +179,43 @@
       "has_contact": true
     },
     {
-      "brand_name": "P.Louise teams with Boots as",
+      "brand_name": "Viral beauty brand P Louise",
+      "matched_query": "UK beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNUlrZS16aVlhbXhWekd0UGZmQ2o3ZW9ZWWREb0dzcFdRSXJLN2lLeHAxdWZxZ1hyTzhUR0ltRWhYUTVaNHJZdTRGdERkS1cyWUU2OGxaMG12cWRnejQySmNNLXBHczNYc3k5MXUzM29iWGlBd2ZHTzhNVWdwblpVOXZVVFI4TXdwd0kxYkJFV2lvVmV6MFHSAZsBQVVfeXFMTWhzanlTaVVubnBsWE1DV0t6WGppVV9DZFpGZFQ5THllRTU4R1RnX3llWUNDaU8wUDd6VmgxT0UzQU5Va1lzVUV3NXExWmloTW4waGgzdHBDZ19VamtwMFlvcktVTWhObUZYZW02Y3cyM0tza0NELVNWY01TaGZvN3Z0VmRnNHNORFBmeFJkcGJsaGpESV81TkFnOFU?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Viral beauty brand P Louise to be stocked in Edinburgh and Glasgow Boots stores for first time - Daily Record",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNUlrZS16aVlhbXhWekd0UGZmQ2o3ZW9ZWWREb0dzcFdRSXJLN2lLeHAxdWZxZ1hyTzhUR0ltRWhYUTVaNHJZdTRGdERkS1cyWUU2OGxaMG12cWRnejQySmNNLXBHczNYc3k5MXUzM29iWGlBd2ZHTzhNVWdwblpVOXZVVFI4TXdwd0kxYkJFV2lvVmV6MFHSAZsBQVVfeXFMTWhzanlTaVVubnBsWE1DV0t6WGppVV9DZFpGZFQ5THllRTU4R1RnX3llWUNDaU8wUDd6VmgxT0UzQU5Va1lzVUV3NXExWmloTW4waGgzdHBDZ19VamtwMFlvcktVTWhObUZYZW02Y3cyM0tza0NELVNWY01TaGZvN3Z0VmRnNHNORFBmeFJkcGJsaGpESV81TkFnOFU?oc=5",
+          "published": "Fri, 15 May 2026 15:30:59 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:48:29.522885+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "P.Louise partners with Boots as",
       "matched_query": "UK beauty brand launch",
       "evidence_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZUtIdkdoTWJNNGN0N0RCTVgxdmxlaThidGwtcFFuQUJfY0ZPMm1EN05LWkh6ZVloV3BYSndMX0Rib0lQN0JBVm8zVzNPX21IWDAzLXU0emxVa2MzVTZwbkh3WldvcTZPVTVJZkxNS3YycmtsTUJEdjJyMlBuelROZGtDSmhOYmJvNzY1SWo2QzMtMzU3c3FlVU9ya3M2YjA1VkRCYlo1TmtvUkRJTkdCeV95RFJYWlZWRmVMNnhNdXo4bmdqSUhGdUFEam5XbVdHaEw0TzVEVjJIWmZOUzRKZFg5TnpaZEE?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "P.Louise teams with Boots as social first beauty brand makes exclusive entrance on the high street - Retail Technology Innovation Hub",
+          "title": "P.Louise partners with Boots as British social first beauty brand makes its exclusive entrance on the high street - Retail Technology Innovation Hub",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZUtIdkdoTWJNNGN0N0RCTVgxdmxlaThidGwtcFFuQUJfY0ZPMm1EN05LWkh6ZVloV3BYSndMX0Rib0lQN0JBVm8zVzNPX21IWDAzLXU0emxVa2MzVTZwbkh3WldvcTZPVTVJZkxNS3YycmtsTUJEdjJyMlBuelROZGtDSmhOYmJvNzY1SWo2QzMtMzU3c3FlVU9ya3M2YjA1VkRCYlo1TmtvUkRJTkdCeV95RFJYWlZWRmVMNnhNdXo4bmdqSUhGdUFEam5XbVdHaEw0TzVEVjJIWmZOUzRKZFg5TnpaZEE?oc=5",
           "published": "Fri, 15 May 2026 04:06:22 GMT"
         }
@@ -209,7 +231,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:09.506908+00:00",
+      "generated_at": "2026-05-16T08:48:30.707311+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -239,7 +261,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:10.966270+00:00",
+      "generated_at": "2026-05-16T08:48:32.235580+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "We tried all the Jones",
+      "matched_query": "UK beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFVkMXRDekdtNENWTENiaXN0Z0pzeGZzY25RZU80OGRaV3ZwREQzeFFhUVh3OE5QemtqWTk1ODFEUEhwVEoyNkRkYnZvcWU1YmJPQzdzMmxodS1QVDllakNBbXJGcjNkMlpqcnF0N0NjSm5yeTVYY1ZpZmZKbURyWA?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "We tried all the Jones Road makeup products and these 13 are worth buying - Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFVkMXRDekdtNENWTENiaXN0Z0pzeGZzY25RZU80OGRaV3ZwREQzeFFhUVh3OE5QemtqWTk1ODFEUEhwVEoyNkRkYnZvcWU1YmJPQzdzMmxodS1QVDllakNBbXJGcjNkMlpqcnF0N0NjSm5yeTVYY1ZpZmZKbURyWA?oc=5",
+          "published": "Tue, 12 May 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:48:33.512992+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -269,7 +321,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:12.102985+00:00",
+      "generated_at": "2026-05-16T08:48:34.774784+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "We're picky about products, but",
+      "matched_query": "UK beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoTEFranhTVjg4dlB4NWdmQUFiM1dkcFZrME9RQkxoOTRIdjZxSDZsRDVEd1FiQWt5NHNqY2daM29DOHU3cG03YURPSVo4ZnRHSjlRcmtjc2RDYkd1MC1wdDJNcW5EWkwxZGpOZGJfM2xDRlpWTjRoT0hhak4?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "We're picky about products, but these 13 new beauty launches really dazzled our team in April - Woman & Home",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoTEFranhTVjg4dlB4NWdmQUFiM1dkcFZrME9RQkxoOTRIdjZxSDZsRDVEd1FiQWt5NHNqY2daM29DOHU3cG03YURPSVo4ZnRHSjlRcmtjc2RDYkd1MC1wdDJNcW5EWkwxZGpOZGJfM2xDRlpWTjRoT0hhak4?oc=5",
+          "published": "Thu, 30 Apr 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:48:36.323922+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -299,7 +381,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:13.302214+00:00",
+      "generated_at": "2026-05-16T08:48:37.000877+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -329,7 +411,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:14.520706+00:00",
+      "generated_at": "2026-05-16T08:48:38.157014+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -359,7 +441,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:16.115692+00:00",
+      "generated_at": "2026-05-16T08:48:39.725261+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -389,7 +471,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:17.925582+00:00",
+      "generated_at": "2026-05-16T08:48:40.789551+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -403,7 +485,7 @@
       "website": "",
       "news_mentions": [
         {
-          "title": "US Beauty Brand Merit Launching in Spain and Italy - Retail & Leisure International",
+          "title": "US Beauty Brand Merit Launching in Spain and Italy - rli.uk.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWdNalR1VTE4VnBidlJLQ25WWmZ1VjNvcjJaWDhGeW5vQlBvU3NTLWZUekc1Q2FuQ2dsWmtucmtZTXpFbWRKcWlfOG1fYzlSazZCWWF5Zk9MVEhqRXlfYy0zcWo0Vm1LYmtVZ3pjcndsc094S3VJbmdERmd0X21Md2tVLU5RRlBUTmdScVlvSDdtbUxULUNqUA?oc=5",
           "published": "Thu, 29 Jan 2026 08:00:00 GMT"
         }
@@ -419,7 +501,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:18.951594+00:00",
+      "generated_at": "2026-05-16T08:48:42.522140+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -449,97 +531,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:20.823010+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Dr Sam’s accelerates UK expansion",
-      "matched_query": "UK beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUlpLZzNhT1NOd3RKMjhMRGZaaXZWR1F6dkZyMzlTblNsYmVfdGdKTHJlcTQ5bGdIOXl0NXh5ZDd5TXZPYS1SWkw5NWdiMUk3Zi0xUVROaTdMRHFlaU1EUWRhUkZ6NC1iZV9KcEoyaW1aYmpKX3dOZUxXemhXLXdxcmVaZXFJRVh3?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Dr Sam’s accelerates UK expansion with Space NK launch - TheIndustry.beauty",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUlpLZzNhT1NOd3RKMjhMRGZaaXZWR1F6dkZyMzlTblNsYmVfdGdKTHJlcTQ5bGdIOXl0NXh5ZDd5TXZPYS1SWkw5NWdiMUk3Zi0xUVROaTdMRHFlaU1EUWRhUkZ6NC1iZV9KcEoyaW1aYmpKX3dOZUxXemhXLXdxcmVaZXFJRVh3?oc=5",
-          "published": "Tue, 10 Feb 2026 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:49:22.390025+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "MAC Cosmetics’ big bet on",
-      "matched_query": "UK beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDdkNmtMVkdLY2xzR1FLa0RtOTBrTWpLZnlpQVNjTndsUHg0ZTBPZlU0LXJBYkc0d21tMDk1SnZ2dnlxZHpBYlM0ZkNRbXp1YUYyNWRFYi1ZLXdjOFhMaXJCX1lZTFRxa0FWaV90NHByWko4QUNLdWt3ZGZUb05HdjA0TmRBVkRhaWJpNg?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "MAC Cosmetics’ big bet on TikTok Shop UK is beginning to pay off, but can it last? - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDdkNmtMVkdLY2xzR1FLa0RtOTBrTWpLZnlpQVNjTndsUHg0ZTBPZlU0LXJBYkc0d21tMDk1SnZ2dnlxZHpBYlM0ZkNRbXp1YUYyNWRFYi1ZLXdjOFhMaXJCX1lZTFRxa0FWaV90NHByWko4QUNLdWt3ZGZUb05HdjA0TmRBVkRhaWJpNg?oc=5",
-          "published": "Thu, 16 Apr 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:49:23.901311+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Juice Intimate Care Brand Launches",
-      "matched_query": "UK beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LbmNJOEhYbF9WUjZldWQ5OHl5NU00V3NDandNMVUtQ0ZJUzNMd21veWt1TnI1STFOb1E1UzZqcWlWV0tTcGItcEp4MnROY1lvUl9nMnRyUTlyWWdqMHJQVUhDcHNLelZWa1Nkcl9pM0hFVFdEeHozOUp3?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Juice Intimate Care Brand Launches With Insertable Melts - BeautyNewsDaily",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LbmNJOEhYbF9WUjZldWQ5OHl5NU00V3NDandNMVUtQ0ZJUzNMd21veWt1TnI1STFOb1E1UzZqcWlWV0tTcGItcEp4MnROY1lvUl9nMnRyUTlyWWdqMHJQVUhDcHNLelZWa1Nkcl9pM0hFVFdEeHozOUp3?oc=5",
-          "published": "Fri, 17 Apr 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:49:25.148096+00:00",
+      "generated_at": "2026-05-16T08:48:43.808114+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -569,7 +561,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:26.880090+00:00",
+      "generated_at": "2026-05-16T08:48:45.311496+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -577,15 +569,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Beauty brand Merit steps up",
+      "brand_name": "Akt London Expands into Sephora",
       "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOblFrTy03eUZ2SldIcTlhb0wzRFdDWmI3RXktUDIxYlBWbkpFY0hxXzJJSGxRSDJ3VXFWem9YXy13Qmx6SFRGMDFST0Y0VkRidDh1Vl9ZNXFXcTdTV2NWSjNXVjdQZDJfQXBPSHAzOE9faUJaMDltWkwwc29OOGpzVFJsNFhUX05KQ3J1UlBpeW9ieHdjb1Ixd25ybEJDMTBxVkZ4RGY2OEFqWkxXeXM0d285NDNQVWJIc3Y0NTVJNDY4VFBsamYxQXJMeHg?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTEZfZ0R0NzIxczNJZUlUV1B5M2JUcENIR0dUSm1hRnFKR3ZQU3V1YWNFX2w0RUpLYlJfTUFHRUcybkNwaHgyX3dnSE9ZSzd6b2VETS0xb1dWbzFZQXBDR3R4NXZkQjRhV2V5X3M2cVRzMmpBWkZtRlZVS2o5eHVaZHNJQnlXUzBmeDBuMURHTjl1T3duUlE?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Beauty brand Merit steps up its international expansion, launching in Spain and Italy - FashionNetwork France",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOblFrTy03eUZ2SldIcTlhb0wzRFdDWmI3RXktUDIxYlBWbkpFY0hxXzJJSGxRSDJ3VXFWem9YXy13Qmx6SFRGMDFST0Y0VkRidDh1Vl9ZNXFXcTdTV2NWSjNXVjdQZDJfQXBPSHAzOE9faUJaMDltWkwwc29OOGpzVFJsNFhUX05KQ3J1UlBpeW9ieHdjb1Ixd25ybEJDMTBxVkZ4RGY2OEFqWkxXeXM0d285NDNQVWJIc3Y0NTVJNDY4VFBsamYxQXJMeHg?oc=5",
-          "published": "Wed, 28 Jan 2026 08:00:00 GMT"
+          "title": "Akt London Expands into Sephora with U.S. Retail Launch - Global Cosmetics News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTEZfZ0R0NzIxczNJZUlUV1B5M2JUcENIR0dUSm1hRnFKR3ZQU3V1YWNFX2w0RUpLYlJfTUFHRUcybkNwaHgyX3dnSE9ZSzd6b2VETS0xb1dWbzFZQXBDR3R4NXZkQjRhV2V5X3M2cVRzMmpBWkZtRlZVS2o5eHVaZHNJQnlXUzBmeDBuMURHTjl1T3duUlE?oc=5",
+          "published": "Fri, 13 Mar 2026 07:00:00 GMT"
         }
       ],
       "contact": {
@@ -599,37 +591,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:28.109796+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "In Review 2025: This year's",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43eXpFbXdlc25WT3ppUU1yNzUzeFlTbWl0dEZXTFdDVURhSVR3bzY3bmFMN1dqb0drQ0gydlNyNWlkREV1dUFJR2pPcTFNRktZYjE5SldPeXVrVXlweHJDWXF5bzNwVkVhLVRobDBEZUNiMEFMMjBVUi1tbEE1dw?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "In Review 2025: This year's big beauty launches - TheIndustry.beauty",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43eXpFbXdlc25WT3ppUU1yNzUzeFlTbWl0dEZXTFdDVURhSVR3bzY3bmFMN1dqb0drQ0gydlNyNWlkREV1dUFJR2pPcTFNRktZYjE5SldPeXVrVXlweHJDWXF5bzNwVkVhLVRobDBEZUNiMEFMMjBVUi1tbEE1dw?oc=5",
-          "published": "Mon, 29 Dec 2025 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:49:29.882832+00:00",
+      "generated_at": "2026-05-16T08:48:45.943562+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -659,7 +621,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:31.703620+00:00",
+      "generated_at": "2026-05-16T08:48:46.849879+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Talks, Pop Ups And Freebies:",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zQU5VeXdFRjZTOXF6aVJmUXlWMmxvc0ZQa0luR1BMR214Y1ZyNUQ1TV92QmNhR0xrcDlZMWk5R3kzTFNsaG9EcDVILVVqdFkwOU9hU0xTb0hqeFloTy16N1lqaU1zWGJ1ZDViOTdPMnFqb3JOaGdpaXNNekdqdw?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Talks, Pop Ups And Freebies: The Best London Beauty Events To Attend Now - Grazia Daily UK",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zQU5VeXdFRjZTOXF6aVJmUXlWMmxvc0ZQa0luR1BMR214Y1ZyNUQ1TV92QmNhR0xrcDlZMWk5R3kzTFNsaG9EcDVILVVqdFkwOU9hU0xTb0hqeFloTy16N1lqaU1zWGJ1ZDViOTdPMnFqb3JOaGdpaXNNekdqdw?oc=5",
+          "published": "Tue, 24 Mar 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:48:48.473626+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -689,7 +681,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:32.482650+00:00",
+      "generated_at": "2026-05-16T08:48:49.389091+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -719,7 +711,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:34.387414+00:00",
+      "generated_at": "2026-05-16T08:48:49.980232+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Editor’s Picks: The Best Beauty",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhVzRSSDR2ZkUzbWVUM1RvcmJZLVdvQ01ac0NRWTVpblFuR0k4cFVLbmh6YnRXQzhINFFiNFMwbElmUjRoNWl3X0JHMjhMWG1xLVNMOXBHN2VzeFhwdHJfNkU4Ny1JZzdmLWpjcVVjM0xTRWlPUGlyZ1FqWXQ?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Editor’s Picks: The Best Beauty Pop-Ups of 2025 - BeautyMatter",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhVzRSSDR2ZkUzbWVUM1RvcmJZLVdvQ01ac0NRWTVpblFuR0k4cFVLbmh6YnRXQzhINFFiNFMwbElmUjRoNWl3X0JHMjhMWG1xLVNMOXBHN2VzeFhwdHJfNkU4Ny1JZzdmLWpjcVVjM0xTRWlPUGlyZ1FqWXQ?oc=5",
+          "published": "Thu, 25 Dec 2025 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:48:51.013699+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -749,37 +771,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:35.579049+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "CurrentBody and Trinny London team",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnRoM2JuQjdZUWpxQVVMNGlGQUFSQy1hdVZVcUN2d3dIanM2SlMzOFQ3cU40TklVZXVkcjNFZ29xcTBwOVJzSHVwYnU1WFJTcFUyYmRQWmxQN3VSa2hTZ2VjWkhrVnotbV90Z0FDR2dLRUFsSHVURUFGcUFuWmNGR1BvVV9Rczg?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "CurrentBody and Trinny London team up to launch skin care and tech bundles - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnRoM2JuQjdZUWpxQVVMNGlGQUFSQy1hdVZVcUN2d3dIanM2SlMzOFQ3cU40TklVZXVkcjNFZ29xcTBwOVJzSHVwYnU1WFJTcFUyYmRQWmxQN3VSa2hTZ2VjWkhrVnotbV90Z0FDR2dLRUFsSHVURUFGcUFuWmNGR1BvVV9Rczg?oc=5",
-          "published": "Tue, 10 Feb 2026 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:49:36.823485+00:00",
+      "generated_at": "2026-05-16T08:48:51.997408+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -809,7 +801,67 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:37.831722+00:00",
+      "generated_at": "2026-05-16T08:48:53.266244+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "CurrentBody and Trinny London team",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnRoM2JuQjdZUWpxQVVMNGlGQUFSQy1hdVZVcUN2d3dIanM2SlMzOFQ3cU40TklVZXVkcjNFZ29xcTBwOVJzSHVwYnU1WFJTcFUyYmRQWmxQN3VSa2hTZ2VjWkhrVnotbV90Z0FDR2dLRUFsSHVURUFGcUFuWmNGR1BvVV9Rczg?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "CurrentBody and Trinny London team up to launch skin care and tech bundles - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnRoM2JuQjdZUWpxQVVMNGlGQUFSQy1hdVZVcUN2d3dIanM2SlMzOFQ3cU40TklVZXVkcjNFZ29xcTBwOVJzSHVwYnU1WFJTcFUyYmRQWmxQN3VSa2hTZ2VjWkhrVnotbV90Z0FDR2dLRUFsSHVURUFGcUFuWmNGR1BvVV9Rczg?oc=5",
+          "published": "Tue, 10 Feb 2026 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:48:54.470772+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "RIMAN Officially Launches in London,",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMjNLT2l1LWUxTWltbVNvYW1iWVEwR2J3emp1dy1DeFozWHVvTXRxbVYxRnMwTEdhRTlmY0ZHYVRlZlBPMGEydjNPSE9kbVhETnJ3VVhxbXRNSnpYbzNGZGM4ZDdpMloyQzFCSEcwSjUyN0ZwTjJrRzBRdjBacGE3VUFJUWVwSngzbHRpWFZXcDBOd1Y2T09ySUZwMXJMZ0ZSZ2dudG9IQnRRT2cyb0hqX0V1bWpiRFdVRFZicTNhS0d6dzFiYVhXZE1BcUo?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "RIMAN Officially Launches in London, Setting the Stage for European Market Growth - PA Media",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMjNLT2l1LWUxTWltbVNvYW1iWVEwR2J3emp1dy1DeFozWHVvTXRxbVYxRnMwTEdhRTlmY0ZHYVRlZlBPMGEydjNPSE9kbVhETnJ3VVhxbXRNSnpYbzNGZGM4ZDdpMloyQzFCSEcwSjUyN0ZwTjJrRzBRdjBacGE3VUFJUWVwSngzbHRpWFZXcDBOd1Y2T09ySUZwMXJMZ0ZSZ2dudG9IQnRRT2cyb0hqX0V1bWpiRFdVRFZicTNhS0d6dzFiYVhXZE1BcUo?oc=5",
+          "published": "Thu, 23 Oct 2025 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:48:55.707036+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -839,7 +891,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:39.450590+00:00",
+      "generated_at": "2026-05-16T08:48:56.938758+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -847,75 +899,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Sephora UK to launch new",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOXy1tdFV3a1R4OEw0Y1JhUEpBcDdxajZQNzNaV3d5Z2M3N2laS095OTZubGVGMjY3ZmRGNmh4UDQ4YmFRWGpIenlnV0poWlZKbmNkWFBMV19mWElMYzhlSy16NFI5SDdrNTE3VHQ1TlJuVkQzZHp4MXZVbnFpcHBiTEZiTQ?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Sephora UK to launch new boutique store concept this summer to accelerate growth - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOXy1tdFV3a1R4OEw0Y1JhUEpBcDdxajZQNzNaV3d5Z2M3N2laS095OTZubGVGMjY3ZmRGNmh4UDQ4YmFRWGpIenlnV0poWlZKbmNkWFBMV19mWElMYzhlSy16NFI5SDdrNTE3VHQ1TlJuVkQzZHp4MXZVbnFpcHBiTEZiTQ?oc=5",
-          "published": "Tue, 24 Feb 2026 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:49:40.128991+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Inside Beauty Pie’s biggest launch",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZm9PVGtZY3J1NzJnbVItb2ZWcmZTZnM5M0FJTHBEenVMcXluYjJudWk0Qy1wUDhvcXVsVWZIV3lmUWxsb1FDRVZWUk1QX1lKY2M1Z205cmZsVVh3SDdXbWV3SEkzOTdld0lXRWFiZlFrY055Y1VUUGtiS3RrS0VGR24xY1Nuc1JGWmFaQk9CR0NuVG84X3p0bWdEcHdNTXR5cUZGWWJHTE13VWNfTEFCdC1pdGZ5YXpWSUE?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Inside Beauty Pie’s biggest launch of 2025: CMO talks product, pop-up and customer connection - TheIndustry.beauty",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZm9PVGtZY3J1NzJnbVItb2ZWcmZTZnM5M0FJTHBEenVMcXluYjJudWk0Qy1wUDhvcXVsVWZIV3lmUWxsb1FDRVZWUk1QX1lKY2M1Z205cmZsVVh3SDdXbWV3SEkzOTdld0lXRWFiZlFrY055Y1VUUGtiS3RrS0VGR24xY1Nuc1JGWmFaQk9CR0NuVG84X3p0bWdEcHdNTXR5cUZGWWJHTE13VWNfTEFCdC1pdGZ5YXpWSUE?oc=5",
-          "published": "Fri, 19 Sep 2025 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:49:41.716943+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "The Best Beauty Products Of",
+      "brand_name": "The Beauty Edit: The best",
       "matched_query": "new beauty brand UK",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mdFRLY1JTeVM3VlR5dDJ0QWtjNTVqM01LYzU2aGpCZEhhamJ2S045d2FudjhPMXFwRURDdFdfaW9TWlJjLXNXVENZVHY2bTZCQk1adFJVR25mWENWYWVIU3dxX2YwOXBh?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHV0YVVISFQzZnNfbVB5em9oa0dZOHdCMDA4RV91SnZBNzN2U2hmeWFFcV9BZWlGR185czhGaDZ0dnM0VE9pU2R0cnMtS2VFUVplc2VQT1B2RnlvZXlpWTRMMDV4bkRYSzZaNlJPdmVhRkVpeTNnUTN5Rk1GU3FhNXZ1R2tLaXdzc1NNQjFQdw?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "The Best Beauty Products Of 2025, According To British Vogue’s Beauty Team - British Vogue",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mdFRLY1JTeVM3VlR5dDJ0QWtjNTVqM01LYzU2aGpCZEhhamJ2S045d2FudjhPMXFwRURDdFdfaW9TWlJjLXNXVENZVHY2bTZCQk1adFJVR25mWENWYWVIU3dxX2YwOXBh?oc=5",
-          "published": "Thu, 25 Dec 2025 08:00:00 GMT"
+          "title": "The Beauty Edit: The best new makeup and skincare to buy now - Luxury London",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHV0YVVISFQzZnNfbVB5em9oa0dZOHdCMDA4RV91SnZBNzN2U2hmeWFFcV9BZWlGR185czhGaDZ0dnM0VE9pU2R0cnMtS2VFUVplc2VQT1B2RnlvZXlpWTRMMDV4bkRYSzZaNlJPdmVhRkVpeTNnUTN5Rk1GU3FhNXZ1R2tLaXdzc1NNQjFQdw?oc=5",
+          "published": "Thu, 30 Apr 2026 07:00:00 GMT"
         }
       ],
       "contact": {
@@ -929,127 +921,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:42.992108+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Brilliant British beauty brands to",
-      "matched_query": "new beauty brand UK",
-      "evidence_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2NBRUM2SmdQeE9HdVllS2M4RkVlQ0NHNldoNHhUTi1tMzlZYm9Gb0l3MUVJWnBHV3Nxamp6ZHNQRnBOSkdJNXNwUWluYVRVa3JyVGx2Z3Zfbmdnc05FY0pSVmNwZlVtMFRIMVF3QnBTd1JsY1kxZTYyelAwMTZ4YnJZT1VRalNiQU1VMG9kcjdURDg?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Brilliant British beauty brands to shop now - Luxury London",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2NBRUM2SmdQeE9HdVllS2M4RkVlQ0NHNldoNHhUTi1tMzlZYm9Gb0l3MUVJWnBHV3Nxamp6ZHNQRnBOSkdJNXNwUWluYVRVa3JyVGx2Z3Zfbmdnc05FY0pSVmNwZlVtMFRIMVF3QnBTd1JsY1kxZTYyelAwMTZ4YnJZT1VRalNiQU1VMG9kcjdURDg?oc=5",
-          "published": "Wed, 24 Sep 2025 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:49:44.583893+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Boots releases 2026 Beauty &",
-      "matched_query": "new beauty brand UK",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMHBXVXNXc3dJMmZMS29rS2hrVzF3cGozd3NfeW5rTUgxX2poczhHTUxpcFBFMGxjOFU0VmZVY1pDaGF0ejJXZGZUb1k5Tm1XM083blRzQnAyd1NRN2tnMXYzZEN3UGJrcmRKd3RSUFoxeTBtWDVrb0l6b1BudENYcDdwZ21IM0tLc2I3Q0owLUlQcUhmSDJzbnNfelhaZktJNGZfNFYxZkIzQldMWFJ3eUZMaTZqdU51aFd2d0JSblI4SXFUS3dleXRR?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Boots releases 2026 Beauty & Wellness Trends Report alongside line‑up of trending new brands - boots-uk.com",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMHBXVXNXc3dJMmZMS29rS2hrVzF3cGozd3NfeW5rTUgxX2poczhHTUxpcFBFMGxjOFU0VmZVY1pDaGF0ejJXZGZUb1k5Tm1XM083blRzQnAyd1NRN2tnMXYzZEN3UGJrcmRKd3RSUFoxeTBtWDVrb0l6b1BudENYcDdwZ21IM0tLc2I3Q0owLUlQcUhmSDJzbnNfelhaZktJNGZfNFYxZkIzQldMWFJ3eUZMaTZqdU51aFd2d0JSblI4SXFUS3dleXRR?oc=5",
-          "published": "Thu, 12 Feb 2026 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:49:45.877877+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "The Makeup Brands Currently Commanding",
-      "matched_query": "new beauty brand UK",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDRUb2hqT2lMTGRWWmFIcDhBa1JxZWlQR1ZWUVlIVWhTaTdWaGE2U1lKeklYOVhhSUNZM25ieG9QMldMVTZIQVZva05XQlFCVUtyc21oV0tqOFp2Yld5azZXaTJ5NklaSlZHTXhpM0NXOFJSXzZWQXViSFZrZnlqOGdrTjdHQmI1?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "The Makeup Brands Currently Commanding My Attention as a Beauty Insider - Marie Claire UK",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDRUb2hqT2lMTGRWWmFIcDhBa1JxZWlQR1ZWUVlIVWhTaTdWaGE2U1lKeklYOVhhSUNZM25ieG9QMldMVTZIQVZva05XQlFCVUtyc21oV0tqOFp2Yld5azZXaTJ5NklaSlZHTXhpM0NXOFJSXzZWQXViSFZrZnlqOGdrTjdHQmI1?oc=5",
-          "published": "Mon, 26 Jan 2026 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:49:47.739460+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Major British beauty brands set",
-      "matched_query": "new beauty brand UK",
-      "evidence_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2RPN1JwOUtVTEIxTElxNDNDZFlyQ0NlT1hvX3ppTzV6SmgxclV5NVNFcVB6ZE5aQi05aVV6XzhiYUc4UFpLQm9waG5qdUtPdmRyejh3UXlpRWhRVFpxeElrb2E2YzBmbXRieDNydFZsa3gwRmZubm5jN0kzUEtXbVB3eUhaRHYwc01BbWdUWng3YzJQRXB1R0ZYNElMV2RETDlBOA?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Major British beauty brands set to showcase at Cosmoprof India 2025 - GOV.UK",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2RPN1JwOUtVTEIxTElxNDNDZFlyQ0NlT1hvX3ppTzV6SmgxclV5NVNFcVB6ZE5aQi05aVV6XzhiYUc4UFpLQm9waG5qdUtPdmRyejh3UXlpRWhRVFpxeElrb2E2YzBmbXRieDNydFZsa3gwRmZubm5jN0kzUEtXbVB3eUhaRHYwc01BbWdUWng3YzJQRXB1R0ZYNElMV2RETDlBOA?oc=5",
-          "published": "Mon, 01 Dec 2025 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:49:48.758748+00:00",
+      "generated_at": "2026-05-16T08:48:58.128861+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1079,67 +951,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:50.591333+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Popular UK beauty shop to",
-      "matched_query": "new beauty brand UK",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQWZDc2hscHg1QXloVHd6Z0w2V0xsYXpDc3Q4X2hMMVQ1Zk1JemtuMHVJdzZkWGQ0R05mekgxZGpRdHJXVFB4Y21YTXdSd3Y3d0tfR0FaRHBtV3N0ZG9OTWxoMUVHR1piUzRRblJ6bWRvbjlHU1ZKU3pwS055Q1RreHkxOGhQWUNwX0E?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Popular UK beauty shop to open new store in Glasgow - The Scottish Sun",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQWZDc2hscHg1QXloVHd6Z0w2V0xsYXpDc3Q4X2hMMVQ1Zk1JemtuMHVJdzZkWGQ0R05mekgxZGpRdHJXVFB4Y21YTXdSd3Y3d0tfR0FaRHBtV3N0ZG9OTWxoMUVHR1piUzRRblJ6bWRvbjlHU1ZKU3pwS055Q1RreHkxOGhQWUNwX0E?oc=5",
-          "published": "Wed, 22 Apr 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:49:52.078258+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "My job is to test",
-      "matched_query": "new beauty brand UK",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVZKeVdsZjBiRTJyVXBQNDk2UUNBU0lqbG1nVWdKbGI1YXY5OEpsUXpXVVE2c1hmUGZqTlZIVjlKNHpaaFMxLWtLMFZKRlc5QzQ0QmNpU0ZvZzF1cWxUWG5tNDYzaGFLWUNiSHdkN2tHREs3T1dMNXhqbjVpY1o4ak5B?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "\"My job is to test beauty products – here are ones I repurchase\" - Stylist",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVZKeVdsZjBiRTJyVXBQNDk2UUNBU0lqbG1nVWdKbGI1YXY5OEpsUXpXVVE2c1hmUGZqTlZIVjlKNHpaaFMxLWtLMFZKRlc5QzQ0QmNpU0ZvZzF1cWxUWG5tNDYzaGFLWUNiSHdkN2tHREs3T1dMNXhqbjVpY1o4ak5B?oc=5",
-          "published": "Tue, 24 Feb 2026 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:49:53.762122+00:00",
+      "generated_at": "2026-05-16T08:48:58.714478+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1169,7 +981,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:55.124706+00:00",
+      "generated_at": "2026-05-16T08:48:59.914179+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Boots releases 2026 Beauty &",
+      "matched_query": "new beauty brand UK",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMHBXVXNXc3dJMmZMS29rS2hrVzF3cGozd3NfeW5rTUgxX2poczhHTUxpcFBFMGxjOFU0VmZVY1pDaGF0ejJXZGZUb1k5Tm1XM083blRzQnAyd1NRN2tnMXYzZEN3UGJrcmRKd3RSUFoxeTBtWDVrb0l6b1BudENYcDdwZ21IM0tLc2I3Q0owLUlQcUhmSDJzbnNfelhaZktJNGZfNFYxZkIzQldMWFJ3eUZMaTZqdU51aFd2d0JSblI4SXFUS3dleXRR?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Boots releases 2026 Beauty & Wellness Trends Report alongside line‑up of trending new brands - boots-uk.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMHBXVXNXc3dJMmZMS29rS2hrVzF3cGozd3NfeW5rTUgxX2poczhHTUxpcFBFMGxjOFU0VmZVY1pDaGF0ejJXZGZUb1k5Tm1XM083blRzQnAyd1NRN2tnMXYzZEN3UGJrcmRKd3RSUFoxeTBtWDVrb0l6b1BudENYcDdwZ21IM0tLc2I3Q0owLUlQcUhmSDJzbnNfelhaZktJNGZfNFYxZkIzQldMWFJ3eUZMaTZqdU51aFd2d0JSblI4SXFUS3dleXRR?oc=5",
+          "published": "Thu, 12 Feb 2026 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:49:01.159882+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1199,7 +1041,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:56.587307+00:00",
+      "generated_at": "2026-05-16T08:49:02.485371+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1207,15 +1049,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "The Beauty Edit: The best",
-      "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHV0YVVISFQzZnNfbVB5em9oa0dZOHdCMDA4RV91SnZBNzN2U2hmeWFFcV9BZWlGR185czhGaDZ0dnM0VE9pU2R0cnMtS2VFUVplc2VQT1B2RnlvZXlpWTRMMDV4bkRYSzZaNlJPdmVhRkVpeTNnUTN5Rk1GU3FhNXZ1R2tLaXdzc1NNQjFQdw?oc=5",
+      "brand_name": "The Best Beauty Products Of",
+      "matched_query": "new beauty brand UK",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mdFRLY1JTeVM3VlR5dDJ0QWtjNTVqM01LYzU2aGpCZEhhamJ2S045d2FudjhPMXFwRURDdFdfaW9TWlJjLXNXVENZVHY2bTZCQk1adFJVR25mWENWYWVIU3dxX2YwOXBh?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "The Beauty Edit: The best new makeup and skincare to buy now - Luxury London",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHV0YVVISFQzZnNfbVB5em9oa0dZOHdCMDA4RV91SnZBNzN2U2hmeWFFcV9BZWlGR185czhGaDZ0dnM0VE9pU2R0cnMtS2VFUVplc2VQT1B2RnlvZXlpWTRMMDV4bkRYSzZaNlJPdmVhRkVpeTNnUTN5Rk1GU3FhNXZ1R2tLaXdzc1NNQjFQdw?oc=5",
-          "published": "Thu, 30 Apr 2026 07:00:00 GMT"
+          "title": "The Best Beauty Products Of 2025, According To British Vogue’s Beauty Team - British Vogue",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mdFRLY1JTeVM3VlR5dDJ0QWtjNTVqM01LYzU2aGpCZEhhamJ2S045d2FudjhPMXFwRURDdFdfaW9TWlJjLXNXVENZVHY2bTZCQk1adFJVR25mWENWYWVIU3dxX2YwOXBh?oc=5",
+          "published": "Thu, 25 Dec 2025 08:00:00 GMT"
         }
       ],
       "contact": {
@@ -1229,7 +1071,127 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:58.315545+00:00",
+      "generated_at": "2026-05-16T08:49:03.713377+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "My job is to test",
+      "matched_query": "new beauty brand UK",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVZKeVdsZjBiRTJyVXBQNDk2UUNBU0lqbG1nVWdKbGI1YXY5OEpsUXpXVVE2c1hmUGZqTlZIVjlKNHpaaFMxLWtLMFZKRlc5QzQ0QmNpU0ZvZzF1cWxUWG5tNDYzaGFLWUNiSHdkN2tHREs3T1dMNXhqbjVpY1o4ak5B?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "\"My job is to test beauty products – here are ones I repurchase\" - Stylist",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVZKeVdsZjBiRTJyVXBQNDk2UUNBU0lqbG1nVWdKbGI1YXY5OEpsUXpXVVE2c1hmUGZqTlZIVjlKNHpaaFMxLWtLMFZKRlc5QzQ0QmNpU0ZvZzF1cWxUWG5tNDYzaGFLWUNiSHdkN2tHREs3T1dMNXhqbjVpY1o4ak5B?oc=5",
+          "published": "Tue, 24 Feb 2026 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:49:05.045587+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Major British beauty brands set",
+      "matched_query": "new beauty brand UK",
+      "evidence_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2RPN1JwOUtVTEIxTElxNDNDZFlyQ0NlT1hvX3ppTzV6SmgxclV5NVNFcVB6ZE5aQi05aVV6XzhiYUc4UFpLQm9waG5qdUtPdmRyejh3UXlpRWhRVFpxeElrb2E2YzBmbXRieDNydFZsa3gwRmZubm5jN0kzUEtXbVB3eUhaRHYwc01BbWdUWng3YzJQRXB1R0ZYNElMV2RETDlBOA?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Major British beauty brands set to showcase at Cosmoprof India 2025 - GOV.UK",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2RPN1JwOUtVTEIxTElxNDNDZFlyQ0NlT1hvX3ppTzV6SmgxclV5NVNFcVB6ZE5aQi05aVV6XzhiYUc4UFpLQm9waG5qdUtPdmRyejh3UXlpRWhRVFpxeElrb2E2YzBmbXRieDNydFZsa3gwRmZubm5jN0kzUEtXbVB3eUhaRHYwc01BbWdUWng3YzJQRXB1R0ZYNElMV2RETDlBOA?oc=5",
+          "published": "Mon, 01 Dec 2025 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:49:05.788634+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Superdrug rolls out ‘The Next",
+      "matched_query": "new beauty brand UK",
+      "evidence_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRjUyRjdHOWVSdl95TnJxMXU4b0MxR2hhMmxLOEpSb2duRW84dWtLX25MZno0OEVuZThYLXVuUjR5MkpmSHpIR3lKbEZXQWZUNGN6eEZOYXh4aS1QWXFVZmNnM0tzaGRQLVh2WFRpOXlBZUJUUUV5YmNsZ3JRRmotbG1iQ3psZTFOSkJBZFVZTlFtLU1GNVJWS25XZ1Z6UlY1aHpQWndR?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Superdrug rolls out ‘The Next big thing’ spotlighting trending beauty products - Retail Times",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRjUyRjdHOWVSdl95TnJxMXU4b0MxR2hhMmxLOEpSb2duRW84dWtLX25MZno0OEVuZThYLXVuUjR5MkpmSHpIR3lKbEZXQWZUNGN6eEZOYXh4aS1QWXFVZmNnM0tzaGRQLVh2WFRpOXlBZUJUUUV5YmNsZ3JRRmotbG1iQ3psZTFOSkJBZFVZTlFtLU1GNVJWS25XZ1Z6UlY1aHpQWndR?oc=5",
+          "published": "Tue, 10 Mar 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:49:06.771176+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Beauty brand to open 10",
+      "matched_query": "new beauty brand UK",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWW9vdHhzNnB1OUpVcHY5aDYzV1ByMUFxRDFGd2xmMVFqMGQ3RGNETExHbHZLRzRUSjNvX01TaHpUVVk5SXVMMldjZlFGazd1SG1nNjl1ZGZzUG5lSkZmc2UtWEVaVWlxMV91RWdWMEZNTFoyaVduU2JqcmxmdzN1YVpB0gGHAUFVX3lxTE5sc0pFUVlYWlg4aUstSjJHOXNhOUhJWEg5OXNjenowakxvQkVySFVDLUI3Z1IyUE5rTEtFQlhPUHJLSVpjQkhKQVZQWml6ZVhVLVV0Rmc3MW9qUV9sTEpvN2VUcWFRQUNrU2NheDNMSXZFYkx4ekxpb3FXMmQxaHJkNkFILTFmNA?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Beauty brand to open 10 UK stores in 2026 - Daily Express",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWW9vdHhzNnB1OUpVcHY5aDYzV1ByMUFxRDFGd2xmMVFqMGQ3RGNETExHbHZLRzRUSjNvX01TaHpUVVk5SXVMMldjZlFGazd1SG1nNjl1ZGZzUG5lSkZmc2UtWEVaVWlxMV91RWdWMEZNTFoyaVduU2JqcmxmdzN1YVpB0gGHAUFVX3lxTE5sc0pFUVlYWlg4aUstSjJHOXNhOUhJWEg5OXNjenowakxvQkVySFVDLUI3Z1IyUE5rTEtFQlhPUHJLSVpjQkhKQVZQWml6ZVhVLVV0Rmc3MW9qUV9sTEpvN2VUcWFRQUNrU2NheDNMSXZFYkx4ekxpb3FXMmQxaHJkNkFILTFmNA?oc=5",
+          "published": "Mon, 06 Apr 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:49:07.844672+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1259,7 +1221,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:49:59.405314+00:00",
+      "generated_at": "2026-05-16T08:49:08.960490+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1289,7 +1251,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:50:00.890537+00:00",
+      "generated_at": "2026-05-16T08:49:09.751544+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1319,7 +1281,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:50:02.365943+00:00",
+      "generated_at": "2026-05-16T08:49:10.793209+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1349,37 +1311,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:50:03.555111+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Brand new Boots Beauty store",
-      "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTNaWGxDQTZqbUpzbFRWSHg3UHJfR3pkSGtBVmRQQ2hTUDlGdHp2NlhieU10dTBxaktWWFNZV1dEa0pkRGZidk90dWVFOGE2VmJicVdkZGF3RFNMUmFlQVRjaXFnQWNuUUx4MmNRTzJQNDNFOTRCQnliU1VvUUQyUzY0LW0xUTRESHNTS1ZPS05sbm9IN3c?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Brand new Boots Beauty store opening in Bristol - Bristol Live",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTNaWGxDQTZqbUpzbFRWSHg3UHJfR3pkSGtBVmRQQ2hTUDlGdHp2NlhieU10dTBxaktWWFNZV1dEa0pkRGZidk90dWVFOGE2VmJicVdkZGF3RFNMUmFlQVRjaXFnQWNuUUx4MmNRTzJQNDNFOTRCQnliU1VvUUQyUzY0LW0xUTRESHNTS1ZPS05sbm9IN3c?oc=5",
-          "published": "Wed, 04 Mar 2026 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:50:04.987649+00:00",
+      "generated_at": "2026-05-16T08:49:11.950801+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1409,7 +1341,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:50:06.320933+00:00",
+      "generated_at": "2026-05-16T08:49:12.440792+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1439,7 +1371,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:50:07.686898+00:00",
+      "generated_at": "2026-05-16T08:49:13.213032+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1447,15 +1379,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Space NK opens at the Bullring",
+      "brand_name": "Driven by TikTok trends, new",
       "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR0ljenhHYV92cUFCMjFsQnk3UTFROVpkM1pxUTE0VjlvUURmcjlzWUU4ejUwZFM2V0xCR0ZwMTE3OEhtMWNLSnhVS1BsTzdMYWZzaHlOZGI2OU1mbzB1MldmWmdUV1I5dWtwYU9nN0lEOGd0REZIYjI5cEd0bjVsc0JJUUxQTFBiblNjQlZITlZfSS1WcWZ6M25XV3VTdmdzTkpQQVhKZWY5VUczclFTeDNXUmRYVU0wTG9RLXpfMkE?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLXkzWGhXdjBqbnRXTWdYRDkya051ZXYwdlJ0RXBGYWw3eVVSWWg1STJUUEVpQm9PWWRDdm1EZnNhM29UbUtIZmdGOFpkWDJRWTlJSmJmUnAyRC1LN3FWOHFFRHRjZ2JuaE5RUFh2d1EwdkVuWTk2TllJdEgxMnJ1WTIzSUg5OUxQYlhUNGZuSmpEeWx1Rjg0dk9ZbzFYaEtPdDlQYnpoaGY?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Space NK opens at the Bullring - the beauty brand’s largest store outside of London - Insider Media Ltd",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR0ljenhHYV92cUFCMjFsQnk3UTFROVpkM1pxUTE0VjlvUURmcjlzWUU4ejUwZFM2V0xCR0ZwMTE3OEhtMWNLSnhVS1BsTzdMYWZzaHlOZGI2OU1mbzB1MldmWmdUV1I5dWtwYU9nN0lEOGd0REZIYjI5cEd0bjVsc0JJUUxQTFBiblNjQlZITlZfSS1WcWZ6M25XV3VTdmdzTkpQQVhKZWY5VUczclFTeDNXUmRYVU0wTG9RLXpfMkE?oc=5",
-          "published": "Mon, 18 Aug 2025 07:00:00 GMT"
+          "title": "Driven by TikTok trends, new beauty brands target children - FashionNetwork France",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLXkzWGhXdjBqbnRXTWdYRDkya051ZXYwdlJ0RXBGYWw3eVVSWWg1STJUUEVpQm9PWWRDdm1EZnNhM29UbUtIZmdGOFpkWDJRWTlJSmJmUnAyRC1LN3FWOHFFRHRjZ2JuaE5RUFh2d1EwdkVuWTk2TllJdEgxMnJ1WTIzSUg5OUxQYlhUNGZuSmpEeWx1Rjg0dk9ZbzFYaEtPdDlQYnpoaGY?oc=5",
+          "published": "Fri, 28 Nov 2025 08:00:00 GMT"
         }
       ],
       "contact": {
@@ -1469,7 +1401,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:50:08.793595+00:00",
+      "generated_at": "2026-05-16T08:49:14.158243+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Exclusive: UKLASH to host Self-Growth",
+      "matched_query": "new beauty brand London",
+      "evidence_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjUk9pYkpLYXl6S0dHOXhtT0lvTkVsa0hBS2V4WndVZXdDdkdtLUJqbUFwdVBOWHg4dnRYTDNBQ1NGT0RxRXFzWE9ieDVUTUlpdlBSY0syVFN4aHphTFo1R29IWXhVZEZERDNqRlpMY0d2aGVUZzI4azd6YmE?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Exclusive: UKLASH to host Self-Growth Studio pop-up in London, UK - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjUk9pYkpLYXl6S0dHOXhtT0lvTkVsa0hBS2V4WndVZXdDdkdtLUJqbUFwdVBOWHg4dnRYTDNBQ1NGT0RxRXFzWE9ieDVUTUlpdlBSY0syVFN4aHphTFo1R29IWXhVZEZERDNqRlpMY0d2aGVUZzI4azd6YmE?oc=5",
+          "published": "Tue, 20 Jan 2026 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:49:15.294143+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1499,37 +1461,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:50:10.439163+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "We tried all the Jones",
-      "matched_query": "UK makeup brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFVkMXRDekdtNENWTENiaXN0Z0pzeGZzY25RZU80OGRaV3ZwREQzeFFhUVh3OE5QemtqWTk1ODFEUEhwVEoyNkRkYnZvcWU1YmJPQzdzMmxodS1QVDllakNBbXJGcjNkMlpqcnF0N0NjSm5yeTVYY1ZpZmZKbURyWA?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "We tried all the Jones Road makeup products and these 13 are worth buying - Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFVkMXRDekdtNENWTENiaXN0Z0pzeGZzY25RZU80OGRaV3ZwREQzeFFhUVh3OE5QemtqWTk1ODFEUEhwVEoyNkRkYnZvcWU1YmJPQzdzMmxodS1QVDllakNBbXJGcjNkMlpqcnF0N0NjSm5yeTVYY1ZpZmZKbURyWA?oc=5",
-          "published": "Tue, 12 May 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-05-15T09:50:11.805527+00:00",
+      "generated_at": "2026-05-16T08:49:16.715977+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1559,7 +1491,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:50:13.206877+00:00",
+      "generated_at": "2026-05-16T08:49:18.058910+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1589,7 +1521,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:50:14.507869+00:00",
+      "generated_at": "2026-05-16T08:49:19.427449+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "18 of the best cheap",
+      "matched_query": "UK makeup brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RS3FLQVEzbFl2Y1VPbEp4RXptMlpHN3RYVlFUbTFjenFFSkxPYjdfcUh3Q3dPdkpTaS1wQ2RXRjlRTkhWcU9sMkcxUl9USjF5Y1lXYTFGS2RzTkxr?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "18 of the best cheap makeup brands that prove you don't need to spend a fortune to look great - Mamabella",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RS3FLQVEzbFl2Y1VPbEp4RXptMlpHN3RYVlFUbTFjenFFSkxPYjdfcUh3Q3dPdkpTaS1wQ2RXRjlRTkhWcU9sMkcxUl9USjF5Y1lXYTFGS2RzTkxr?oc=5",
+          "published": "Fri, 30 Jan 2026 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:49:20.175625+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1619,7 +1581,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:50:15.583260+00:00",
+      "generated_at": "2026-05-16T08:49:21.213865+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1649,7 +1611,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:50:20.684761+00:00",
+      "generated_at": "2026-05-16T08:49:22.730720+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1657,15 +1619,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Brand new beauty brand, Trouble",
+      "brand_name": "MAC Cosmetics’ big bet on",
       "matched_query": "UK makeup brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR2ZFLV9VTVo1RWRFUWl0NnhtTWtjam9WZlhSMmtTZFdDTDAtRmJZVkotY2RFbWhKTWZxZk1WV01MUjVtSHJfUGtISlM4OHRKcDR6S3JGZXI5OVc1cVV2NGI0M2RPQlRpM3F6NkVhdlc5OVNPODUxOWc0YXJZb0RwVXNKZ2tWZ0t5UlRVVVN1NEU3VmVmdGc1bzVJNVlYRi1MQVkzd25JZk9hZw?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDdkNmtMVkdLY2xzR1FLa0RtOTBrTWpLZnlpQVNjTndsUHg0ZTBPZlU0LXJBYkc0d21tMDk1SnZ2dnlxZHpBYlM0ZkNRbXp1YUYyNWRFYi1ZLXdjOFhMaXJCX1lZTFRxa0FWaV90NHByWko4QUNLdWt3ZGZUb05HdjA0TmRBVkRhaWJpNg?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Brand new beauty brand, Trouble Maker, has just launched exclusively in Superdrug - Retail Times",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR2ZFLV9VTVo1RWRFUWl0NnhtTWtjam9WZlhSMmtTZFdDTDAtRmJZVkotY2RFbWhKTWZxZk1WV01MUjVtSHJfUGtISlM4OHRKcDR6S3JGZXI5OVc1cVV2NGI0M2RPQlRpM3F6NkVhdlc5OVNPODUxOWc0YXJZb0RwVXNKZ2tWZ0t5UlRVVVN1NEU3VmVmdGc1bzVJNVlYRi1MQVkzd25JZk9hZw?oc=5",
-          "published": "Wed, 27 Aug 2025 07:00:00 GMT"
+          "title": "MAC Cosmetics’ big bet on TikTok Shop UK is beginning to pay off, but can it last? - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDdkNmtMVkdLY2xzR1FLa0RtOTBrTWpLZnlpQVNjTndsUHg0ZTBPZlU0LXJBYkc0d21tMDk1SnZ2dnlxZHpBYlM0ZkNRbXp1YUYyNWRFYi1ZLXdjOFhMaXJCX1lZTFRxa0FWaV90NHByWko4QUNLdWt3ZGZUb05HdjA0TmRBVkRhaWJpNg?oc=5",
+          "published": "Thu, 16 Apr 2026 07:00:00 GMT"
         }
       ],
       "contact": {
@@ -1679,7 +1641,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-05-15T09:50:22.028964+00:00",
+      "generated_at": "2026-05-16T08:49:23.450767+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "In Review, February 2026: Headline",
+      "matched_query": "London makeup brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlFiUGkxMW50SVlOcm16dTFKZHZDLW1Od09JN1dOYWVfaGQ0dHlTT1VRU3k4Wm5VV1duUjg2MVl0a3ZJOTFKbkNWVFZDUXRzc0VoRDBaOV9wLVBfbWY1aWRtQ2xwMkd0MWluX0JKaUZaZjJjdEdtdDY4ei1EendmMVM1NW10TGl2UlJnR0lJS0pmRkdhZ0dhMW8wWG1hVXJOYWNBR1RpdWs5QTNSTEc3ag?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "In Review, February 2026: Headline highlights from Sephora, L'Oreal, Selfridges and more... - TheIndustry.beauty",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlFiUGkxMW50SVlOcm16dTFKZHZDLW1Od09JN1dOYWVfaGQ0dHlTT1VRU3k4Wm5VV1duUjg2MVl0a3ZJOTFKbkNWVFZDUXRzc0VoRDBaOV9wLVBfbWY1aWRtQ2xwMkd0MWluX0JKaUZaZjJjdEdtdDY4ei1EendmMVM1NW10TGl2UlJnR0lJS0pmRkdhZ0dhMW8wWG1hVXJOYWNBR1RpdWs5QTNSTEc3ag?oc=5",
+          "published": "Mon, 02 Mar 2026 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-05-16T08:49:24.893083+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
