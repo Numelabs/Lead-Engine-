@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-05-20T10:26:13.933535+00:00
+Generated at: 2026-05-21T10:41:54.628633+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -74,17 +74,32 @@ Contact: email=None form=https://reome.com/contact
 News mentions: None
 Site snippets:
 - homepage (https://reome.com)
-  REOME | Award-Winning Biotechnology Skincare Skip to content Complimentary UK shipping with orders over £60 Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasm
+  REOME | Award-Winning Biotechnology Skincare Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for 
 - products (https://reome.com/products)
-  Collections – REOME Skip to content Complimentary UK shipping with orders over £60 Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account REOME Paper About Cart 0 Bag Shop Treatments Biotechnology REOME Paper About Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose shee
+  Collections – REOME Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hydration in 20 minu
 
 === BRAND 2 ===
-Name: Votary
-Website: https://votary.co.uk
+Name: Skin Rocks
+Website: https://skinrocks.com
 Discovery query: watchlist
 Evidence link: 
 Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
 Site changed flags: homepage, products, shop, collections
+Contact: email=store@skinrocks.com form=https://skinrocks.com/products/digital-gift-card
+News mentions: None
+Site snippets:
+- homepage (https://skinrocks.com)
+  Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Featured Shop All New In Bestsellers Refills Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Moisturise Protect Gift Sets Merchandise Shop By Skin Type Balanced Dry Oily Combination Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Offers THE STRONG ACID Intense Strength, Advanced Exfoliation. SHOP NOW Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis L
+- products (https://skinrocks.com/products)
+  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Featured Shop All New In Bestsellers Refills Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Moisturise Protect Gift Sets Merchandise Shop By Skin Type Balanced Dry Oily Combination Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Offers THE STRONG ACID Intense Strength, Advanced Exfoliation. SHOP NOW Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis Loyalt
+
+=== BRAND 3 ===
+Name: Votary
+Website: https://votary.co.uk
+Discovery query: watchlist
+Evidence link: 
+Score: 51 Reasons: Contact method found, 4 site page(s) captured
+Site changed flags: None
 Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
 News mentions: None
 Site snippets:
@@ -92,20 +107,5 @@ Site snippets:
   VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login
 - products (https://votary.co.uk/products)
   Collections - VOTARY No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your Cart is Em
-
-=== BRAND 3 ===
-Name: Skin Rocks
-Website: https://skinrocks.com
-Discovery query: watchlist
-Evidence link: 
-Score: 51 Reasons: Contact method found, 4 site page(s) captured
-Site changed flags: None
-Contact: email=store@skinrocks.com form=https://skinrocks.com/products/digital-gift-card
-News mentions: None
-Site snippets:
-- homepage (https://skinrocks.com)
-  Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Exfoliating Acids Featured Shop All New In Bestsellers Refills Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Moisturise Protect Gift Sets Merchandise Shop By Skin Type Balanced Dry Oily Combination Shop by Ingredient Vitamin C Vitamin A (Retinoids) Acids Offers THE STRONG ACID Intense Strength, Advanced Exfoliation. SHOP NOW Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis Loyalty The SR
-- products (https://skinrocks.com/products)
-  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Exfoliating Acids Featured Shop All New In Bestsellers Refills Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Moisturise Protect Gift Sets Merchandise Shop By Skin Type Balanced Dry Oily Combination Shop by Ingredient Vitamin C Vitamin A (Retinoids) Acids Offers THE STRONG ACID Intense Strength, Advanced Exfoliation. SHOP NOW Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis Loyalty The SR Blog
 
 
