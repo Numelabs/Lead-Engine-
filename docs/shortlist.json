@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T10:41:54.594811+00:00",
+  "generated_at": "2026-05-22T10:25:56.752708+00:00",
   "rules": {
     "requires_website": true,
     "requires_contact": true
@@ -8,6 +8,67 @@
   "total_actionable": 3,
   "count": 3,
   "shortlist": [
+    {
+      "brand_name": "Skin Rocks",
+      "matched_query": "watchlist",
+      "evidence_link": "",
+      "website": "https://skinrocks.com",
+      "news_mentions": [],
+      "contact": {
+        "primary_email": "store@skinrocks.com",
+        "other_emails": [],
+        "contact_form_url": "https://skinrocks.com/products/digital-gift-card",
+        "checked_pages": [
+          "https://skinrocks.com/sitemap.xml",
+          "https://skinrocks.com/products/digital-gift-card",
+          "https://skinrocks.com/products/the-eye-cream",
+          "https://skinrocks.com/products/the-support-oil",
+          "https://skinrocks.com/collections/protect"
+        ]
+      },
+      "site": {
+        "pages": {
+          "homepage": "https://skinrocks.com",
+          "products": "https://skinrocks.com/products",
+          "shop": "https://skinrocks.com/shop",
+          "collections": "https://skinrocks.com/collections",
+          "press": "https://skinrocks.com/press",
+          "journal": "https://skinrocks.com/journal"
+        },
+        "fetched_pages": {
+          "homepage": {
+            "url": "https://skinrocks.com",
+            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Shop Shop All New in Bestsellers Refills Merchandise Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Face Oil Moisturise Protect Gift Sets Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Shop By Skin Type Balanced Dry Oily Combination Minis Offers Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis Loyalty The SR Blog About About us Our Founder Impact T"
+          },
+          "products": {
+            "url": "https://skinrocks.com/products",
+            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Shop Shop All New in Bestsellers Refills Merchandise Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Face Oil Moisturise Protect Gift Sets Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Shop By Skin Type Balanced Dry Oily Combination Minis Offers Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis Loyalty The SR Blog About About us Our Founder Impact THE RO"
+          },
+          "shop": {
+            "url": "https://skinrocks.com/shop",
+            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Shop Shop All New in Bestsellers Refills Merchandise Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Face Oil Moisturise Protect Gift Sets Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Shop By Skin Type Balanced Dry Oily Combination Minis Offers Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis Loyalty The SR Blog About About us Our Founder Impact T"
+          },
+          "collections": {
+            "url": "https://skinrocks.com/collections",
+            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Shop Shop All New in Bestsellers Refills Merchandise Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Face Oil Moisturise Protect Gift Sets Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Shop By Skin Type Balanced Dry Oily Combination Minis Offers Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis Loyalty The SR Blog About About us Our Founder Impact THE RO"
+          }
+        },
+        "change_flags": [
+          "homepage",
+          "products",
+          "shop",
+          "collections"
+        ]
+      },
+      "generated_at": "2026-05-22T10:24:28.584221+00:00",
+      "score": 71,
+      "score_reasons": [
+        "Contact method found",
+        "4 site page(s) captured",
+        "Site changed since last check"
+      ],
+      "has_contact": true
+    },
     {
       "brand_name": "REOME",
       "matched_query": "watchlist",
@@ -56,80 +117,13 @@
             "snippet": "Collections – REOME Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hydration in 20 minu"
           }
         },
-        "change_flags": [
-          "homepage",
-          "products",
-          "shop",
-          "collections"
-        ]
+        "change_flags": []
       },
-      "generated_at": "2026-05-21T10:39:39.310763+00:00",
-      "score": 71,
+      "generated_at": "2026-05-22T10:23:55.786902+00:00",
+      "score": 51,
       "score_reasons": [
         "Contact method found",
-        "4 site page(s) captured",
-        "Site changed since last check"
-      ],
-      "has_contact": true
-    },
-    {
-      "brand_name": "Skin Rocks",
-      "matched_query": "watchlist",
-      "evidence_link": "",
-      "website": "https://skinrocks.com",
-      "news_mentions": [],
-      "contact": {
-        "primary_email": "store@skinrocks.com",
-        "other_emails": [],
-        "contact_form_url": "https://skinrocks.com/products/digital-gift-card",
-        "checked_pages": [
-          "https://skinrocks.com/sitemap.xml",
-          "https://skinrocks.com/products/digital-gift-card",
-          "https://skinrocks.com/products/the-eye-cream",
-          "https://skinrocks.com/collections/protect",
-          "https://skinrocks.com/products/the-strong-acid"
-        ]
-      },
-      "site": {
-        "pages": {
-          "homepage": "https://skinrocks.com",
-          "products": "https://skinrocks.com/products",
-          "shop": "https://skinrocks.com/shop",
-          "collections": "https://skinrocks.com/collections",
-          "press": "https://skinrocks.com/press",
-          "journal": "https://skinrocks.com/journal"
-        },
-        "fetched_pages": {
-          "homepage": {
-            "url": "https://skinrocks.com",
-            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Featured Shop All New In Bestsellers Refills Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Moisturise Protect Gift Sets Merchandise Shop By Skin Type Balanced Dry Oily Combination Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Offers THE STRONG ACID Intense Strength, Advanced Exfoliation. SHOP NOW Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis L"
-          },
-          "products": {
-            "url": "https://skinrocks.com/products",
-            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Featured Shop All New In Bestsellers Refills Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Moisturise Protect Gift Sets Merchandise Shop By Skin Type Balanced Dry Oily Combination Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Offers THE STRONG ACID Intense Strength, Advanced Exfoliation. SHOP NOW Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis Loyalt"
-          },
-          "shop": {
-            "url": "https://skinrocks.com/shop",
-            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Featured Shop All New In Bestsellers Refills Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Moisturise Protect Gift Sets Merchandise Shop By Skin Type Balanced Dry Oily Combination Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Offers THE STRONG ACID Intense Strength, Advanced Exfoliation. SHOP NOW Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis L"
-          },
-          "collections": {
-            "url": "https://skinrocks.com/collections",
-            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Featured Shop All New In Bestsellers Refills Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Moisturise Protect Gift Sets Merchandise Shop By Skin Type Balanced Dry Oily Combination Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Offers THE STRONG ACID Intense Strength, Advanced Exfoliation. SHOP NOW Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis Loyalt"
-          }
-        },
-        "change_flags": [
-          "homepage",
-          "products",
-          "shop",
-          "collections"
-        ]
-      },
-      "generated_at": "2026-05-21T10:40:19.018853+00:00",
-      "score": 71,
-      "score_reasons": [
-        "Contact method found",
-        "4 site page(s) captured",
-        "Site changed since last check"
+        "4 site page(s) captured"
       ],
       "has_contact": true
     },
@@ -185,7 +179,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-05-21T10:39:59.562391+00:00",
+      "generated_at": "2026-05-22T10:24:12.650561+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",

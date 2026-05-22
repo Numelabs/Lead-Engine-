@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-05-21T10:41:54.628633+00:00
+Generated at: 2026-05-22T10:25:56.789491+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -64,21 +64,6 @@ OFFER PRESETS (choose the best fit per brand):
 EVIDENCE SHORTLIST (do not browse; only use this):
 
 === BRAND 1 ===
-Name: REOME
-Website: https://reome.com
-Discovery query: watchlist
-Evidence link: 
-Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage, products, shop, collections
-Contact: email=None form=https://reome.com/contact
-News mentions: None
-Site snippets:
-- homepage (https://reome.com)
-  REOME | Award-Winning Biotechnology Skincare Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for 
-- products (https://reome.com/products)
-  Collections – REOME Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hydration in 20 minu
-
-=== BRAND 2 ===
 Name: Skin Rocks
 Website: https://skinrocks.com
 Discovery query: watchlist
@@ -89,9 +74,24 @@ Contact: email=store@skinrocks.com form=https://skinrocks.com/products/digital-g
 News mentions: None
 Site snippets:
 - homepage (https://skinrocks.com)
-  Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Featured Shop All New In Bestsellers Refills Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Moisturise Protect Gift Sets Merchandise Shop By Skin Type Balanced Dry Oily Combination Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Offers THE STRONG ACID Intense Strength, Advanced Exfoliation. SHOP NOW Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis L
+  Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Shop Shop All New in Bestsellers Refills Merchandise Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Face Oil Moisturise Protect Gift Sets Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Shop By Skin Type Balanced Dry Oily Combination Minis Offers Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis Loyalty The SR Blog About About us Our Founder Impact T
 - products (https://skinrocks.com/products)
-  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Featured Shop All New In Bestsellers Refills Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Moisturise Protect Gift Sets Merchandise Shop By Skin Type Balanced Dry Oily Combination Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Offers THE STRONG ACID Intense Strength, Advanced Exfoliation. SHOP NOW Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis Loyalt
+  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Shop Shop All New in Bestsellers Refills Merchandise Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Face Oil Moisturise Protect Gift Sets Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Shop By Skin Type Balanced Dry Oily Combination Minis Offers Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis Loyalty The SR Blog About About us Our Founder Impact THE RO
+
+=== BRAND 2 ===
+Name: REOME
+Website: https://reome.com
+Discovery query: watchlist
+Evidence link: 
+Score: 51 Reasons: Contact method found, 4 site page(s) captured
+Site changed flags: None
+Contact: email=None form=https://reome.com/contact
+News mentions: None
+Site snippets:
+- homepage (https://reome.com)
+  REOME | Award-Winning Biotechnology Skincare Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for 
+- products (https://reome.com/products)
+  Collections – REOME Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hydration in 20 minu
 
 === BRAND 3 ===
 Name: Votary
