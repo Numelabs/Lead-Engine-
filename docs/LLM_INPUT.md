@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-05-22T10:25:56.789491+00:00
+Generated at: 2026-05-23T09:03:13.052198+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -69,7 +69,7 @@ Website: https://skinrocks.com
 Discovery query: watchlist
 Evidence link: 
 Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage, products, shop, collections
+Site changed flags: homepage, shop
 Contact: email=store@skinrocks.com form=https://skinrocks.com/products/digital-gift-card
 News mentions: None
 Site snippets:
@@ -85,7 +85,7 @@ Discovery query: watchlist
 Evidence link: 
 Score: 51 Reasons: Contact method found, 4 site page(s) captured
 Site changed flags: None
-Contact: email=None form=https://reome.com/contact
+Contact: email=None form=https://reome.com/stockists
 News mentions: None
 Site snippets:
 - homepage (https://reome.com)
@@ -98,14 +98,9 @@ Name: Votary
 Website: https://votary.co.uk
 Discovery query: watchlist
 Evidence link: 
-Score: 51 Reasons: Contact method found, 4 site page(s) captured
+Score: 43 Reasons: Contact method found, 2 site page(s) captured
 Site changed flags: None
-Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
+Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/products/super-barrier-balm
 News mentions: None
-Site snippets:
-- homepage (https://votary.co.uk)
-  VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login
-- products (https://votary.co.uk/products)
-  Collections - VOTARY No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your Cart is Em
 
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T10:25:56.752708+00:00",
+  "generated_at": "2026-05-23T09:03:13.016129+00:00",
   "rules": {
     "requires_website": true,
     "requires_contact": true
@@ -55,12 +55,10 @@
         },
         "change_flags": [
           "homepage",
-          "products",
-          "shop",
-          "collections"
+          "shop"
         ]
       },
-      "generated_at": "2026-05-22T10:24:28.584221+00:00",
+      "generated_at": "2026-05-23T09:02:00.598588+00:00",
       "score": 71,
       "score_reasons": [
         "Contact method found",
@@ -78,16 +76,12 @@
       "contact": {
         "primary_email": "",
         "other_emails": [],
-        "contact_form_url": "https://reome.com/contact",
+        "contact_form_url": "https://reome.com/stockists",
         "checked_pages": [
           "https://reome.com/sitemap.xml",
-          "https://reome.com/contact",
           "https://reome.com/stockists",
           "https://reome.com/about",
-          "https://reome.com/products/hydra-plasma-veil-5",
-          "https://reome.com/products/biogenic-melting-cream",
-          "https://reome.com/products/active-recovery-broth",
-          "https://reome.com/products/three-suns-balm"
+          "https://reome.com/en-us/sitemap_products_1.xml?from=6891128062084&amp;to=15322653819266"
         ]
       },
       "site": {
@@ -119,7 +113,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-05-22T10:23:55.786902+00:00",
+      "generated_at": "2026-05-23T09:01:25.091535+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -140,12 +134,9 @@
           "skincare@VOTARY.co.uk",
           "skincare@votary.co.uk"
         ],
-        "contact_form_url": "https://votary.co.uk/stockists",
+        "contact_form_url": "https://votary.co.uk/products/super-barrier-balm",
         "checked_pages": [
-          "https://votary.co.uk/sitemap.xml",
-          "https://votary.co.uk/stockists",
           "https://votary.co.uk/products/super-barrier-balm",
-          "https://votary.co.uk/pages/votary-in-the-press",
           "https://votary.co.uk/pages/contact-us",
           "https://votary.co.uk/products/super-barrier-balm-1"
         ]
@@ -160,14 +151,6 @@
           "journal": "https://votary.co.uk/journal"
         },
         "fetched_pages": {
-          "homepage": {
-            "url": "https://votary.co.uk",
-            "snippet": "VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login"
-          },
-          "products": {
-            "url": "https://votary.co.uk/products",
-            "snippet": "Collections - VOTARY No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your Cart is Em"
-          },
           "shop": {
             "url": "https://votary.co.uk/shop",
             "snippet": "VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login"
@@ -179,11 +162,11 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-05-22T10:24:12.650561+00:00",
-      "score": 51,
+      "generated_at": "2026-05-23T09:01:43.350570+00:00",
+      "score": 43,
       "score_reasons": [
         "Contact method found",
-        "4 site page(s) captured"
+        "2 site page(s) captured"
       ],
       "has_contact": true
     }
