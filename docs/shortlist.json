@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T09:03:13.016129+00:00",
+  "generated_at": "2026-05-24T09:23:33.592877+00:00",
   "rules": {
     "requires_website": true,
     "requires_contact": true
@@ -8,6 +8,124 @@
   "total_actionable": 3,
   "count": 3,
   "shortlist": [
+    {
+      "brand_name": "REOME",
+      "matched_query": "watchlist",
+      "evidence_link": "",
+      "website": "https://reome.com",
+      "news_mentions": [],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "https://reome.com/contact",
+        "checked_pages": [
+          "https://reome.com/sitemap.xml",
+          "https://reome.com/contact",
+          "https://reome.com/stockists",
+          "https://reome.com/about",
+          "https://reome.com/products/hydra-plasma-veil-5",
+          "https://reome.com/products/biogenic-melting-cream",
+          "https://reome.com/products/active-recovery-broth",
+          "https://reome.com/products/three-suns-balm"
+        ]
+      },
+      "site": {
+        "pages": {
+          "homepage": "https://reome.com",
+          "products": "https://reome.com/products",
+          "shop": "https://reome.com/shop",
+          "collections": "https://reome.com/collections",
+          "press": "https://reome.com/press",
+          "journal": "https://reome.com/journal"
+        },
+        "fetched_pages": {
+          "homepage": {
+            "url": "https://reome.com",
+            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for "
+          },
+          "products": {
+            "url": "https://reome.com/products",
+            "snippet": "Collections – REOME Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hydration in 20 minu"
+          },
+          "shop": {
+            "url": "https://reome.com/shop",
+            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for "
+          },
+          "collections": {
+            "url": "https://reome.com/collections",
+            "snippet": "Collections – REOME Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hydration in 20 minu"
+          }
+        },
+        "change_flags": []
+      },
+      "generated_at": "2026-05-24T09:21:39.540003+00:00",
+      "score": 51,
+      "score_reasons": [
+        "Contact method found",
+        "4 site page(s) captured"
+      ],
+      "has_contact": true
+    },
+    {
+      "brand_name": "Votary",
+      "matched_query": "watchlist",
+      "evidence_link": "",
+      "website": "https://votary.co.uk",
+      "news_mentions": [],
+      "contact": {
+        "primary_email": "sales@VOTARY.co.uk",
+        "other_emails": [
+          "sales@votary.co.uk",
+          "skincare@VOTARY.co.uk",
+          "skincare@votary.co.uk"
+        ],
+        "contact_form_url": "https://votary.co.uk/stockists",
+        "checked_pages": [
+          "https://votary.co.uk/sitemap.xml",
+          "https://votary.co.uk/stockists",
+          "https://votary.co.uk/products/super-barrier-balm",
+          "https://votary.co.uk/pages/votary-in-the-press",
+          "https://votary.co.uk/pages/contact-us",
+          "https://votary.co.uk/products/super-barrier-balm-1"
+        ]
+      },
+      "site": {
+        "pages": {
+          "homepage": "https://votary.co.uk",
+          "products": "https://votary.co.uk/products",
+          "shop": "https://votary.co.uk/shop",
+          "collections": "https://votary.co.uk/collections",
+          "press": "https://votary.co.uk/press",
+          "journal": "https://votary.co.uk/journal"
+        },
+        "fetched_pages": {
+          "homepage": {
+            "url": "https://votary.co.uk",
+            "snippet": "VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login"
+          },
+          "products": {
+            "url": "https://votary.co.uk/products",
+            "snippet": "Collections - VOTARY No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your Cart is Em"
+          },
+          "shop": {
+            "url": "https://votary.co.uk/shop",
+            "snippet": "VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login"
+          },
+          "collections": {
+            "url": "https://votary.co.uk/collections",
+            "snippet": "Collections - VOTARY No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your Cart is Em"
+          }
+        },
+        "change_flags": []
+      },
+      "generated_at": "2026-05-24T09:21:58.066300+00:00",
+      "score": 51,
+      "score_reasons": [
+        "Contact method found",
+        "4 site page(s) captured"
+      ],
+      "has_contact": true
+    },
     {
       "brand_name": "Skin Rocks",
       "matched_query": "watchlist",
@@ -53,120 +171,13 @@
             "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Shop Shop All New in Bestsellers Refills Merchandise Gift Cards Build Your Own Bundle Shop By Category Cleanse Tone Treatment Eye Face Oil Moisturise Protect Gift Sets Shop by Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Shop By Skin Type Balanced Dry Oily Combination Minis Offers Subscriptions Routine Quiz Facials Skin Rocks Facials Find a Facialist Skin Rocks at Liberty Skin Rocks at John Lewis Loyalty The SR Blog About About us Our Founder Impact THE RO"
           }
         },
-        "change_flags": [
-          "homepage",
-          "shop"
-        ]
-      },
-      "generated_at": "2026-05-23T09:02:00.598588+00:00",
-      "score": 71,
-      "score_reasons": [
-        "Contact method found",
-        "4 site page(s) captured",
-        "Site changed since last check"
-      ],
-      "has_contact": true
-    },
-    {
-      "brand_name": "REOME",
-      "matched_query": "watchlist",
-      "evidence_link": "",
-      "website": "https://reome.com",
-      "news_mentions": [],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "https://reome.com/stockists",
-        "checked_pages": [
-          "https://reome.com/sitemap.xml",
-          "https://reome.com/stockists",
-          "https://reome.com/about",
-          "https://reome.com/en-us/sitemap_products_1.xml?from=6891128062084&amp;to=15322653819266"
-        ]
-      },
-      "site": {
-        "pages": {
-          "homepage": "https://reome.com",
-          "products": "https://reome.com/products",
-          "shop": "https://reome.com/shop",
-          "collections": "https://reome.com/collections",
-          "press": "https://reome.com/press",
-          "journal": "https://reome.com/journal"
-        },
-        "fetched_pages": {
-          "homepage": {
-            "url": "https://reome.com",
-            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for "
-          },
-          "products": {
-            "url": "https://reome.com/products",
-            "snippet": "Collections – REOME Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hydration in 20 minu"
-          },
-          "shop": {
-            "url": "https://reome.com/shop",
-            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for "
-          },
-          "collections": {
-            "url": "https://reome.com/collections",
-            "snippet": "Collections – REOME Skip to content Spring Event | 25% off everything Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Worth £161 The Bio-Glow Duo Bundle, Worth £161 The Extraordinary Skin Set Bundle, Worth £305 Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hydration in 20 minu"
-          }
-        },
         "change_flags": []
       },
-      "generated_at": "2026-05-23T09:01:25.091535+00:00",
+      "generated_at": "2026-05-24T09:22:13.684033+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
         "4 site page(s) captured"
-      ],
-      "has_contact": true
-    },
-    {
-      "brand_name": "Votary",
-      "matched_query": "watchlist",
-      "evidence_link": "",
-      "website": "https://votary.co.uk",
-      "news_mentions": [],
-      "contact": {
-        "primary_email": "sales@VOTARY.co.uk",
-        "other_emails": [
-          "sales@votary.co.uk",
-          "skincare@VOTARY.co.uk",
-          "skincare@votary.co.uk"
-        ],
-        "contact_form_url": "https://votary.co.uk/products/super-barrier-balm",
-        "checked_pages": [
-          "https://votary.co.uk/products/super-barrier-balm",
-          "https://votary.co.uk/pages/contact-us",
-          "https://votary.co.uk/products/super-barrier-balm-1"
-        ]
-      },
-      "site": {
-        "pages": {
-          "homepage": "https://votary.co.uk",
-          "products": "https://votary.co.uk/products",
-          "shop": "https://votary.co.uk/shop",
-          "collections": "https://votary.co.uk/collections",
-          "press": "https://votary.co.uk/press",
-          "journal": "https://votary.co.uk/journal"
-        },
-        "fetched_pages": {
-          "shop": {
-            "url": "https://votary.co.uk/shop",
-            "snippet": "VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login"
-          },
-          "collections": {
-            "url": "https://votary.co.uk/collections",
-            "snippet": "Collections - VOTARY No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Full Size Summer Hero with orders over £75* Discover new Super Barrier Balm Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your Cart is Em"
-          }
-        },
-        "change_flags": []
-      },
-      "generated_at": "2026-05-23T09:01:43.350570+00:00",
-      "score": 43,
-      "score_reasons": [
-        "Contact method found",
-        "2 site page(s) captured"
       ],
       "has_contact": true
     }
