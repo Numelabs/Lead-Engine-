@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-22T12:51:38.003311+00:00",
+  "generated_at": "2026-06-23T10:37:59.026205+00:00",
   "rules": {
     "requires_website": true,
     "requires_contact": true
   },
-  "total_seen": 52,
+  "total_seen": 53,
   "total_actionable": 3,
   "count": 3,
   "shortlist": [
@@ -43,7 +43,7 @@
         "fetched_pages": {
           "homepage": {
             "url": "https://votary.co.uk",
-            "snippet": "VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders FREE Shower Gel with orders over £75* Discover new Ultimate Light Cream Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Wrap Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Shower Gel with orders over £75* Discover new Ultimate Light Cream Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your"
+            "snippet": "VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders FREE Shower Gel with orders over £75* Discover new Ultimate Light Cream Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Shower Gel with orders over £75* Discover new Ultimate Light Cream Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your "
           },
           "products": {
             "url": "https://votary.co.uk/products",
@@ -59,13 +59,11 @@
           }
         },
         "change_flags": [
-          "products",
-          "shop",
-          "collections"
+          "homepage"
         ]
       },
-      "generated_at": "2026-06-22T12:50:24.519677+00:00",
-      "score": 71,
+      "generated_at": "2026-06-23T10:36:39.119263+00:00",
+      "score": 61,
       "score_reasons": [
         "Contact method found",
         "4 site page(s) captured",
@@ -119,14 +117,11 @@
           }
         },
         "change_flags": [
-          "homepage",
-          "products",
-          "shop",
-          "collections"
+          "homepage"
         ]
       },
-      "generated_at": "2026-06-22T12:50:40.657190+00:00",
-      "score": 71,
+      "generated_at": "2026-06-23T10:36:57.408665+00:00",
+      "score": 61,
       "score_reasons": [
         "Contact method found",
         "4 site page(s) captured",
@@ -184,7 +179,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-06-22T12:50:05.983762+00:00",
+      "generated_at": "2026-06-23T10:36:16.190945+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
