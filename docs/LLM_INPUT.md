@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-06-23T10:37:59.060086+00:00
+Generated at: 2026-06-24T10:24:33.070850+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -68,30 +68,30 @@ Name: Votary
 Website: https://votary.co.uk
 Discovery query: watchlist
 Evidence link: 
-Score: 61 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage
+Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
+Site changed flags: homepage, products, shop, collections
 Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
 News mentions: None
 Site snippets:
 - homepage (https://votary.co.uk)
-  VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders FREE Shower Gel with orders over £75* Discover new Ultimate Light Cream Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Shower Gel with orders over £75* Discover new Ultimate Light Cream Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your 
+  VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders FREE Vitamin C Glow Serum with orders over £100* Discover new Ultimate Light Cream Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Vitamin C Glow Serum with orders over £100* Discover new Ultimate Light Cream Sign up for Exclusive Offers & Discounts ✨ Lo
 - products (https://votary.co.uk/products)
-  Collections - VOTARY No duties, tariffs, or taxes on US orders FREE Shower Gel with orders over £75* Discover new Ultimate Light Cream Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Shower Gel with orders over £75* Discover new Ultimate Light Cream Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your Cart is Empty Continue Shoppi
+  Collections - VOTARY No duties, tariffs, or taxes on US orders FREE Vitamin C Glow Serum with orders over £100* Discover new Ultimate Light Cream Sign up for Exclusive Offers & Discounts ✨ SETS & OFFERS SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders FREE Vitamin C Glow Serum with orders over £100* Discover new Ultimate Light Cream Sign up for Exclusive Offers & Discounts ✨ Login CONTACT US 0 Your Cart is
 
 === BRAND 2 ===
 Name: Skin Rocks
 Website: https://skinrocks.com
 Discovery query: watchlist
 Evidence link: 
-Score: 61 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage
+Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
+Site changed flags: products, shop, collections
 Contact: email=store@skinrocks.com form=https://skinrocks.com/products/digital-gift-card
 News mentions: None
 Site snippets:
 - homepage (https://skinrocks.com)
   Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Shop Shop All New in Bestsellers Refills Merchandise Gift Cards Build Your Own Bundle Category Cleanse Tone Treatment Eye Face Oil Moisturise Protect Gift Sets Skin Concern Breakouts or Congestion Fine Lines and Wrinkles Hyperpigmentation Dehydration Dullness Redness or Sensitivity Texture Visible Pores Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Skin Type Balanced Dry Oily Combination Minis Offers Subscriptions Routine Quiz Explore Visit Us Skin Roc
 - products (https://skinrocks.com/products)
-  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Shop Shop All New in Bestsellers Refills Merchandise Gift Cards Build Your Own Bundle Category Cleanse Tone Treatment Eye Face Oil Moisturise Protect Gift Sets Skin Concern Breakouts or Congestion Fine Lines and Wrinkles Hyperpigmentation Dehydration Dullness Redness or Sensitivity Texture Visible Pores Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Skin Type Balanced Dry Oily Combination Minis Offers Subscriptions Routine Quiz Explore Visit Us Skin Rocks Fa
+  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE HOT PINK FLANNEL WHEN YOU SPEND £60+ FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE Shop Shop All New in Bestsellers Refills Merchandise Gift Cards Build Your Own Bundle Category Cleanse Tone Treatment Eye Face Oil Moisturise Protect Gift Sets Skin Concern Breakouts or Congestion Fine Lines and Wrinkles Hyperpigmentation Dehydration Dullness Redness or Sensitivity Texture Visible Pores Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Skin Type Balanced Dry Oily Combination Minis Offers Subscriptions R
 
 === BRAND 3 ===
 Name: REOME
