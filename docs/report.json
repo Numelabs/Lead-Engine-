@@ -1,6 +1,65 @@
 {
-  "generated_at": "2026-07-07T10:25:52.809644+00:00",
+  "generated_at": "2026-07-08T09:25:21.854403+00:00",
   "brands": [
+    {
+      "brand_name": "Skin Rocks",
+      "matched_query": "watchlist",
+      "evidence_link": "",
+      "website": "https://skinrocks.com",
+      "news_mentions": [],
+      "contact": {
+        "primary_email": "store@skinrocks.com",
+        "other_emails": [],
+        "contact_form_url": "https://skinrocks.com/products/digital-gift-card",
+        "checked_pages": [
+          "https://skinrocks.com/sitemap.xml",
+          "https://skinrocks.com/products/digital-gift-card",
+          "https://skinrocks.com/products/the-eye-cream",
+          "https://skinrocks.com/products/the-support-oil",
+          "https://skinrocks.com/pages/stockists"
+        ]
+      },
+      "site": {
+        "pages": {
+          "homepage": "https://skinrocks.com",
+          "products": "https://skinrocks.com/products",
+          "shop": "https://skinrocks.com/shop",
+          "collections": "https://skinrocks.com/collections",
+          "press": "https://skinrocks.com/press",
+          "journal": "https://skinrocks.com/journal"
+        },
+        "fetched_pages": {
+          "homepage": {
+            "url": "https://skinrocks.com",
+            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout BUILD YOUR OWN MINI BUNDLE FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SUBSCRIBE AND RECEIVE FREE GIFTS Shop Shop All New in Bestsellers Minis Refills Build Your Own Bundle Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Skin Type Balanced Dry Oily Combination "
+          },
+          "products": {
+            "url": "https://skinrocks.com/products",
+            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout BUILD YOUR OWN MINI BUNDLE FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SUBSCRIBE AND RECEIVE FREE GIFTS Shop Shop All New in Bestsellers Minis Refills Build Your Own Bundle Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Skin Type Balanced Dry Oily Combination Mini "
+          },
+          "shop": {
+            "url": "https://skinrocks.com/shop",
+            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout BUILD YOUR OWN MINI BUNDLE FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SUBSCRIBE AND RECEIVE FREE GIFTS Shop Shop All New in Bestsellers Minis Refills Build Your Own Bundle Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Skin Type Balanced Dry Oily Combination "
+          },
+          "collections": {
+            "url": "https://skinrocks.com/collections",
+            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout BUILD YOUR OWN MINI BUNDLE FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SUBSCRIBE AND RECEIVE FREE GIFTS Shop Shop All New in Bestsellers Minis Refills Build Your Own Bundle Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Skin Type Balanced Dry Oily Combination Mini "
+          }
+        },
+        "change_flags": [
+          "homepage",
+          "shop"
+        ]
+      },
+      "generated_at": "2026-07-08T09:26:02.177829+00:00",
+      "score": 71,
+      "score_reasons": [
+        "Contact method found",
+        "4 site page(s) captured",
+        "Site changed since last check"
+      ],
+      "has_contact": true
+    },
     {
       "brand_name": "REOME",
       "matched_query": "watchlist",
@@ -51,7 +110,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:25:52.809726+00:00",
+      "generated_at": "2026-07-08T09:25:21.854505+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -111,62 +170,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:26:12.712593+00:00",
-      "score": 51,
-      "score_reasons": [
-        "Contact method found",
-        "4 site page(s) captured"
-      ],
-      "has_contact": true
-    },
-    {
-      "brand_name": "Skin Rocks",
-      "matched_query": "watchlist",
-      "evidence_link": "",
-      "website": "https://skinrocks.com",
-      "news_mentions": [],
-      "contact": {
-        "primary_email": "store@skinrocks.com",
-        "other_emails": [],
-        "contact_form_url": "https://skinrocks.com/products/digital-gift-card",
-        "checked_pages": [
-          "https://skinrocks.com/sitemap.xml",
-          "https://skinrocks.com/products/digital-gift-card",
-          "https://skinrocks.com/products/the-eye-cream",
-          "https://skinrocks.com/products/the-support-oil",
-          "https://skinrocks.com/pages/stockists"
-        ]
-      },
-      "site": {
-        "pages": {
-          "homepage": "https://skinrocks.com",
-          "products": "https://skinrocks.com/products",
-          "shop": "https://skinrocks.com/shop",
-          "collections": "https://skinrocks.com/collections",
-          "press": "https://skinrocks.com/press",
-          "journal": "https://skinrocks.com/journal"
-        },
-        "fetched_pages": {
-          "homepage": {
-            "url": "https://skinrocks.com",
-            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout BUILD YOUR OWN MINI BUNDLE FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SUBSCRIBE AND RECEIVE FREE GIFTS Shop Shop All New in Bestsellers Minis Refills Build Your Own Bundle Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Skin Type Balanced Dry Oily Combination "
-          },
-          "products": {
-            "url": "https://skinrocks.com/products",
-            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout BUILD YOUR OWN MINI BUNDLE FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SUBSCRIBE AND RECEIVE FREE GIFTS Shop Shop All New in Bestsellers Minis Refills Build Your Own Bundle Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Skin Type Balanced Dry Oily Combination Mini "
-          },
-          "shop": {
-            "url": "https://skinrocks.com/shop",
-            "snippet": "Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout BUILD YOUR OWN MINI BUNDLE FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SUBSCRIBE AND RECEIVE FREE GIFTS Shop Shop All New in Bestsellers Minis Refills Build Your Own Bundle Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Skin Type Balanced Dry Oily Combination "
-          },
-          "collections": {
-            "url": "https://skinrocks.com/collections",
-            "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout BUILD YOUR OWN MINI BUNDLE FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SUBSCRIBE AND RECEIVE FREE GIFTS Shop Shop All New in Bestsellers Minis Refills Build Your Own Bundle Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Ingredient Vitamin C Vitamin A (Retinoids) Exfoliating Acids Peptides Ceramides Skin Type Balanced Dry Oily Combination Mini "
-          }
-        },
-        "change_flags": []
-      },
-      "generated_at": "2026-07-07T10:26:31.912143+00:00",
+      "generated_at": "2026-07-08T09:25:43.659738+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -197,7 +201,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:26:49.255381+00:00",
+      "generated_at": "2026-07-08T09:26:19.461052+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -205,15 +209,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Space NK partners with skin",
+      "brand_name": "The Beauty Brand Playbook Behind",
       "matched_query": "UK beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TVlYtT3U4b0ZqcldBYzBUVm5RRVl1Qno0R3BzY09KT0gzdDRZUjVwX1A3WEd4MnlKWEY3ZWdfWE1SREdsek5aUGJLbTNPYWY2R3FMZUZOaE9EZC1MUUp1YlEwNEUzeTFzblNPRHBsRk05ald1cktXdktrelhLZjg?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3SUpUbWtuMHljTmxQLU5qU1F0Q2NlSTI2YWxTQTR4Q1ZlMk5sWDNWYkdxSllrT1BtT3JLczlfLUo0LVdibUQ1azNfWk9DV2Z3ZEt6eTE0ZHh1QmQwWDl0NTZSZW1iSWZ3SmZpWkFaUmZBS0hMZkE?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Space NK partners with skin care brand Prequel to support UK launch - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TVlYtT3U4b0ZqcldBYzBUVm5RRVl1Qno0R3BzY09KT0gzdDRZUjVwX1A3WEd4MnlKWEY3ZWdfWE1SREdsek5aUGJLbTNPYWY2R3FMZUZOaE9EZC1MUUp1YlEwNEUzeTFzblNPRHBsRk05ald1cktXdktrelhLZjg?oc=5",
-          "published": "Thu, 25 Jun 2026 11:13:56 GMT"
+          "title": "The Beauty Brand Playbook Behind Lore's Successful Launch - Shopify",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3SUpUbWtuMHljTmxQLU5qU1F0Q2NlSTI2YWxTQTR4Q1ZlMk5sWDNWYkdxSllrT1BtT3JLczlfLUo0LVdibUQ1azNfWk9DV2Z3ZEt6eTE0ZHh1QmQwWDl0NTZSZW1iSWZ3SmZpWkFaUmZBS0hMZkE?oc=5",
+          "published": "Tue, 07 Jul 2026 16:00:04 GMT"
         }
       ],
       "contact": {
@@ -227,7 +231,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:26:50.528753+00:00",
+      "generated_at": "2026-07-08T09:26:19.984269+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -243,7 +247,7 @@
         {
           "title": "This week in beauty news: AI skin concierges, advent calendar waitlists and world's first antimicrobial hairbrush - Mamabella",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBreU02cVBEMGxxRkFVSEV3aC1fenlobGE4WDBFRHhTS0o5NUtueDNjaFo2b21OeDhwSnJIdk9kT0hsam85U09NM3IyVFM5amZ4R1VUU2RSa29Sb2tWb1RZbTVB?oc=5",
-          "published": "Sun, 28 Jun 2026 07:00:00 GMT"
+          "published": "Sun, 05 Jul 2026 07:00:00 GMT"
         }
       ],
       "contact": {
@@ -257,7 +261,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:26:52.283097+00:00",
+      "generated_at": "2026-07-08T09:26:20.644570+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Space NK partners with skin",
+      "matched_query": "UK beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TVlYtT3U4b0ZqcldBYzBUVm5RRVl1Qno0R3BzY09KT0gzdDRZUjVwX1A3WEd4MnlKWEY3ZWdfWE1SREdsek5aUGJLbTNPYWY2R3FMZUZOaE9EZC1MUUp1YlEwNEUzeTFzblNPRHBsRk05ald1cktXdktrelhLZjg?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Space NK partners with skin care brand Prequel to support UK launch - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TVlYtT3U4b0ZqcldBYzBUVm5RRVl1Qno0R3BzY09KT0gzdDRZUjVwX1A3WEd4MnlKWEY3ZWdfWE1SREdsek5aUGJLbTNPYWY2R3FMZUZOaE9EZC1MUUp1YlEwNEUzeTFzblNPRHBsRk05ald1cktXdktrelhLZjg?oc=5",
+          "published": "Thu, 25 Jun 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-07-08T09:26:21.285942+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -287,7 +321,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:26:53.490641+00:00",
+      "generated_at": "2026-07-08T09:26:21.944377+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -317,7 +351,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:26:55.237549+00:00",
+      "generated_at": "2026-07-08T09:26:22.623826+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -347,7 +381,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:26:57.051777+00:00",
+      "generated_at": "2026-07-08T09:26:23.586806+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -377,7 +411,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:26:58.787726+00:00",
+      "generated_at": "2026-07-08T09:26:24.090430+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -407,7 +441,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:00.287233+00:00",
+      "generated_at": "2026-07-08T09:26:24.593413+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -437,7 +471,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:02.038108+00:00",
+      "generated_at": "2026-07-08T09:26:25.148561+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -467,7 +501,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:03.157796+00:00",
+      "generated_at": "2026-07-08T09:26:25.657692+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -497,37 +531,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:04.988215+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Boots accelerates beauty reinvention with",
-      "matched_query": "UK beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1UxdFVTWUVmV21iNl9LZUF6ZGxCc2ZBaHlRY2x5aE5uYVlpamxWLXBYY2p2ekNOMFVkTXM1d2tCWmtWV2VlYjBtNWRmTlhQSnhTOWt4cEZfQ3dFR2tnV1lkWVYwYVY2d1h6bFdra3hwUENHNGlrbDlTMXh5eUJaSTBIcVd5dE5yRDZHMlVSYUJNY0NDOTZORFRVNjBRV1dpQndpa0t5VDByX25CczhWT1ZCallYeWw2d2ZVdzB4MG9IVXVX?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Boots accelerates beauty reinvention with opening of new concept store in Bristol - boots-uk.com",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1UxdFVTWUVmV21iNl9LZUF6ZGxCc2ZBaHlRY2x5aE5uYVlpamxWLXBYY2p2ekNOMFVkTXM1d2tCWmtWV2VlYjBtNWRmTlhQSnhTOWt4cEZfQ3dFR2tnV1lkWVYwYVY2d1h6bFdra3hwUENHNGlrbDlTMXh5eUJaSTBIcVd5dE5yRDZHMlVSYUJNY0NDOTZORFRVNjBRV1dpQndpa0t5VDByX25CczhWT1ZCallYeWw2d2ZVdzB4MG9IVXVX?oc=5",
-          "published": "Thu, 28 May 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-07-07T10:27:06.117088+00:00",
+      "generated_at": "2026-07-08T09:26:26.189528+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -557,157 +561,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:06.765931+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Dua by Augustinus Bader opens",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbC1rbGRrS2J1M2FtWWR4MFRmT2kzaTY2cXN3Q2FRQmFzZUhaNFVVRV9PdGF5NDZEbnBiSDF2S3BzVVdYbUZmVDg3RW5ZS1paM0E4N2ZqV05pV3pTZEVMdXNLRTFLV1FUbmlqeHRlX1dlUzBMeWQzQXJkeDgybmlTdHVONA?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Dua by Augustinus Bader opens first-ever pop-up to promote beauty brand - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbC1rbGRrS2J1M2FtWWR4MFRmT2kzaTY2cXN3Q2FRQmFzZUhaNFVVRV9PdGF5NDZEbnBiSDF2S3BzVVdYbUZmVDg3RW5ZS1paM0E4N2ZqV05pV3pTZEVMdXNLRTFLV1FUbmlqeHRlX1dlUzBMeWQzQXJkeDgybmlTdHVONA?oc=5",
-          "published": "Tue, 19 May 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-07-07T10:27:07.920174+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "British startup brand, Curated Beauty",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWdsOW9yV0tua1B6a3JISWNRSU1LTzA3d2ljRkN3cVpJaUJHRUZlNUxqZlhhZVUwNEpKMU5oR2FNSk15MkM2RGpldW51WXNqN0lyMTJTelZTak9MeVFFcWl4MHZrRVBwVXdLWXRCTDFrUzVuakJuWmdqUDZLUFRmSzh3VGRVZ0NXcW5V?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "British startup brand, Curated Beauty London, launches in award-winning ‘super salon’ - Scratch Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWdsOW9yV0tua1B6a3JISWNRSU1LTzA3d2ljRkN3cVpJaUJHRUZlNUxqZlhhZVUwNEpKMU5oR2FNSk15MkM2RGpldW51WXNqN0lyMTJTelZTak9MeVFFcWl4MHZrRVBwVXdLWXRCTDFrUzVuakJuWmdqUDZLUFRmSzh3VGRVZ0NXcW5V?oc=5",
-          "published": "Wed, 17 Dec 2025 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-07-07T10:27:09.399307+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Curated Beauty London launches simplified",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1dtY2RvYU9rNWZnb1ZvYUUyZGRyRTFmdHpQblM4NWdSQlA0XzNLNFE1ZmxCWHJCdGtla3dCaF9fNjZzck9Xc21RcmEyWVdPNTZpOEFFY09RNE52bi13SVd2Vl9zYkNCMWdCLWZWNFVWM1l0RmIwdHBlUk9ieHQyMWxoUXNfOWQ2NTlhRVBWQ3hjOEVTWUNHMHNJRDJIRGYxUGxBSnBxN0VRZHZYclBsQUxKWno2TU0?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Curated Beauty London launches simplified wellness-led skincare - NutraIngredients.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1dtY2RvYU9rNWZnb1ZvYUUyZGRyRTFmdHpQblM4NWdSQlA0XzNLNFE1ZmxCWHJCdGtla3dCaF9fNjZzck9Xc21RcmEyWVdPNTZpOEFFY09RNE52bi13SVd2Vl9zYkNCMWdCLWZWNFVWM1l0RmIwdHBlUk9ieHQyMWxoUXNfOWQ2NTlhRVBWQ3hjOEVTWUNHMHNJRDJIRGYxUGxBSnBxN0VRZHZYclBsQUxKWno2TU0?oc=5",
-          "published": "Mon, 15 Sep 2025 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-07-07T10:27:10.618179+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "In Review 2025: Beauty's best pop-ups",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wOHdUb2w5T2E0ZVpGOHZKOXdiUkVlWjBySW5DbTloTjJkaWI2QlJwWDNFNnpHYU9pMENIclYzZVBxUko5ZWlpb21qTWVVMGpvdlkzUEU5VFVrc3FjUG1oMXhqdFI3YWdRYUdTMnVsVW4?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "In Review 2025: Beauty's best pop-ups - TheIndustry.beauty",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wOHdUb2w5T2E0ZVpGOHZKOXdiUkVlWjBySW5DbTloTjJkaWI2QlJwWDNFNnpHYU9pMENIclYzZVBxUko5ZWlpb21qTWVVMGpvdlkzUEU5VFVrc3FjUG1oMXhqdFI3YWdRYUdTMnVsVW4?oc=5",
-          "published": "Wed, 31 Dec 2025 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-07-07T10:27:12.134706+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Stacey Solomon launches beauty brand's",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGlVM0pTWUVsMnpqdFJ5ZHhBaU9jdzI5ZzBEbkVnQlFoV1dVVUk0WW8zc2Q2UWtuSlctSU1aYmJBSGVIUVg4ZUp6MWFxbGMxQXhZcUxodnZJRUxyNmZNYW9FSHJlaWRVOGZDd3BKdnp0TmxVVjJlVGFScmw0b3c5VkJqaUxYSVQtXzRGeVo2c2l3OVk?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Stacey Solomon launches beauty brand's Selfridges pop-up as she leads celeb parties across London - London Evening Standard",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGlVM0pTWUVsMnpqdFJ5ZHhBaU9jdzI5ZzBEbkVnQlFoV1dVVUk0WW8zc2Q2UWtuSlctSU1aYmJBSGVIUVg4ZUp6MWFxbGMxQXhZcUxodnZJRUxyNmZNYW9FSHJlaWRVOGZDd3BKdnp0TmxVVjJlVGFScmw0b3c5VkJqaUxYSVQtXzRGeVo2c2l3OVk?oc=5",
-          "published": "Fri, 27 Feb 2026 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-07-07T10:27:13.933851+00:00",
+      "generated_at": "2026-07-08T09:26:27.099942+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -737,7 +591,157 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:15.404035+00:00",
+      "generated_at": "2026-07-08T09:26:28.014470+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "British startup brand, Curated Beauty",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWdsOW9yV0tua1B6a3JISWNRSU1LTzA3d2ljRkN3cVpJaUJHRUZlNUxqZlhhZVUwNEpKMU5oR2FNSk15MkM2RGpldW51WXNqN0lyMTJTelZTak9MeVFFcWl4MHZrRVBwVXdLWXRCTDFrUzVuakJuWmdqUDZLUFRmSzh3VGRVZ0NXcW5V?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "British startup brand, Curated Beauty London, launches in award-winning ‘super salon’ - Scratch Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWdsOW9yV0tua1B6a3JISWNRSU1LTzA3d2ljRkN3cVpJaUJHRUZlNUxqZlhhZVUwNEpKMU5oR2FNSk15MkM2RGpldW51WXNqN0lyMTJTelZTak9MeVFFcWl4MHZrRVBwVXdLWXRCTDFrUzVuakJuWmdqUDZLUFRmSzh3VGRVZ0NXcW5V?oc=5",
+          "published": "Wed, 17 Dec 2025 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-07-08T09:26:29.474766+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Curated Beauty London launches simplified",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1dtY2RvYU9rNWZnb1ZvYUUyZGRyRTFmdHpQblM4NWdSQlA0XzNLNFE1ZmxCWHJCdGtla3dCaF9fNjZzck9Xc21RcmEyWVdPNTZpOEFFY09RNE52bi13SVd2Vl9zYkNCMWdCLWZWNFVWM1l0RmIwdHBlUk9ieHQyMWxoUXNfOWQ2NTlhRVBWQ3hjOEVTWUNHMHNJRDJIRGYxUGxBSnBxN0VRZHZYclBsQUxKWno2TU0?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Curated Beauty London launches simplified wellness-led skincare - NutraIngredients.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1dtY2RvYU9rNWZnb1ZvYUUyZGRyRTFmdHpQblM4NWdSQlA0XzNLNFE1ZmxCWHJCdGtla3dCaF9fNjZzck9Xc21RcmEyWVdPNTZpOEFFY09RNE52bi13SVd2Vl9zYkNCMWdCLWZWNFVWM1l0RmIwdHBlUk9ieHQyMWxoUXNfOWQ2NTlhRVBWQ3hjOEVTWUNHMHNJRDJIRGYxUGxBSnBxN0VRZHZYclBsQUxKWno2TU0?oc=5",
+          "published": "Mon, 15 Sep 2025 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-07-08T09:26:30.127230+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "In Review 2025: Beauty's best pop-ups",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wOHdUb2w5T2E0ZVpGOHZKOXdiUkVlWjBySW5DbTloTjJkaWI2QlJwWDNFNnpHYU9pMENIclYzZVBxUko5ZWlpb21qTWVVMGpvdlkzUEU5VFVrc3FjUG1oMXhqdFI3YWdRYUdTMnVsVW4?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "In Review 2025: Beauty's best pop-ups - TheIndustry.beauty",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wOHdUb2w5T2E0ZVpGOHZKOXdiUkVlWjBySW5DbTloTjJkaWI2QlJwWDNFNnpHYU9pMENIclYzZVBxUko5ZWlpb21qTWVVMGpvdlkzUEU5VFVrc3FjUG1oMXhqdFI3YWdRYUdTMnVsVW4?oc=5",
+          "published": "Wed, 31 Dec 2025 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-07-08T09:26:31.057967+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Stacey Solomon launches beauty brand's",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGlVM0pTWUVsMnpqdFJ5ZHhBaU9jdzI5ZzBEbkVnQlFoV1dVVUk0WW8zc2Q2UWtuSlctSU1aYmJBSGVIUVg4ZUp6MWFxbGMxQXhZcUxodnZJRUxyNmZNYW9FSHJlaWRVOGZDd3BKdnp0TmxVVjJlVGFScmw0b3c5VkJqaUxYSVQtXzRGeVo2c2l3OVk?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Stacey Solomon launches beauty brand's Selfridges pop-up as she leads celeb parties across London - London Evening Standard",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGlVM0pTWUVsMnpqdFJ5ZHhBaU9jdzI5ZzBEbkVnQlFoV1dVVUk0WW8zc2Q2UWtuSlctSU1aYmJBSGVIUVg4ZUp6MWFxbGMxQXhZcUxodnZJRUxyNmZNYW9FSHJlaWRVOGZDd3BKdnp0TmxVVjJlVGFScmw0b3c5VkJqaUxYSVQtXzRGeVo2c2l3OVk?oc=5",
+          "published": "Fri, 27 Feb 2026 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-07-08T09:26:31.985389+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Dua by Augustinus Bader opens",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbC1rbGRrS2J1M2FtWWR4MFRmT2kzaTY2cXN3Q2FRQmFzZUhaNFVVRV9PdGF5NDZEbnBiSDF2S3BzVVdYbUZmVDg3RW5ZS1paM0E4N2ZqV05pV3pTZEVMdXNLRTFLV1FUbmlqeHRlX1dlUzBMeWQzQXJkeDgybmlTdHVONA?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Dua by Augustinus Bader opens first-ever pop-up to promote beauty brand - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbC1rbGRrS2J1M2FtWWR4MFRmT2kzaTY2cXN3Q2FRQmFzZUhaNFVVRV9PdGF5NDZEbnBiSDF2S3BzVVdYbUZmVDg3RW5ZS1paM0E4N2ZqV05pV3pTZEVMdXNLRTFLV1FUbmlqeHRlX1dlUzBMeWQzQXJkeDgybmlTdHVONA?oc=5",
+          "published": "Tue, 19 May 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-07-08T09:26:32.468145+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -767,7 +771,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:16.889450+00:00",
+      "generated_at": "2026-07-08T09:26:32.982410+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -797,7 +801,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:17.556437+00:00",
+      "generated_at": "2026-07-08T09:26:33.508268+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -827,7 +831,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:18.867589+00:00",
+      "generated_at": "2026-07-08T09:26:34.154767+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -857,37 +861,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:20.030806+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Harry Styles’ Pleasing brings PleasingLand",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2hVc1E1X1ZITnF4UzlTNWhjQk5KRVRZV0hCUW9tYmNHN3A4WHJsSURDYklNcEpnRnFqWmJCUk55SllnT0oxbS1HN0I0TUZGSlpBdXZ3UHRZMHBQbG5qUmNsWGZjREhHX3puM09JU0x1TVdqTHBpSFRLVnYyVmV2OGU3eDNDWlhBMXVERHFtcFROQQ?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Harry Styles’ Pleasing brings PleasingLand pop-up to UK ahead of ‘Together, Together’ tour in London - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2hVc1E1X1ZITnF4UzlTNWhjQk5KRVRZV0hCUW9tYmNHN3A4WHJsSURDYklNcEpnRnFqWmJCUk55SllnT0oxbS1HN0I0TUZGSlpBdXZ3UHRZMHBQbG5qUmNsWGZjREhHX3puM09JU0x1TVdqTHBpSFRLVnYyVmV2OGU3eDNDWlhBMXVERHFtcFROQQ?oc=5",
-          "published": "Mon, 08 Jun 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-07-07T10:27:21.989605+00:00",
+      "generated_at": "2026-07-08T09:26:34.620607+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -917,7 +891,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:23.719491+00:00",
+      "generated_at": "2026-07-08T09:26:35.131837+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -933,7 +907,7 @@
         {
           "title": "Charlotte Tilbury Beauty to enter Boots stores across the UK - Cosmetics Business",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTm51YzNpbVRaSHF1YmUtTC1wWHNYN1JaOWl0VjIybUxUcUlVSjBUQldJRVZMenE4bF92cjV1d3IzeW1VZTcxSldrVXNWYkJ6Yjdyd0dsZElhLWRXaXEwZlFlQlE3b1BjTFVmSmxyLWh6UzlmRHdOalRYMjQzbkNpNTVB?oc=5",
-          "published": "Thu, 25 Jun 2026 11:25:03 GMT"
+          "published": "Thu, 25 Jun 2026 07:00:00 GMT"
         }
       ],
       "contact": {
@@ -947,7 +921,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:24.246485+00:00",
+      "generated_at": "2026-07-08T09:26:38.262966+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -977,7 +951,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:26.003351+00:00",
+      "generated_at": "2026-07-08T09:26:39.239289+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1007,7 +981,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:27.492258+00:00",
+      "generated_at": "2026-07-08T09:26:39.795418+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1037,7 +1011,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:29.307047+00:00",
+      "generated_at": "2026-07-08T09:26:40.263170+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1067,7 +1041,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:31.121171+00:00",
+      "generated_at": "2026-07-08T09:26:40.807840+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1097,7 +1071,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:32.176504+00:00",
+      "generated_at": "2026-07-08T09:26:41.365069+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1127,7 +1101,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:33.794090+00:00",
+      "generated_at": "2026-07-08T09:26:42.091893+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1157,7 +1131,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:34.924458+00:00",
+      "generated_at": "2026-07-08T09:26:42.406139+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1173,7 +1147,7 @@
         {
           "title": "Beauty brand boom spurs marked rise in UK trademark disputes - World IP Review",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY0Z5Wm9XcWdfbVNKb3hpdFNkanJhVTJMZkVDaUs3VG50Yy1oeWQ2UVA4RFZ3cU5mbFJXN0xlaGp1VW1MZ3YtekV2ZV9IMmRZdXFEbzFwajR0TnNYcXYtWVdCc2lwaHYyVE85TnF1VHRBLWxMU0kyLXFIcDJLXzlFc0VXQklPUzFnc19HN0dGMHhrRXRR?oc=5",
-          "published": "Mon, 15 Jun 2026 16:10:12 GMT"
+          "published": "Mon, 15 Jun 2026 07:00:00 GMT"
         }
       ],
       "contact": {
@@ -1187,7 +1161,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:35.962690+00:00",
+      "generated_at": "2026-07-08T09:26:42.804948+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1217,37 +1191,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:37.585317+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Viral beauty brand Sephora to",
-      "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGc4OFBXSmRkNmVzc0NTdXcxdk5POXFiYzlDNGV6NTkyc29FX01DYU5FZ2xMaTlOVGI2eU5pYWFrTXhnQWxsOVByRzlRVVJOYXlOSC13eTlLM2JCNC1aZXk4MW9tNEFZenBPbzFoSk95eE5jYmktRVYyMVBlZkRnT0FNS1I?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Viral beauty brand Sephora to open two new stores in London - London Evening Standard",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGc4OFBXSmRkNmVzc0NTdXcxdk5POXFiYzlDNGV6NTkyc29FX01DYU5FZ2xMaTlOVGI2eU5pYWFrTXhnQWxsOVByRzlRVVJOYXlOSC13eTlLM2JCNC1aZXk4MW9tNEFZenBPbzFoSk95eE5jYmktRVYyMVBlZkRnT0FNS1I?oc=5",
-          "published": "Tue, 09 Jun 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-07-07T10:27:39.147179+00:00",
+      "generated_at": "2026-07-08T09:26:43.156686+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1277,7 +1221,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:40.468043+00:00",
+      "generated_at": "2026-07-08T09:26:43.480627+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Viral beauty brand Sephora to",
+      "matched_query": "new beauty brand London",
+      "evidence_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGc4OFBXSmRkNmVzc0NTdXcxdk5POXFiYzlDNGV6NTkyc29FX01DYU5FZ2xMaTlOVGI2eU5pYWFrTXhnQWxsOVByRzlRVVJOYXlOSC13eTlLM2JCNC1aZXk4MW9tNEFZenBPbzFoSk95eE5jYmktRVYyMVBlZkRnT0FNS1I?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Viral beauty brand Sephora to open two new stores in London - London Evening Standard",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGc4OFBXSmRkNmVzc0NTdXcxdk5POXFiYzlDNGV6NTkyc29FX01DYU5FZ2xMaTlOVGI2eU5pYWFrTXhnQWxsOVByRzlRVVJOYXlOSC13eTlLM2JCNC1aZXk4MW9tNEFZenBPbzFoSk95eE5jYmktRVYyMVBlZkRnT0FNS1I?oc=5",
+          "published": "Tue, 09 Jun 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-07-08T09:26:43.813156+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1307,7 +1281,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:41.524390+00:00",
+      "generated_at": "2026-07-08T09:26:44.642574+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1337,7 +1311,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:42.312079+00:00",
+      "generated_at": "2026-07-08T09:26:45.370436+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Boots accelerates beauty reinvention with",
+      "matched_query": "new beauty brand London",
+      "evidence_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1UxdFVTWUVmV21iNl9LZUF6ZGxCc2ZBaHlRY2x5aE5uYVlpamxWLXBYY2p2ekNOMFVkTXM1d2tCWmtWV2VlYjBtNWRmTlhQSnhTOWt4cEZfQ3dFR2tnV1lkWVYwYVY2d1h6bFdra3hwUENHNGlrbDlTMXh5eUJaSTBIcVd5dE5yRDZHMlVSYUJNY0NDOTZORFRVNjBRV1dpQndpa0t5VDByX25CczhWT1ZCallYeWw2d2ZVdzB4MG9IVXVX?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Boots accelerates beauty reinvention with opening of new concept store in Bristol - boots-uk.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1UxdFVTWUVmV21iNl9LZUF6ZGxCc2ZBaHlRY2x5aE5uYVlpamxWLXBYY2p2ekNOMFVkTXM1d2tCWmtWV2VlYjBtNWRmTlhQSnhTOWt4cEZfQ3dFR2tnV1lkWVYwYVY2d1h6bFdra3hwUENHNGlrbDlTMXh5eUJaSTBIcVd5dE5yRDZHMlVSYUJNY0NDOTZORFRVNjBRV1dpQndpa0t5VDByX25CczhWT1ZCallYeWw2d2ZVdzB4MG9IVXVX?oc=5",
+          "published": "Thu, 28 May 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-07-08T09:26:46.092245+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1367,37 +1371,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:43.931993+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Olivia Dean is the new",
-      "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFdQZkRNb0h3VnlOQlRubFo4MVhLYXZoWUpFaXFFd2w1Z0YtZWRaYmFxTC00RW8yUFpGTkdUenEyS0pWWkxXckI2QmZYQ3hsMjNTYVYtZjJhMHE3U05DZElsMkp6S19CcEp3Uy1DT01lX2ZsT2w2TDNBUDRWNlBqTU15SzNQNXh4Q1hwZ2pnSGdIX0hLSzJWcUNlaFlvT1lFQThZ?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Olivia Dean is the new face of beauty brand Hourglass - FashionNetwork France",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFdQZkRNb0h3VnlOQlRubFo4MVhLYXZoWUpFaXFFd2w1Z0YtZWRaYmFxTC00RW8yUFpGTkdUenEyS0pWWkxXckI2QmZYQ3hsMjNTYVYtZjJhMHE3U05DZElsMkp6S19CcEp3Uy1DT01lX2ZsT2w2TDNBUDRWNlBqTU15SzNQNXh4Q1hwZ2pnSGdIX0hLSzJWcUNlaFlvT1lFQThZ?oc=5",
-          "published": "Tue, 10 Mar 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-07-07T10:27:44.979939+00:00",
+      "generated_at": "2026-07-08T09:26:46.516871+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1427,7 +1401,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:46.569345+00:00",
+      "generated_at": "2026-07-08T09:26:47.349005+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Olivia Dean is the new",
+      "matched_query": "new beauty brand London",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFdQZkRNb0h3VnlOQlRubFo4MVhLYXZoWUpFaXFFd2w1Z0YtZWRaYmFxTC00RW8yUFpGTkdUenEyS0pWWkxXckI2QmZYQ3hsMjNTYVYtZjJhMHE3U05DZElsMkp6S19CcEp3Uy1DT01lX2ZsT2w2TDNBUDRWNlBqTU15SzNQNXh4Q1hwZ2pnSGdIX0hLSzJWcUNlaFlvT1lFQThZ?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Olivia Dean is the new face of beauty brand Hourglass - FashionNetwork France",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFdQZkRNb0h3VnlOQlRubFo4MVhLYXZoWUpFaXFFd2w1Z0YtZWRaYmFxTC00RW8yUFpGTkdUenEyS0pWWkxXckI2QmZYQ3hsMjNTYVYtZjJhMHE3U05DZElsMkp6S19CcEp3Uy1DT01lX2ZsT2w2TDNBUDRWNlBqTU15SzNQNXh4Q1hwZ2pnSGdIX0hLSzJWcUNlaFlvT1lFQThZ?oc=5",
+          "published": "Tue, 10 Mar 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-07-08T09:26:47.721395+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1457,7 +1461,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:47.876465+00:00",
+      "generated_at": "2026-07-08T09:26:48.526783+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1487,7 +1491,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:49.256636+00:00",
+      "generated_at": "2026-07-08T09:26:48.853957+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1517,7 +1521,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:51.048697+00:00",
+      "generated_at": "2026-07-08T09:26:49.183399+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1547,7 +1551,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:52.382642+00:00",
+      "generated_at": "2026-07-08T09:26:49.488653+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1577,7 +1581,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:53.708877+00:00",
+      "generated_at": "2026-07-08T09:26:49.806630+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1607,7 +1611,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:55.023615+00:00",
+      "generated_at": "2026-07-08T09:26:50.122148+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Beauty brand Merit steps up",
+      "matched_query": "UK makeup brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOblFrTy03eUZ2SldIcTlhb0wzRFdDWmI3RXktUDIxYlBWbkpFY0hxXzJJSGxRSDJ3VXFWem9YXy13Qmx6SFRGMDFST0Y0VkRidDh1Vl9ZNXFXcTdTV2NWSjNXVjdQZDJfQXBPSHAzOE9faUJaMDltWkwwc29OOGpzVFJsNFhUX05KQ3J1UlBpeW9ieHdjb1Ixd25ybEJDMTBxVkZ4RGY2OEFqWkxXeXM0d285NDNQVWJIc3Y0NTVJNDY4VFBsamYxQXJMeHg?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Beauty brand Merit steps up its international expansion, launching in Spain and Italy - FashionNetwork France",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOblFrTy03eUZ2SldIcTlhb0wzRFdDWmI3RXktUDIxYlBWbkpFY0hxXzJJSGxRSDJ3VXFWem9YXy13Qmx6SFRGMDFST0Y0VkRidDh1Vl9ZNXFXcTdTV2NWSjNXVjdQZDJfQXBPSHAzOE9faUJaMDltWkwwc29OOGpzVFJsNFhUX05KQ3J1UlBpeW9ieHdjb1Ixd25ybEJDMTBxVkZ4RGY2OEFqWkxXeXM0d285NDNQVWJIc3Y0NTVJNDY4VFBsamYxQXJMeHg?oc=5",
+          "published": "Wed, 28 Jan 2026 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-07-08T09:26:50.436380+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1637,37 +1671,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-07-07T10:27:56.021453+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Sincerely Yours skincare UK: Salish",
-      "matched_query": "UK makeup brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SeElkTWUyV3VvblpMdi1ZMmFHVDlfSDNsdG9CRVJnUmlNRmpuUjh1aDZjNTJJTUdnYXRRRUZPR3RDX2pVN0czUE1fZTNrSGJmd0RVNHlibzhXcDZ6M1FNS0s4dDBwU19BQTYtOTZRMGJxdHRxeGZj?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Sincerely Yours skincare UK: Salish Matter launches teen skincare brand Sincerely Yours – will it come to the UK? - Mamabella",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SeElkTWUyV3VvblpMdi1ZMmFHVDlfSDNsdG9CRVJnUmlNRmpuUjh1aDZjNTJJTUdnYXRRRUZPR3RDX2pVN0czUE1fZTNrSGJmd0RVNHlibzhXcDZ6M1FNS0s4dDBwU19BQTYtOTZRMGJxdHRxeGZj?oc=5",
-          "published": "Sun, 31 May 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-07-07T10:27:57.060398+00:00",
+      "generated_at": "2026-07-08T09:26:50.773553+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
