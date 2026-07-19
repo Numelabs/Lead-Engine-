@@ -5,16 +5,10 @@
   "website": "https://skinrocks.com",
   "news_mentions": [],
   "contact": {
-    "primary_email": "store@skinrocks.com",
+    "primary_email": "",
     "other_emails": [],
-    "contact_form_url": "https://skinrocks.com/products/digital-gift-card",
-    "checked_pages": [
-      "https://skinrocks.com/sitemap.xml",
-      "https://skinrocks.com/products/digital-gift-card",
-      "https://skinrocks.com/products/the-eye-cream",
-      "https://skinrocks.com/products/the-support-oil",
-      "https://skinrocks.com/products/the-moisturiser-supersize"
-    ]
+    "contact_form_url": "",
+    "checked_pages": []
   },
   "site": {
     "pages": {
@@ -45,17 +39,14 @@
     },
     "change_flags": [
       "homepage",
-      "products",
-      "shop",
-      "collections"
+      "shop"
     ]
   },
-  "generated_at": "2026-07-18T08:49:01.921691+00:00",
-  "score": 71,
+  "generated_at": "2026-07-19T09:05:01.220747+00:00",
+  "score": 36,
   "score_reasons": [
-    "Contact method found",
     "4 site page(s) captured",
     "Site changed since last check"
   ],
-  "has_contact": true
+  "has_contact": false
 }
