@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-07-21T09:28:15.023642+00:00
+Generated at: 2026-07-22T09:28:16.076135+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -74,9 +74,9 @@ Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
 News mentions: None
 Site snippets:
 - homepage (https://votary.co.uk)
-  VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders Free Mini Night Duo with orders over £75* Free shipping to United Kingdom on all orders Discover new Ultimate Light Cream SUMMER SHOPPING EVENT SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Summer Shopping Event Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Mini Night Duo with orders over £75* Free shipping to United Kingdom on all orders Discover new Ultimate Light 
+  VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders Free Super Seed SOS Mini Duo with orders over £75* Free shipping to United Kingdom on all orders Discover new Ultimate Light Cream SUMMER SHOPPING EVENT SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Summer Shopping Event Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Super Seed SOS Mini Duo with orders over £75* Free shipping to United Kingdom on all orders Discover n
 - products (https://votary.co.uk/products)
-  Collections - VOTARY No duties, tariffs, or taxes on US orders Free Mini Night Duo with orders over £75* Free shipping to United Kingdom on all orders Discover new Ultimate Light Cream SUMMER SHOPPING EVENT SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Summer Shopping Event Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Mini Night Duo with orders over £75* Free shipping to United Kingdom on all orders Discover new Ultimate Light Cream Login CONTACT US 0 Your
+  Collections - VOTARY No duties, tariffs, or taxes on US orders Free Super Seed SOS Mini Duo with orders over £75* Free shipping to United Kingdom on all orders Discover new Ultimate Light Cream SUMMER SHOPPING EVENT SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Summer Shopping Event Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Super Seed SOS Mini Duo with orders over £75* Free shipping to United Kingdom on all orders Discover new Ultimate Light Cream Login
 
 === BRAND 2 ===
 Name: Skin Rocks
