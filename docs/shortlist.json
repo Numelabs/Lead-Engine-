@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T09:10:25.399890+00:00",
+  "generated_at": "2026-08-03T10:44:04.361225+00:00",
   "rules": {
     "requires_website": true,
     "requires_contact": true
@@ -55,10 +55,12 @@
         },
         "change_flags": [
           "homepage",
-          "shop"
+          "products",
+          "shop",
+          "collections"
         ]
       },
-      "generated_at": "2026-08-02T09:09:29.572433+00:00",
+      "generated_at": "2026-08-03T10:43:11.174579+00:00",
       "score": 71,
       "score_reasons": [
         "Contact method found",
@@ -117,7 +119,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-08-02T09:08:52.791055+00:00",
+      "generated_at": "2026-08-03T10:42:29.426738+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -134,6 +136,7 @@
       "contact": {
         "primary_email": "sales@VOTARY.co.uk",
         "other_emails": [
+          "aa4cacd33be28673d7e69be559ce7ad7@o4506196830715904.ingest.us.sentry.io",
           "e7d54b729aaf49ea8b2f80dae22860aa@sentry.zipify.com",
           "f14faca962674f149161045845b21b35@sentry.zipify.com",
           "sales@votary.co.uk",
@@ -179,7 +182,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-08-02T09:09:13.023737+00:00",
+      "generated_at": "2026-08-03T10:42:52.425986+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
