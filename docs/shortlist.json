@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:32:23.682809+00:00",
+  "generated_at": "2026-08-16T07:32:27.076272+00:00",
   "rules": {
     "requires_website": true,
     "requires_contact": true
@@ -8,6 +8,64 @@
   "total_actionable": 3,
   "count": 3,
   "shortlist": [
+    {
+      "brand_name": "REOME",
+      "matched_query": "watchlist",
+      "evidence_link": "",
+      "website": "https://reome.com",
+      "news_mentions": [],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "https://reome.com/contact",
+        "checked_pages": [
+          "https://reome.com/sitemap.xml",
+          "https://reome.com/contact",
+          "https://reome.com/stockists",
+          "https://reome.com/about",
+          "https://reome.com/products/hydra-plasma-veil-5",
+          "https://reome.com/products/biogenic-melting-cream",
+          "https://reome.com/products/active-recovery-broth",
+          "https://reome.com/products/three-suns-balm"
+        ]
+      },
+      "site": {
+        "pages": {
+          "homepage": "https://reome.com",
+          "products": "https://reome.com/products",
+          "shop": "https://reome.com/shop",
+          "collections": "https://reome.com/collections",
+          "press": "https://reome.com/press",
+          "journal": "https://reome.com/journal"
+        },
+        "fetched_pages": {
+          "homepage": {
+            "url": "https://reome.com",
+            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free Three Suns Balm with every order Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Bio-Glow Duo Bundle, Save 15% The Extraordinary Skin Set Bundle, Save 15% Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks f"
+          },
+          "products": {
+            "url": "https://reome.com/products",
+            "snippet": "Collections – REOME Skip to content Free Three Suns Balm with every order Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Bio-Glow Duo Bundle, Save 15% The Extraordinary Skin Set Bundle, Save 15% Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hydration in 20 m"
+          },
+          "shop": {
+            "url": "https://reome.com/shop",
+            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free Three Suns Balm with every order Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Bio-Glow Duo Bundle, Save 15% The Extraordinary Skin Set Bundle, Save 15% Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks f"
+          },
+          "collections": {
+            "url": "https://reome.com/collections",
+            "snippet": "Collections – REOME Skip to content Free Three Suns Balm with every order Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Bio-Glow Duo Bundle, Save 15% The Extraordinary Skin Set Bundle, Save 15% Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hydration in 20 m"
+          }
+        },
+        "change_flags": []
+      },
+      "generated_at": "2026-08-16T07:30:52.553098+00:00",
+      "score": 51,
+      "score_reasons": [
+        "Contact method found",
+        "4 site page(s) captured"
+      ],
+      "has_contact": true
+    },
     {
       "brand_name": "Votary",
       "matched_query": "watchlist",
@@ -61,71 +119,9 @@
             "snippet": "Collections - VOTARY No duties, tariffs, or taxes on US orders Free Striped Bag with orders over £60* Discover new Ultimate Light Cream SUMMER SHOPPING EVENT SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Summer Shopping Event Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Striped Bag with orders over £60* Discover new Ultimate Light Cream Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Super Barrier Balm. £35 Add Lip Balm. £18 Add £"
           }
         },
-        "change_flags": [
-          "homepage",
-          "shop"
-        ]
-      },
-      "generated_at": "2026-08-15T07:30:49.206804+00:00",
-      "score": 71,
-      "score_reasons": [
-        "Contact method found",
-        "4 site page(s) captured",
-        "Site changed since last check"
-      ],
-      "has_contact": true
-    },
-    {
-      "brand_name": "REOME",
-      "matched_query": "watchlist",
-      "evidence_link": "",
-      "website": "https://reome.com",
-      "news_mentions": [],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "https://reome.com/contact",
-        "checked_pages": [
-          "https://reome.com/sitemap.xml",
-          "https://reome.com/contact",
-          "https://reome.com/stockists",
-          "https://reome.com/about",
-          "https://reome.com/products/hydra-plasma-veil-5",
-          "https://reome.com/products/biogenic-melting-cream",
-          "https://reome.com/products/active-recovery-broth",
-          "https://reome.com/products/three-suns-balm"
-        ]
-      },
-      "site": {
-        "pages": {
-          "homepage": "https://reome.com",
-          "products": "https://reome.com/products",
-          "shop": "https://reome.com/shop",
-          "collections": "https://reome.com/collections",
-          "press": "https://reome.com/press",
-          "journal": "https://reome.com/journal"
-        },
-        "fetched_pages": {
-          "homepage": {
-            "url": "https://reome.com",
-            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free Three Suns Balm with every order Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Bio-Glow Duo Bundle, Save 15% The Extraordinary Skin Set Bundle, Save 15% Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks f"
-          },
-          "products": {
-            "url": "https://reome.com/products",
-            "snippet": "Collections – REOME Skip to content Free Three Suns Balm with every order Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Bio-Glow Duo Bundle, Save 15% The Extraordinary Skin Set Bundle, Save 15% Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hydration in 20 m"
-          },
-          "shop": {
-            "url": "https://reome.com/shop",
-            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free Three Suns Balm with every order Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Bio-Glow Duo Bundle, Save 15% The Extraordinary Skin Set Bundle, Save 15% Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks f"
-          },
-          "collections": {
-            "url": "https://reome.com/collections",
-            "snippet": "Collections – REOME Skip to content Free Three Suns Balm with every order Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil NEW Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Bio-Glow Duo Bundle, Save 15% The Extraordinary Skin Set Bundle, Save 15% Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep hydration in 20 m"
-          }
-        },
         "change_flags": []
       },
-      "generated_at": "2026-08-15T07:30:30.591120+00:00",
+      "generated_at": "2026-08-16T07:31:13.468919+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -180,7 +176,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-08-15T07:31:05.063488+00:00",
+      "generated_at": "2026-08-16T07:31:32.731438+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
