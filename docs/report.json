@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T12:37:47.978763+00:00",
+  "generated_at": "2026-08-31T14:52:43.857344+00:00",
   "brands": [
     {
       "brand_name": "REOME",
@@ -51,7 +51,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:37:47.978860+00:00",
+      "generated_at": "2026-08-31T14:52:43.857433+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -114,7 +114,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:38:10.546539+00:00",
+      "generated_at": "2026-08-31T14:53:06.041224+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -169,7 +169,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:38:30.684207+00:00",
+      "generated_at": "2026-08-31T14:53:26.838272+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -200,7 +200,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:38:49.696721+00:00",
+      "generated_at": "2026-08-31T14:53:44.560344+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -230,7 +230,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:38:50.803510+00:00",
+      "generated_at": "2026-08-31T14:53:46.008916+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -260,7 +260,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:38:51.541391+00:00",
+      "generated_at": "2026-08-31T14:53:47.150166+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -290,37 +290,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:38:52.236681+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Boots welcome Charlotte Tilbury Beauty",
-      "matched_query": "UK beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWE9ENXJ6UjhQdk4yWk5pSURYR3RybDhJbFI0ZEh0eWY3czRfSVFKT2ZyT09OWUVNdFpmaGtoWXB2bE84WjM1UmRueDEtYmQwdzRLa21xM0h2WmJ2RnEwUnJkaVJ4bHZzc09KaENVX2VlN253Q3VBb3BLTFpEMUJ6bVlRck5weUtpVTRad3E3NFVUaVlrNGZuaWZxTlVPT0NqWnhISzEzMXQ3M2lGZ2lnZ2prU0NOZFU?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Boots welcome Charlotte Tilbury Beauty to selected stores across the UK - Boots. With you, for life.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWE9ENXJ6UjhQdk4yWk5pSURYR3RybDhJbFI0ZEh0eWY3czRfSVFKT2ZyT09OWUVNdFpmaGtoWXB2bE84WjM1UmRueDEtYmQwdzRLa21xM0h2WmJ2RnEwUnJkaVJ4bHZzc09KaENVX2VlN253Q3VBb3BLTFpEMUJ6bVlRck5weUtpVTRad3E3NFVUaVlrNGZuaWZxTlVPT0NqWnhISzEzMXQ3M2lGZ2lnZ2prU0NOZFU?oc=5",
-          "published": "Tue, 30 Jun 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-08-30T12:38:52.966110+00:00",
+      "generated_at": "2026-08-31T14:53:48.574484+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -350,7 +320,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:38:53.698712+00:00",
+      "generated_at": "2026-08-31T14:53:49.898494+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Boots welcome Charlotte Tilbury Beauty",
+      "matched_query": "UK beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWE9ENXJ6UjhQdk4yWk5pSURYR3RybDhJbFI0ZEh0eWY3czRfSVFKT2ZyT09OWUVNdFpmaGtoWXB2bE84WjM1UmRueDEtYmQwdzRLa21xM0h2WmJ2RnEwUnJkaVJ4bHZzc09KaENVX2VlN253Q3VBb3BLTFpEMUJ6bVlRck5weUtpVTRad3E3NFVUaVlrNGZuaWZxTlVPT0NqWnhISzEzMXQ3M2lGZ2lnZ2prU0NOZFU?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Boots welcome Charlotte Tilbury Beauty to selected stores across the UK - Boots. With you, for life.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWE9ENXJ6UjhQdk4yWk5pSURYR3RybDhJbFI0ZEh0eWY3czRfSVFKT2ZyT09OWUVNdFpmaGtoWXB2bE84WjM1UmRueDEtYmQwdzRLa21xM0h2WmJ2RnEwUnJkaVJ4bHZzc09KaENVX2VlN253Q3VBb3BLTFpEMUJ6bVlRck5weUtpVTRad3E3NFVUaVlrNGZuaWZxTlVPT0NqWnhISzEzMXQ3M2lGZ2lnZ2prU0NOZFU?oc=5",
+          "published": "Tue, 30 Jun 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-08-31T14:53:51.401013+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -380,7 +380,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:38:54.854996+00:00",
+      "generated_at": "2026-08-31T14:53:52.828563+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -410,7 +410,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:38:56.126708+00:00",
+      "generated_at": "2026-08-31T14:53:54.250126+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -440,7 +440,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:38:57.237162+00:00",
+      "generated_at": "2026-08-31T14:53:55.658046+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -470,7 +470,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:38:57.980573+00:00",
+      "generated_at": "2026-08-31T14:53:56.614474+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -500,7 +500,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:38:59.037015+00:00",
+      "generated_at": "2026-08-31T14:53:58.013313+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -508,15 +508,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Exclusive: Jo Malone London expands",
+      "brand_name": "Korean skincare brand Beauty of",
       "matched_query": "UK beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNamtEZlVtMEpYc2Z0NGlTcUJacm1IRjRoc2pNeGQ2Q19XZlR1dFcxU2RGVWhhQ2J6X3FIVTF5cm9iVS1vdk9nQkdJUkVWSEhwZ1EzMVdIcEk3Mnp0VXBVSWtiNS10Q0VnUV9JVUNfZjl2NDNjekxoYmp2YjJ6RlpLRUZR?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSVI2YlRhNGY0WVRGSDJVV0N5NG1acVctdGNUMkVTb2NYSHdMZ1Z0UDJvaTFPVGFKbzhDbTVFbjJrY28wMjEzeC0wMldJdzBUajJ6NTV3RVRnSks2T2dBeVhpNUZ5VTN1UGxUSlVrWmZ2alpuRjhMWHF2NXNlcTNyVHQ3VDZ2c0dub19vQklBaUhDdGVmS3ZENTFDQUREaUpDcWxYVHZFUFZDSFdTY2xtY2FPTXh5UnVVRURtM1kzUWNpQnlIWE4yWTdpWkxQcXdsWE9YSWtzZ0o?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Exclusive: Jo Malone London expands retail footprint with Boots launch and unveils new collection - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNamtEZlVtMEpYc2Z0NGlTcUJacm1IRjRoc2pNeGQ2Q19XZlR1dFcxU2RGVWhhQ2J6X3FIVTF5cm9iVS1vdk9nQkdJUkVWSEhwZ1EzMVdIcEk3Mnp0VXBVSWtiNS10Q0VnUV9JVUNfZjl2NDNjekxoYmp2YjJ6RlpLRUZR?oc=5",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT"
+          "title": "Korean skincare brand Beauty of Joseon enlists THG Commerce to power UK TikTok Shop launch - Retail Technology Innovation Hub",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSVI2YlRhNGY0WVRGSDJVV0N5NG1acVctdGNUMkVTb2NYSHdMZ1Z0UDJvaTFPVGFKbzhDbTVFbjJrY28wMjEzeC0wMldJdzBUajJ6NTV3RVRnSks2T2dBeVhpNUZ5VTN1UGxUSlVrWmZ2alpuRjhMWHF2NXNlcTNyVHQ3VDZ2c0dub19vQklBaUhDdGVmS3ZENTFDQUREaUpDcWxYVHZFUFZDSFdTY2xtY2FPTXh5UnVVRURtM1kzUWNpQnlIWE4yWTdpWkxQcXdsWE9YSWtzZ0o?oc=5",
+          "published": "Thu, 26 Mar 2026 07:00:00 GMT"
         }
       ],
       "contact": {
@@ -530,7 +530,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:38:59.729095+00:00",
+      "generated_at": "2026-08-31T14:53:59.489082+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -560,7 +560,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:00.950932+00:00",
+      "generated_at": "2026-08-31T14:54:04.722573+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -590,7 +590,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:01.654598+00:00",
+      "generated_at": "2026-08-31T14:54:06.196368+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Exclusive: Jo Malone London expands",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNamtEZlVtMEpYc2Z0NGlTcUJacm1IRjRoc2pNeGQ2Q19XZlR1dFcxU2RGVWhhQ2J6X3FIVTF5cm9iVS1vdk9nQkdJUkVWSEhwZ1EzMVdIcEk3Mnp0VXBVSWtiNS10Q0VnUV9JVUNfZjl2NDNjekxoYmp2YjJ6RlpLRUZR?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Exclusive: Jo Malone London expands retail footprint with Boots launch and unveils new collection - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNamtEZlVtMEpYc2Z0NGlTcUJacm1IRjRoc2pNeGQ2Q19XZlR1dFcxU2RGVWhhQ2J6X3FIVTF5cm9iVS1vdk9nQkdJUkVWSEhwZ1EzMVdIcEk3Mnp0VXBVSWtiNS10Q0VnUV9JVUNfZjl2NDNjekxoYmp2YjJ6RlpLRUZR?oc=5",
+          "published": "Tue, 04 Aug 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-08-31T14:54:07.562563+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -620,7 +650,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:02.389956+00:00",
+      "generated_at": "2026-08-31T14:54:09.001445+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -650,7 +680,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:03.040177+00:00",
+      "generated_at": "2026-08-31T14:54:10.358270+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -680,7 +710,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:03.854973+00:00",
+      "generated_at": "2026-08-31T14:54:11.809924+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -694,7 +724,7 @@
       "website": "",
       "news_mentions": [
         {
-          "title": "Beauty Advent Calendars Are Already Launching—9 You Need to See Before They Sell Out - whowhatwear.com",
+          "title": "Beauty Advent Calendars Are Already Launching—9 You Need to See Before They Sell Out - Who What Wear",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RajJ4S1Nvc2N5MTJYVEcwbW9XWm9MaEJOZEQyZnM5aU5lc245Z1AwTno3Rzl4c0x6MlMxU1VjaW12SkRlVVdMSVd3YmFrZjNTVjVoNngyNnplcjFtcklmTDhNalNib3otZlRR?oc=5",
           "published": "Thu, 13 Aug 2026 07:00:00 GMT"
         }
@@ -710,7 +740,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:04.950983+00:00",
+      "generated_at": "2026-08-31T14:54:12.808167+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -740,37 +770,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:05.681203+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "K-beauty brand Anua is touring",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WUFJKaWhBVWQ0WjQwejJIdmVhVjdPUlhabHRVUVRXeEdZdVE1SHU0djhpQjdkeEM2VzhjaWg3SFJPSkE0VFVCU1llWDl0OEYxSk94bF9aYU53U3h5ZnlURHlRYmlwUVB1V1NDMlM1NW15ckQ4eFE?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "K-beauty brand Anua is touring the UK exclusively via Selfridges this summer - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WUFJKaWhBVWQ0WjQwejJIdmVhVjdPUlhabHRVUVRXeEdZdVE1SHU0djhpQjdkeEM2VzhjaWg3SFJPSkE0VFVCU1llWDl0OEYxSk94bF9aYU53U3h5ZnlURHlRYmlwUVB1V1NDMlM1NW15ckQ4eFE?oc=5",
-          "published": "Mon, 15 Jun 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-08-30T12:39:06.839742+00:00",
+      "generated_at": "2026-08-31T14:54:14.273385+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -800,7 +800,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:07.966398+00:00",
+      "generated_at": "2026-08-31T14:54:15.307965+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "K-beauty brand Anua is touring",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WUFJKaWhBVWQ0WjQwejJIdmVhVjdPUlhabHRVUVRXeEdZdVE1SHU0djhpQjdkeEM2VzhjaWg3SFJPSkE0VFVCU1llWDl0OEYxSk94bF9aYU53U3h5ZnlURHlRYmlwUVB1V1NDMlM1NW15ckQ4eFE?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "K-beauty brand Anua is touring the UK exclusively via Selfridges this summer - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WUFJKaWhBVWQ0WjQwejJIdmVhVjdPUlhabHRVUVRXeEdZdVE1SHU0djhpQjdkeEM2VzhjaWg3SFJPSkE0VFVCU1llWDl0OEYxSk94bF9aYU53U3h5ZnlURHlRYmlwUVB1V1NDMlM1NW15ckQ4eFE?oc=5",
+          "published": "Mon, 15 Jun 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-08-31T14:54:16.825615+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -830,7 +860,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:09.071365+00:00",
+      "generated_at": "2026-08-31T14:54:18.277266+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -860,37 +890,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:09.816550+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "The surprising reason behind Vaseline’s",
-      "matched_query": "new beauty brand UK",
-      "evidence_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUZvSy1ZeDd2VWNCVDBJcHU5S0VwaXJReUZHRHVNSE9pZjAtaGRmWkE1dXNMX1Vrck9UUUFUTVRYNW95U2Yyekc4OGs3YXkwRkE1QTQtWlBMdUdYcnNJN3BOOVhIV2Jia1BNY0FESXdyRDlncmFONmp2NEpNRkxzTDEyc1Mwa0V3eTFUM1dObmFqNFhzQlE?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "The surprising reason behind Vaseline’s recent ‘Baseline’ rebrand - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUZvSy1ZeDd2VWNCVDBJcHU5S0VwaXJReUZHRHVNSE9pZjAtaGRmWkE1dXNMX1Vrck9UUUFUTVRYNW95U2Yyekc4OGs3YXkwRkE1QTQtWlBMdUdYcnNJN3BOOVhIV2Jia1BNY0FESXdyRDlncmFONmp2NEpNRkxzTDEyc1Mwa0V3eTFUM1dObmFqNFhzQlE?oc=5",
-          "published": "Thu, 27 Aug 2026 11:26:49 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-08-30T12:39:10.551086+00:00",
+      "generated_at": "2026-08-31T14:54:19.639600+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -920,7 +920,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:11.330108+00:00",
+      "generated_at": "2026-08-31T14:54:21.015662+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "The surprising reason behind Vaseline’s",
+      "matched_query": "new beauty brand UK",
+      "evidence_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUZvSy1ZeDd2VWNCVDBJcHU5S0VwaXJReUZHRHVNSE9pZjAtaGRmWkE1dXNMX1Vrck9UUUFUTVRYNW95U2Yyekc4OGs3YXkwRkE1QTQtWlBMdUdYcnNJN3BOOVhIV2Jia1BNY0FESXdyRDlncmFONmp2NEpNRkxzTDEyc1Mwa0V3eTFUM1dObmFqNFhzQlE?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "The surprising reason behind Vaseline’s recent ‘Baseline’ rebrand - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUZvSy1ZeDd2VWNCVDBJcHU5S0VwaXJReUZHRHVNSE9pZjAtaGRmWkE1dXNMX1Vrck9UUUFUTVRYNW95U2Yyekc4OGs3YXkwRkE1QTQtWlBMdUdYcnNJN3BOOVhIV2Jia1BNY0FESXdyRDlncmFONmp2NEpNRkxzTDEyc1Mwa0V3eTFUM1dObmFqNFhzQlE?oc=5",
+          "published": "Thu, 27 Aug 2026 11:26:49 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-08-31T14:54:22.393806+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -950,7 +980,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:12.061035+00:00",
+      "generated_at": "2026-08-31T14:54:23.475764+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -980,37 +1010,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:13.183485+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "UK's largest Korean beauty brand",
-      "matched_query": "new beauty brand UK",
-      "evidence_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wVGhxM0IwblVCbmJvc1hNbnV5RGVRMGVFY0tGUHB1OF8yWUZ5WHV5TE9BUWhzTjQ2WXBPSkJUM1dTcExxejZoejJjYkQ3ckxpUkRFU3BNUW9ZbW5nYnNjVWxFSDdUTVhoZm9GcXJfQ2Q2c3dYX1MzUkJLSDk3Zw?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "UK's largest Korean beauty brand confirms opening of first ever Scottish store - Yahoo Life UK",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wVGhxM0IwblVCbmJvc1hNbnV5RGVRMGVFY0tGUHB1OF8yWUZ5WHV5TE9BUWhzTjQ2WXBPSkJUM1dTcExxejZoejJjYkQ3ckxpUkRFU3BNUW9ZbW5nYnNjVWxFSDdUTVhoZm9GcXJfQ2Q2c3dYX1MzUkJLSDk3Zw?oc=5",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-08-30T12:39:13.898246+00:00",
+      "generated_at": "2026-08-31T14:54:24.910125+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1040,7 +1040,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:14.666813+00:00",
+      "generated_at": "2026-08-31T14:54:26.375521+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1056,7 +1056,7 @@
         {
           "title": "The Makeup Brands Currently Commanding My Attention as a Beauty Insider - Marie Claire UK",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDRUb2hqT2lMTGRWWmFIcDhBa1JxZWlQR1ZWUVlIVWhTaTdWaGE2U1lKeklYOVhhSUNZM25ieG9QMldMVTZIQVZva05XQlFCVUtyc21oV0tqOFp2Yld5azZXaTJ5NklaSlZHTXhpM0NXOFJSXzZWQXViSFZrZnlqOGdrTjdHQmI1?oc=5",
-          "published": "Mon, 26 Jan 2026 08:00:00 GMT"
+          "published": "Tue, 27 Jan 2026 08:00:00 GMT"
         }
       ],
       "contact": {
@@ -1070,7 +1070,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:15.874366+00:00",
+      "generated_at": "2026-08-31T14:54:27.796938+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "UK's largest Korean beauty brand",
+      "matched_query": "new beauty brand UK",
+      "evidence_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wVGhxM0IwblVCbmJvc1hNbnV5RGVRMGVFY0tGUHB1OF8yWUZ5WHV5TE9BUWhzTjQ2WXBPSkJUM1dTcExxejZoejJjYkQ3ckxpUkRFU3BNUW9ZbW5nYnNjVWxFSDdUTVhoZm9GcXJfQ2Q2c3dYX1MzUkJLSDk3Zw?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "UK's largest Korean beauty brand confirms opening of first ever Scottish store - Yahoo Life UK",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wVGhxM0IwblVCbmJvc1hNbnV5RGVRMGVFY0tGUHB1OF8yWUZ5WHV5TE9BUWhzTjQ2WXBPSkJUM1dTcExxejZoejJjYkQ3ckxpUkRFU3BNUW9ZbW5nYnNjVWxFSDdUTVhoZm9GcXJfQ2Q2c3dYX1MzUkJLSDk3Zw?oc=5",
+          "published": "Tue, 04 Aug 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-08-31T14:54:29.043744+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1100,37 +1130,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:16.315444+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Everything to know about Dragons’",
-      "matched_query": "new beauty brand UK",
-      "evidence_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXBHWTJsbENyaFNaNGJKNzk2QW9raFdyRVhNU3I1ZjRqdXNmOFhnaXFkbUJvLUhUVzZDckJ4OHJrX1BycWM3WHNRblVycEg2akdMM2lYZy1fbDNON1Z1OE53VTYzd1dnN05YblhLNUlwUVAzNEg4a0F6Z3lIa08yX0ZMQWJzWjdTVUp0OXRGR2hvN0xyUThYRXV1QVRQTGZTXzdTQWRIR1plWWc2aGc?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Everything to know about Dragons’ Den guest judge, Jenna Meek - The Independent",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXBHWTJsbENyaFNaNGJKNzk2QW9raFdyRVhNU3I1ZjRqdXNmOFhnaXFkbUJvLUhUVzZDckJ4OHJrX1BycWM3WHNRblVycEg2akdMM2lYZy1fbDNON1Z1OE53VTYzd1dnN05YblhLNUlwUVAzNEg4a0F6Z3lIa08yX0ZMQWJzWjdTVUp0OXRGR2hvN0xyUThYRXV1QVRQTGZTXzdTQWRIR1plWWc2aGc?oc=5",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-08-30T12:39:16.780092+00:00",
+      "generated_at": "2026-08-31T14:54:30.225789+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1160,7 +1160,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:17.254099+00:00",
+      "generated_at": "2026-08-31T14:54:31.038701+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Everything to know about Dragons’",
+      "matched_query": "new beauty brand UK",
+      "evidence_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXBHWTJsbENyaFNaNGJKNzk2QW9raFdyRVhNU3I1ZjRqdXNmOFhnaXFkbUJvLUhUVzZDckJ4OHJrX1BycWM3WHNRblVycEg2akdMM2lYZy1fbDNON1Z1OE53VTYzd1dnN05YblhLNUlwUVAzNEg4a0F6Z3lIa08yX0ZMQWJzWjdTVUp0OXRGR2hvN0xyUThYRXV1QVRQTGZTXzdTQWRIR1plWWc2aGc?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Everything to know about Dragons’ Den guest judge, Jenna Meek - The Independent",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXBHWTJsbENyaFNaNGJKNzk2QW9raFdyRVhNU3I1ZjRqdXNmOFhnaXFkbUJvLUhUVzZDckJ4OHJrX1BycWM3WHNRblVycEg2akdMM2lYZy1fbDNON1Z1OE53VTYzd1dnN05YblhLNUlwUVAzNEg4a0F6Z3lIa08yX0ZMQWJzWjdTVUp0OXRGR2hvN0xyUThYRXV1QVRQTGZTXzdTQWRIR1plWWc2aGc?oc=5",
+          "published": "Fri, 21 Aug 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-08-31T14:54:32.247815+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1190,37 +1220,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:17.672128+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Down to Business with CB",
-      "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Sb1VxMFpRR2lnZkhfX2hnb0Z5eU4xbGVZeHMxQ19JNEtQRjFfaDlWSHktZndiaTloSmNMa2IyNGpGMXR1RXhMajNJZlJlTEt3Zzd2dkR4M0tmVXZtQzItd0pVREg?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Down to Business with CB gives insight into the worklives of some of beauty’s biggest names - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Sb1VxMFpRR2lnZkhfX2hnb0Z5eU4xbGVZeHMxQ19JNEtQRjFfaDlWSHktZndiaTloSmNMa2IyNGpGMXR1RXhMajNJZlJlTEt3Zzd2dkR4M0tmVXZtQzItd0pVREg?oc=5",
-          "published": "Thu, 13 Aug 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-08-30T12:39:18.167393+00:00",
+      "generated_at": "2026-08-31T14:54:33.422222+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1250,7 +1250,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:18.650988+00:00",
+      "generated_at": "2026-08-31T14:54:34.640493+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1280,7 +1280,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:19.052717+00:00",
+      "generated_at": "2026-08-31T14:54:35.853318+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1310,7 +1310,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:19.891258+00:00",
+      "generated_at": "2026-08-31T14:54:37.085075+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1318,15 +1318,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Superdrug adds new brands to",
+      "brand_name": "Down to Business with CB",
       "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQlNZVEFrZURqQU03SlFSU0Uxd1RRR212TF8yaVFRNzZPQ3N3Y2VrbWVzYVVKbTlKaml1UldueHZfQWYxLWJKVUFfZjlLZWptUDR2N0tCNlU4amFCUlNNR0dTalp3YVpEaTR4V3JJSElzU0xMeU44UFJVeVNoUjROYl92d0syZ083NVFUMXNYRFVzejJPRlNKREtFR0lFZ1ZVMVJSZm5n?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Sb1VxMFpRR2lnZkhfX2hnb0Z5eU4xbGVZeHMxQ19JNEtQRjFfaDlWSHktZndiaTloSmNMa2IyNGpGMXR1RXhMajNJZlJlTEt3Zzd2dkR4M0tmVXZtQzItd0pVREg?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Superdrug adds new brands to year-old Beauty Playground - FashionNetwork France",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQlNZVEFrZURqQU03SlFSU0Uxd1RRR212TF8yaVFRNzZPQ3N3Y2VrbWVzYVVKbTlKaml1UldueHZfQWYxLWJKVUFfZjlLZWptUDR2N0tCNlU4amFCUlNNR0dTalp3YVpEaTR4V3JJSElzU0xMeU44UFJVeVNoUjROYl92d0syZ083NVFUMXNYRFVzejJPRlNKREtFR0lFZ1ZVMVJSZm5n?oc=5",
-          "published": "Fri, 17 Jul 2026 07:00:00 GMT"
+          "title": "Down to Business with CB gives insight into the worklives of some of beauty’s biggest names - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Sb1VxMFpRR2lnZkhfX2hnb0Z5eU4xbGVZeHMxQ19JNEtQRjFfaDlWSHktZndiaTloSmNMa2IyNGpGMXR1RXhMajNJZlJlTEt3Zzd2dkR4M0tmVXZtQzItd0pVREg?oc=5",
+          "published": "Thu, 13 Aug 2026 07:00:00 GMT"
         }
       ],
       "contact": {
@@ -1340,7 +1340,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:20.367537+00:00",
+      "generated_at": "2026-08-31T14:54:38.311184+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1370,7 +1370,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:21.211295+00:00",
+      "generated_at": "2026-08-31T14:54:39.516006+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1378,15 +1378,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Doja Cat Turned Heads in",
+      "brand_name": "Superdrug adds new brands to",
       "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2g1SU9QblRHNlp3NDkwczh2LTJUcDhEa3g5V1VhempRc0JwSTBwRHFVejFFR2kybU5XUmJXb1lVSHdQUVBUXzhLNVFIUkNwN0EyTEpQMEQwMy02bm0tdTlMbDUtLUxlTkJLYnRUSGgwZHowWkx0T1NpbER5dDY2VWtBSlV0YWtucHNacGR5dzR6N1ZnMklwUGF2bzNDeEtOakg4V0FhTTZnMGlhSjQ1clhpb3FSQWs?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQlNZVEFrZURqQU03SlFSU0Uxd1RRR212TF8yaVFRNzZPQ3N3Y2VrbWVzYVVKbTlKaml1UldueHZfQWYxLWJKVUFfZjlLZWptUDR2N0tCNlU4amFCUlNNR0dTalp3YVpEaTR4V3JJSElzU0xMeU44UFJVeVNoUjROYl92d0syZ083NVFUMXNYRFVzejJPRlNKREtFR0lFZ1ZVMVJSZm5n?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Doja Cat Turned Heads in London While Celebrating Her New Beauty Collaboration - Just Jared",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2g1SU9QblRHNlp3NDkwczh2LTJUcDhEa3g5V1VhempRc0JwSTBwRHFVejFFR2kybU5XUmJXb1lVSHdQUVBUXzhLNVFIUkNwN0EyTEpQMEQwMy02bm0tdTlMbDUtLUxlTkJLYnRUSGgwZHowWkx0T1NpbER5dDY2VWtBSlV0YWtucHNacGR5dzR6N1ZnMklwUGF2bzNDeEtOakg4V0FhTTZnMGlhSjQ1clhpb3FSQWs?oc=5",
-          "published": "Fri, 29 May 2026 07:00:00 GMT"
+          "title": "Superdrug adds new brands to year-old Beauty Playground - FashionNetwork France",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQlNZVEFrZURqQU03SlFSU0Uxd1RRR212TF8yaVFRNzZPQ3N3Y2VrbWVzYVVKbTlKaml1UldueHZfQWYxLWJKVUFfZjlLZWptUDR2N0tCNlU4amFCUlNNR0dTalp3YVpEaTR4V3JJSElzU0xMeU44UFJVeVNoUjROYl92d0syZ083NVFUMXNYRFVzejJPRlNKREtFR0lFZ1ZVMVJSZm5n?oc=5",
+          "published": "Fri, 17 Jul 2026 07:00:00 GMT"
         }
       ],
       "contact": {
@@ -1400,7 +1400,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:22.044419+00:00",
+      "generated_at": "2026-08-31T14:54:40.676442+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1408,15 +1408,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Sephora unveils Sephoria Europe ticket",
+      "brand_name": "H&F artists go global with",
       "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZGp2blVUV2szVlk0UDF5MUZucDNyZVpjYW5KdGNLUENnc1hLcUhvRllBOUpSOVFJNlJTQmJpdFNnbnJZZmY5TTMyeXVDSDRKYTNwcmUtcG5CN0NZTVB2U0VMMk9fV21PV01WMkxEdGYyczVkUkpQVTlMaldyejVPbGRWLWVLdnNHVENUNA?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGVIVzRWaFprMXVLeHAxb2JEZXpFRW04VGhJUktsVVhadE90elFCUTNKMTlvcGNBeW9YYm9WVnljY25Pb2xsbjRjT29qR2h3emdHUXJ0ZHN0Q3hRSVdla2R2bEVhOXZzMEVKUkptREpLcEVZNnU4Q0F1amNUcmZpZXUxaF90aDNmMmlwd3JkNlhjT3FLbDVOaA?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Sephora unveils Sephoria Europe ticket price and sale date for inaugural UK beauty festival - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZGp2blVUV2szVlk0UDF5MUZucDNyZVpjYW5KdGNLUENnc1hLcUhvRllBOUpSOVFJNlJTQmJpdFNnbnJZZmY5TTMyeXVDSDRKYTNwcmUtcG5CN0NZTVB2U0VMMk9fV21PV01WMkxEdGYyczVkUkpQVTlMaldyejVPbGRWLWVLdnNHVENUNA?oc=5",
-          "published": "Mon, 03 Aug 2026 07:00:00 GMT"
+          "title": "H&F artists go global with unique designs for ethical beauty brand - London Borough of Hammersmith & Fulham",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGVIVzRWaFprMXVLeHAxb2JEZXpFRW04VGhJUktsVVhadE90elFCUTNKMTlvcGNBeW9YYm9WVnljY25Pb2xsbjRjT29qR2h3emdHUXJ0ZHN0Q3hRSVdla2R2bEVhOXZzMEVKUkptREpLcEVZNnU4Q0F1amNUcmZpZXUxaF90aDNmMmlwd3JkNlhjT3FLbDVOaA?oc=5",
+          "published": "Wed, 04 Feb 2026 08:00:00 GMT"
         }
       ],
       "contact": {
@@ -1430,37 +1430,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:22.876262+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Dua Lipa Goes Pretty in",
-      "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPODJEbm0zWVdwN0t2dVFNYlZ1YVZ1eTJjWDJQRUczMGk0QzB0dXo1czljaGE3ZV9nYS1EUHd0SGRXbXFzQXR4bFhYSUJCZk0ySHNyVlpMRGRBZnp0RlpVOTZtek9GYzU1MHRWbkc5OHhUTU83Q1ZGNTBaRDJkdmhQY3NSWGJlTHI1SXpSVkV3a3FHSlhIMmxXLWpaeW5XV2tkYWhWektSemRGX2dHQm15MlVMeWRoNWdidHI1elhPbFQ?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Dua Lipa Goes Pretty in Butterfly-Print Dress for Beauty Brand Pop-Up Event in London - Just Jared",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPODJEbm0zWVdwN0t2dVFNYlZ1YVZ1eTJjWDJQRUczMGk0QzB0dXo1czljaGE3ZV9nYS1EUHd0SGRXbXFzQXR4bFhYSUJCZk0ySHNyVlpMRGRBZnp0RlpVOTZtek9GYzU1MHRWbkc5OHhUTU83Q1ZGNTBaRDJkdmhQY3NSWGJlTHI1SXpSVkV3a3FHSlhIMmxXLWpaeW5XV2tkYWhWektSemRGX2dHQm15MlVMeWRoNWdidHI1elhPbFQ?oc=5",
-          "published": "Thu, 21 May 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-08-30T12:39:23.326488+00:00",
+      "generated_at": "2026-08-31T14:54:41.892109+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1490,7 +1460,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:23.814297+00:00",
+      "generated_at": "2026-08-31T14:54:43.110375+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Olay to spotlight hidden UV",
+      "matched_query": "new beauty brand London",
+      "evidence_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON29sbHFpLUdvT2NVa2otZlFmTURCenI4WHNhMENBOUZCY1NEQzVnMTgyRjhaM2I2OTdvQ0tYVm92VXJ4RnUzbkNUWmt5eGRsLUMzWHc5UjZpLWI4SU5ac3NoMmkwVGhQdkM1YUxWU09KanMxaGNrQkllWVhzNEpYbkotUQ?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Olay to spotlight hidden UV damage in UK Solarium pop-up tour - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON29sbHFpLUdvT2NVa2otZlFmTURCenI4WHNhMENBOUZCY1NEQzVnMTgyRjhaM2I2OTdvQ0tYVm92VXJ4RnUzbkNUWmt5eGRsLUMzWHc5UjZpLWI4SU5ac3NoMmkwVGhQdkM1YUxWU09KanMxaGNrQkllWVhzNEpYbkotUQ?oc=5",
+          "published": "Mon, 29 Jun 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-08-31T14:54:44.293224+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1520,7 +1520,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:25.067171+00:00",
+      "generated_at": "2026-08-31T14:54:45.481615+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1550,7 +1550,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:26.314703+00:00",
+      "generated_at": "2026-08-31T14:54:46.698517+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1580,37 +1580,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:26.756977+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Sulapac provides bio-based material for",
-      "matched_query": "UK makeup brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUG1Jdjg1b2ZsclhUR3doVXcxTHZWNmI3aGN4LV9qYmtaanUyRFFjYlRHMkI5UFpXelpfYUxGYVZFTW82bDAzWWRkMlN4QkdUdGNsc2VESW01MEt0VmVkcE1sM3ZpRzNDQU53MlFnWXBiUzZRRnBuZ05BNHBCNG5fUWNFY3dQd2wzcHZwZWFRcW9nX2xhb1lRWXFvZnk2Tl9wM0hKX1NzTVBBelRCLWRDOEs3Qkg?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Sulapac provides bio-based material for Yom Beauty’s lip mask packaging - Packaging Insights",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUG1Jdjg1b2ZsclhUR3doVXcxTHZWNmI3aGN4LV9qYmtaanUyRFFjYlRHMkI5UFpXelpfYUxGYVZFTW82bDAzWWRkMlN4QkdUdGNsc2VESW01MEt0VmVkcE1sM3ZpRzNDQU53MlFnWXBiUzZRRnBuZ05BNHBCNG5fUWNFY3dQd2wzcHZwZWFRcW9nX2xhb1lRWXFvZnk2Tl9wM0hKX1NzTVBBelRCLWRDOEs3Qkg?oc=5",
-          "published": "Wed, 08 Jul 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-08-30T12:39:27.576105+00:00",
+      "generated_at": "2026-08-31T14:54:47.512606+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1640,7 +1610,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:27.986803+00:00",
+      "generated_at": "2026-08-31T14:54:48.351179+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1670,7 +1640,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-08-30T12:39:29.248973+00:00",
+      "generated_at": "2026-08-31T14:54:49.187804+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Sulapac provides bio-based material for",
+      "matched_query": "UK makeup brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUG1Jdjg1b2ZsclhUR3doVXcxTHZWNmI3aGN4LV9qYmtaanUyRFFjYlRHMkI5UFpXelpfYUxGYVZFTW82bDAzWWRkMlN4QkdUdGNsc2VESW01MEt0VmVkcE1sM3ZpRzNDQU53MlFnWXBiUzZRRnBuZ05BNHBCNG5fUWNFY3dQd2wzcHZwZWFRcW9nX2xhb1lRWXFvZnk2Tl9wM0hKX1NzTVBBelRCLWRDOEs3Qkg?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Sulapac provides bio-based material for Yom Beauty’s lip mask packaging - Packaging Insights",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUG1Jdjg1b2ZsclhUR3doVXcxTHZWNmI3aGN4LV9qYmtaanUyRFFjYlRHMkI5UFpXelpfYUxGYVZFTW82bDAzWWRkMlN4QkdUdGNsc2VESW01MEt0VmVkcE1sM3ZpRzNDQU53MlFnWXBiUzZRRnBuZ05BNHBCNG5fUWNFY3dQd2wzcHZwZWFRcW9nX2xhb1lRWXFvZnk2Tl9wM0hKX1NzTVBBelRCLWRDOEs3Qkg?oc=5",
+          "published": "Wed, 08 Jul 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-08-31T14:54:50.365077+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
