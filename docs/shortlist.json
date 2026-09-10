@@ -1,80 +1,13 @@
 {
-  "generated_at": "2026-09-09T12:12:21.763898+00:00",
+  "generated_at": "2026-09-10T12:06:56.552294+00:00",
   "rules": {
     "requires_website": true,
     "requires_contact": true
   },
-  "total_seen": 52,
+  "total_seen": 53,
   "total_actionable": 3,
   "count": 3,
   "shortlist": [
-    {
-      "brand_name": "Votary",
-      "matched_query": "watchlist",
-      "evidence_link": "",
-      "website": "https://votary.co.uk",
-      "news_mentions": [],
-      "contact": {
-        "primary_email": "sales@VOTARY.co.uk",
-        "other_emails": [
-          "aa4cacd33be28673d7e69be559ce7ad7@o4506196830715904.ingest.us.sentry.io",
-          "sales@votary.co.uk",
-          "skincare@VOTARY.co.uk",
-          "skincare@votary.co.uk"
-        ],
-        "contact_form_url": "https://votary.co.uk/stockists",
-        "checked_pages": [
-          "https://votary.co.uk/sitemap.xml",
-          "https://votary.co.uk/stockists",
-          "https://votary.co.uk/pages/votary-in-the-press",
-          "https://votary.co.uk/pages/contact-us",
-          "https://votary.co.uk/products/lip-balm-1",
-          "https://votary.co.uk/products/lip-and-cheek-tint-tea-rose-1"
-        ]
-      },
-      "site": {
-        "pages": {
-          "homepage": "https://votary.co.uk",
-          "products": "https://votary.co.uk/products",
-          "shop": "https://votary.co.uk/shop",
-          "collections": "https://votary.co.uk/collections",
-          "press": "https://votary.co.uk/press",
-          "journal": "https://votary.co.uk/journal"
-        },
-        "fetched_pages": {
-          "homepage": {
-            "url": "https://votary.co.uk",
-            "snippet": "VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Lip Balm. £18 Add Lip a"
-          },
-          "products": {
-            "url": "https://votary.co.uk/products",
-            "snippet": "Collections - VOTARY No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Lip Balm. £18 Add Lip and Cheek Tint - Tea Rose. £33"
-          },
-          "shop": {
-            "url": "https://votary.co.uk/shop",
-            "snippet": "VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Lip Balm. £18 Add Lip a"
-          },
-          "collections": {
-            "url": "https://votary.co.uk/collections",
-            "snippet": "Collections - VOTARY No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Lip Balm. £18 Add Lip and Cheek Tint - Tea Rose. £33"
-          }
-        },
-        "change_flags": [
-          "homepage",
-          "products",
-          "shop",
-          "collections"
-        ]
-      },
-      "generated_at": "2026-09-09T12:10:51.311594+00:00",
-      "score": 71,
-      "score_reasons": [
-        "Contact method found",
-        "4 site page(s) captured",
-        "Site changed since last check"
-      ],
-      "has_contact": true
-    },
     {
       "brand_name": "Skin Rocks",
       "matched_query": "watchlist",
@@ -127,7 +60,7 @@
           "collections"
         ]
       },
-      "generated_at": "2026-09-09T12:11:07.063214+00:00",
+      "generated_at": "2026-09-10T12:05:35.466550+00:00",
       "score": 71,
       "score_reasons": [
         "Contact method found",
@@ -186,7 +119,68 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-09-09T12:10:33.379132+00:00",
+      "generated_at": "2026-09-10T12:04:54.953459+00:00",
+      "score": 51,
+      "score_reasons": [
+        "Contact method found",
+        "4 site page(s) captured"
+      ],
+      "has_contact": true
+    },
+    {
+      "brand_name": "Votary",
+      "matched_query": "watchlist",
+      "evidence_link": "",
+      "website": "https://votary.co.uk",
+      "news_mentions": [],
+      "contact": {
+        "primary_email": "sales@VOTARY.co.uk",
+        "other_emails": [
+          "aa4cacd33be28673d7e69be559ce7ad7@o4506196830715904.ingest.us.sentry.io",
+          "sales@votary.co.uk",
+          "skincare@VOTARY.co.uk",
+          "skincare@votary.co.uk"
+        ],
+        "contact_form_url": "https://votary.co.uk/stockists",
+        "checked_pages": [
+          "https://votary.co.uk/sitemap.xml",
+          "https://votary.co.uk/stockists",
+          "https://votary.co.uk/pages/votary-in-the-press",
+          "https://votary.co.uk/pages/contact-us",
+          "https://votary.co.uk/products/lip-balm-1",
+          "https://votary.co.uk/products/lip-and-cheek-tint-tea-rose-1"
+        ]
+      },
+      "site": {
+        "pages": {
+          "homepage": "https://votary.co.uk",
+          "products": "https://votary.co.uk/products",
+          "shop": "https://votary.co.uk/shop",
+          "collections": "https://votary.co.uk/collections",
+          "press": "https://votary.co.uk/press",
+          "journal": "https://votary.co.uk/journal"
+        },
+        "fetched_pages": {
+          "homepage": {
+            "url": "https://votary.co.uk",
+            "snippet": "VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Lip Balm. £18 Add Lip a"
+          },
+          "products": {
+            "url": "https://votary.co.uk/products",
+            "snippet": "Collections - VOTARY No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Lip Balm. £18 Add Lip and Cheek Tint - Tea Rose. £33"
+          },
+          "shop": {
+            "url": "https://votary.co.uk/shop",
+            "snippet": "VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Lip Balm. £18 Add Lip a"
+          },
+          "collections": {
+            "url": "https://votary.co.uk/collections",
+            "snippet": "Collections - VOTARY No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE Lip Balm. £18 Add Lip and Cheek Tint - Tea Rose. £33"
+          }
+        },
+        "change_flags": []
+      },
+      "generated_at": "2026-09-10T12:05:14.590277+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
