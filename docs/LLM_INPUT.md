@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-09-13T12:35:26.636630+00:00
+Generated at: 2026-09-14T13:43:16.760576+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -68,8 +68,8 @@ Name: REOME
 Website: https://reome.com
 Discovery query: watchlist
 Evidence link: 
-Score: 51 Reasons: Contact method found, 4 site page(s) captured
-Site changed flags: None
+Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
+Site changed flags: homepage, products, shop, collections
 Contact: email=None form=https://reome.com/contact
 News mentions: None
 Site snippets:
@@ -83,23 +83,23 @@ Name: Votary
 Website: https://votary.co.uk
 Discovery query: watchlist
 Evidence link: 
-Score: 51 Reasons: Contact method found, 4 site page(s) captured
-Site changed flags: None
+Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
+Site changed flags: homepage, products, shop, collections
 Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
 News mentions: None
 Site snippets:
 - homepage (https://votary.co.uk)
-  VOTARY | High Performance, Plant-powered Skincare No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE £0 Subtotal All taxes i
+  VOTARY | High Performance, Plant-powered Skincare All taxes included for UK, USA, EU Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 All taxes included for UK, USA, EU Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE £0 Subtotal All taxes included for UK
 - products (https://votary.co.uk/products)
-  Collections - VOTARY No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 No duties, tariffs, or taxes on US orders Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE £0 Subtotal All taxes included for UK, USA, EU. Chec
+  Collections - VOTARY All taxes included for UK, USA, EU Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World 0 All taxes included for UK, USA, EU Free Sensitive Resurfacing Peel with orders over £100* Discover New Makeup Login CONTACT US 0 Your Cart is Empty Continue Shopping YOU MAY ALSO LIKE £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND
 
 === BRAND 3 ===
 Name: Skin Rocks
 Website: https://skinrocks.com
 Discovery query: watchlist
 Evidence link: 
-Score: 51 Reasons: Contact method found, 4 site page(s) captured
-Site changed flags: None
+Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
+Site changed flags: homepage, products, shop, collections
 Contact: email=store@skinrocks.com form=https://skinrocks.com/products/digital-gift-card
 News mentions: None
 Site snippets:
