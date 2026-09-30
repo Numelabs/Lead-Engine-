@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-09-29T13:49:02.662775+00:00
+Generated at: 2026-09-30T13:23:31.729930+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -64,21 +64,6 @@ OFFER PRESETS (choose the best fit per brand):
 EVIDENCE SHORTLIST (do not browse; only use this):
 
 === BRAND 1 ===
-Name: REOME
-Website: https://reome.com
-Discovery query: watchlist
-Evidence link: 
-Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage, products, shop, collections
-Contact: email=nothing@all.try form=https://reome.com/contact
-News mentions: None
-Site snippets:
-- homepage (https://reome.com)
-  REOME | Award-Winning Biotechnology Skincare Skip to content Free SIGNATURE MIRROR COMPACT with all orders £100+ Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Hydra-Glow Duo NEW Bundle, Save 15% The Bio-Glow Duo Bundle, Save 15% Shop All Shop All NEW Hydra-Plasma Veil Bio-cellul
-- products (https://reome.com/products)
-  Collections – REOME Skip to content Free SIGNATURE MIRROR COMPACT with all orders £100+ Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Hydra-Glow Duo NEW Bundle, Save 15% The Bio-Glow Duo Bundle, Save 15% Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep 
-
-=== BRAND 2 ===
 Name: Votary
 Website: https://votary.co.uk
 Discovery query: watchlist
@@ -89,17 +74,32 @@ Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
 News mentions: None
 Site snippets:
 - homepage (https://votary.co.uk)
-  VOTARY | High Performance, Plant-powered Skincare All taxes included for UK, USA, EU Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World ✦ AI 0 All taxes included for UK, USA, EU Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND YOUR ROUTINE SETS & OFFERS THE VOTARY STORY PRESS AND AWARDS S
+  VOTARY | High Performance, Plant-powered Skincare All taxes included for UK, USA, EU Free Sensitive Skin Set with orders over £60* Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Free Sensitive Skin Set with orders over £60* Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, 
 - products (https://votary.co.uk/products)
-  Collections - VOTARY All taxes included for UK, USA, EU Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World ✦ AI 0 All taxes included for UK, USA, EU Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND YOUR ROUTINE SETS & OFFERS THE VOTARY STORY PRESS AND AWARDS Search SHOP Ranges MAKEUP Supe
+  Collections - VOTARY All taxes included for UK, USA, EU Free Sensitive Skin Set with orders over £60* Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Gift Bag Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Minis Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY PRESS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Free Sensitive Skin Set with orders over £60* Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND Y
+
+=== BRAND 2 ===
+Name: REOME
+Website: https://reome.com
+Discovery query: watchlist
+Evidence link: 
+Score: 51 Reasons: Contact method found, 4 site page(s) captured
+Site changed flags: None
+Contact: email=nothing@all.try form=https://reome.com/contact
+News mentions: None
+Site snippets:
+- homepage (https://reome.com)
+  REOME | Award-Winning Biotechnology Skincare Skip to content Free SIGNATURE MIRROR COMPACT with all orders £100+ Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Hydra-Glow Duo NEW Bundle, Save 15% The Bio-Glow Duo Bundle, Save 15% Shop All Shop All NEW Hydra-Plasma Veil Bio-cellul
+- products (https://reome.com/products)
+  Collections – REOME Skip to content Free SIGNATURE MIRROR COMPACT with all orders £100+ Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Hydra-Glow Duo NEW Bundle, Save 15% The Bio-Glow Duo Bundle, Save 15% Shop All Shop All NEW Hydra-Plasma Veil Bio-cellulose sheet masks for deep 
 
 === BRAND 3 ===
 Name: Skin Rocks
 Website: https://skinrocks.com
 Discovery query: watchlist
 Evidence link: 
-Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage, products, shop, collections
+Score: 51 Reasons: Contact method found, 4 site page(s) captured
+Site changed flags: None
 Contact: email=store@skinrocks.com form=https://skinrocks.com/products/digital-gift-card
 News mentions: None
 Site snippets:
