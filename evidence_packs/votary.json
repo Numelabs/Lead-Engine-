@@ -16,10 +16,10 @@
     "checked_pages": [
       "https://votary.co.uk/sitemap.xml",
       "https://votary.co.uk/stockists",
+      "https://votary.co.uk/collections/clinically-proven",
       "https://votary.co.uk/pages/contact-us",
       "https://votary.co.uk/collections/blemish-breakout-prone",
-      "https://votary.co.uk/products/digital-gift-card-uk",
-      "https://votary.co.uk/products/luminous-skin-liquid"
+      "https://votary.co.uk/products/digital-gift-card-uk"
     ]
   },
   "site": {
@@ -34,28 +34,34 @@
     "fetched_pages": {
       "homepage": {
         "url": "https://votary.co.uk",
-        "snippet": "VOTARY | High Performance, Plant-powered Skincare All taxes included for UK, USA, EU Free pack of Face Cloths with orders over £55 Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Free pack of Face Cloths with orders over £55 Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIN"
+        "snippet": "VOTARY | High Performance, Plant-powered Skincare All taxes included for UK, USA, EU Free Sensitive Resurfacing Peel when you purchase a serum* Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Free Sensitive Resurfacing Peel when you purchase a serum* Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, "
       },
       "products": {
         "url": "https://votary.co.uk/products",
-        "snippet": "Collections - VOTARY All taxes included for UK, USA, EU Free pack of Face Cloths with orders over £55 Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Free pack of Face Cloths with orders over £55 Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND YOUR ROUTINE SETS & OFFERS "
+        "snippet": "Collections - VOTARY All taxes included for UK, USA, EU Free Sensitive Resurfacing Peel when you purchase a serum* Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Free Sensitive Resurfacing Peel when you purchase a serum* Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND Y"
       },
       "shop": {
         "url": "https://votary.co.uk/shop",
-        "snippet": "VOTARY | High Performance, Plant-powered Skincare All taxes included for UK, USA, EU Free pack of Face Cloths with orders over £55 Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Free pack of Face Cloths with orders over £55 Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIN"
+        "snippet": "VOTARY | High Performance, Plant-powered Skincare All taxes included for UK, USA, EU Free Sensitive Resurfacing Peel when you purchase a serum* Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Free Sensitive Resurfacing Peel when you purchase a serum* Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, "
       },
       "collections": {
         "url": "https://votary.co.uk/collections",
-        "snippet": "Collections - VOTARY All taxes included for UK, USA, EU Free pack of Face Cloths with orders over £55 Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Free pack of Face Cloths with orders over £55 Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND YOUR ROUTINE SETS & OFFERS "
+        "snippet": "Collections - VOTARY All taxes included for UK, USA, EU Free Sensitive Resurfacing Peel when you purchase a serum* Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Free Sensitive Resurfacing Peel when you purchase a serum* Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND Y"
       }
     },
-    "change_flags": []
+    "change_flags": [
+      "homepage",
+      "products",
+      "shop",
+      "collections"
+    ]
   },
-  "generated_at": "2026-10-12T16:32:14.070650+00:00",
-  "score": 51,
+  "generated_at": "2026-10-13T14:49:59.592570+00:00",
+  "score": 71,
   "score_reasons": [
     "Contact method found",
-    "4 site page(s) captured"
+    "4 site page(s) captured",
+    "Site changed since last check"
   ],
   "has_contact": true
 }
