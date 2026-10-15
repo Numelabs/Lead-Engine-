@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-14T12:43:13.527836+00:00",
+  "generated_at": "2026-10-15T12:30:56.657580+00:00",
   "rules": {
     "requires_website": true,
     "requires_contact": true
   },
-  "total_seen": 3,
+  "total_seen": 52,
   "total_actionable": 3,
   "count": 3,
   "shortlist": [
@@ -61,16 +61,73 @@
         },
         "change_flags": [
           "homepage",
+          "shop"
+        ]
+      },
+      "generated_at": "2026-10-15T12:29:41.383979+00:00",
+      "score": 71,
+      "score_reasons": [
+        "Contact method found",
+        "4 site page(s) captured",
+        "Site changed since last check"
+      ],
+      "has_contact": true
+    },
+    {
+      "brand_name": "REOME",
+      "matched_query": "watchlist",
+      "evidence_link": "",
+      "website": "https://reome.com",
+      "news_mentions": [],
+      "contact": {
+        "primary_email": "nothing@all.try",
+        "other_emails": [],
+        "contact_form_url": "https://reome.com/contact",
+        "checked_pages": [
+          "https://reome.com/sitemap.xml",
+          "https://reome.com/contact",
+          "https://reome.com/stockists",
+          "https://reome.com/about",
+          "https://reome.com/products/hydra-plasma-veil-5",
+          "https://reome.com/products/biogenic-melting-cream",
+          "https://reome.com/products/active-recovery-broth",
+          "https://reome.com/products/three-suns-balm"
+        ]
+      },
+      "site": {
+        "pages": {
+          "homepage": "https://reome.com",
+          "products": "https://reome.com/products",
+          "shop": "https://reome.com/shop",
+          "collections": "https://reome.com/collections",
+          "press": "https://reome.com/press",
+          "journal": "https://reome.com/journal"
+        },
+        "fetched_pages": {
+          "products": {
+            "url": "https://reome.com/products",
+            "snippet": "Collections – REOME Skip to content Free SIGNATURE MIRROR COMPACT with all orders £100+ Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Active Recovery Broth AWARD-WINNING Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Extraordinary Skin Set BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% Shop All Shop All NEW Hyd"
+          },
+          "shop": {
+            "url": "https://reome.com/shop",
+            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free SIGNATURE MIRROR COMPACT with all orders £100+ Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Active Recovery Broth AWARD-WINNING Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Extraordinary Skin Set BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% "
+          },
+          "collections": {
+            "url": "https://reome.com/collections",
+            "snippet": "Collections – REOME Skip to content Free SIGNATURE MIRROR COMPACT with all orders £100+ Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Active Recovery Broth AWARD-WINNING Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Extraordinary Skin Set BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% Shop All Shop All NEW Hyd"
+          }
+        },
+        "change_flags": [
           "products",
           "shop",
           "collections"
         ]
       },
-      "generated_at": "2026-10-14T12:42:35.875834+00:00",
-      "score": 71,
+      "generated_at": "2026-10-15T12:28:46.634389+00:00",
+      "score": 67,
       "score_reasons": [
         "Contact method found",
-        "4 site page(s) captured",
+        "3 site page(s) captured",
         "Site changed since last check"
       ],
       "has_contact": true
@@ -120,71 +177,9 @@
             "snippet": "Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SUBSCRIBE AND RECEIVE FREE GIFTS Shop Shop All New in Bestsellers Minis/Travel Refills Build Your Own Bundle Gift Cards Offers Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Mask Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Minis Routine Quiz Subscriptions Stores and Facials Explore Stockist Locator Skin Rocks at Liberty Skin Rocks at John Lewis Skin Rock"
           }
         },
-        "change_flags": [
-          "homepage",
-          "shop"
-        ]
-      },
-      "generated_at": "2026-10-14T12:42:54.112743+00:00",
-      "score": 71,
-      "score_reasons": [
-        "Contact method found",
-        "4 site page(s) captured",
-        "Site changed since last check"
-      ],
-      "has_contact": true
-    },
-    {
-      "brand_name": "REOME",
-      "matched_query": "watchlist",
-      "evidence_link": "",
-      "website": "https://reome.com",
-      "news_mentions": [],
-      "contact": {
-        "primary_email": "nothing@all.try",
-        "other_emails": [],
-        "contact_form_url": "https://reome.com/contact",
-        "checked_pages": [
-          "https://reome.com/sitemap.xml",
-          "https://reome.com/contact",
-          "https://reome.com/stockists",
-          "https://reome.com/about",
-          "https://reome.com/products/hydra-plasma-veil-5",
-          "https://reome.com/products/biogenic-melting-cream",
-          "https://reome.com/products/active-recovery-broth",
-          "https://reome.com/products/three-suns-balm"
-        ]
-      },
-      "site": {
-        "pages": {
-          "homepage": "https://reome.com",
-          "products": "https://reome.com/products",
-          "shop": "https://reome.com/shop",
-          "collections": "https://reome.com/collections",
-          "press": "https://reome.com/press",
-          "journal": "https://reome.com/journal"
-        },
-        "fetched_pages": {
-          "homepage": {
-            "url": "https://reome.com",
-            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free SIGNATURE MIRROR COMPACT with all orders £100+ Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Bio-Glow Duo Bundle, Save 15% The Extraordinary Skin Set Bundle, Save 15% The Hydra-Glow Duo NEW Bundle, Save 15% Shop A"
-          },
-          "products": {
-            "url": "https://reome.com/products",
-            "snippet": "Collections – REOME Skip to content Free SIGNATURE MIRROR COMPACT with all orders £100+ Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Bio-Glow Duo Bundle, Save 15% The Extraordinary Skin Set Bundle, Save 15% The Hydra-Glow Duo NEW Bundle, Save 15% Shop All Shop All NEW Hydra-Pla"
-          },
-          "shop": {
-            "url": "https://reome.com/shop",
-            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free SIGNATURE MIRROR COMPACT with all orders £100+ Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Bio-Glow Duo Bundle, Save 15% The Extraordinary Skin Set Bundle, Save 15% The Hydra-Glow Duo NEW Bundle, Save 15% Shop A"
-          },
-          "collections": {
-            "url": "https://reome.com/collections",
-            "snippet": "Collections – REOME Skip to content Free SIGNATURE MIRROR COMPACT with all orders £100+ Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream BESTSELLER Cell-Preserving Hydrator Active Recovery Broth BESTSELLER Serum Concentrate Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set Bundle, Discovery Set The Bio-Glow Duo Bundle, Save 15% The Extraordinary Skin Set Bundle, Save 15% The Hydra-Glow Duo NEW Bundle, Save 15% Shop All Shop All NEW Hydra-Pla"
-          }
-        },
         "change_flags": []
       },
-      "generated_at": "2026-10-14T12:42:14.835816+00:00",
+      "generated_at": "2026-10-15T12:30:02.751827+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
