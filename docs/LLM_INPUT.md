@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-10-19T14:25:17.671799+00:00
+Generated at: 2026-10-20T12:35:02.710050+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -68,17 +68,32 @@ Name: REOME
 Website: https://reome.com
 Discovery query: watchlist
 Evidence link: 
-Score: 51 Reasons: Contact method found, 4 site page(s) captured
-Site changed flags: None
+Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
+Site changed flags: homepage, products, shop, collections
 Contact: email=nothing@all.try form=https://reome.com/contact
 News mentions: None
 Site snippets:
 - homepage (https://reome.com)
-  REOME | Award-Winning Biotechnology Skincare Skip to content Free SIGNATURE MIRROR COMPACT with all orders £100+ Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BU
+  REOME | Award-Winning Biotechnology Skincare Skip to content Complimentary UK shipping with orders over £60 Shop LIMITED EDITION Skin Transformation Trio Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE S
 - products (https://reome.com/products)
-  Collections – REOME Skip to content Free SIGNATURE MIRROR COMPACT with all orders £100+ Complimentary UK shipping with orders over £60 Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The Extraor
+  Collections – REOME Skip to content Complimentary UK shipping with orders over £60 Shop LIMITED EDITION Skin Transformation Trio Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The Extraordinary
 
 === BRAND 2 ===
+Name: Skin Rocks
+Website: https://skinrocks.com
+Discovery query: watchlist
+Evidence link: 
+Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
+Site changed flags: homepage, products, shop, collections
+Contact: email=store@skinrocks.com form=https://skinrocks.com/products/digital-gift-card
+News mentions: None
+Site snippets:
+- homepage (https://skinrocks.com)
+  Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SUBSCRIBE AND RECEIVE FREE GIFTS Shop Shop All New in Bestsellers Minis/Travel Refills Build Your Own Bundle Gift Cards The Support System Offers Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Mask Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Routine Quiz Subscriptions Stores and Facials Explore Stockist Locator Skin Rocks at Liberty Skin Rocks at Jo
+- products (https://skinrocks.com/products)
+  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SUBSCRIBE AND RECEIVE FREE GIFTS Shop Shop All New in Bestsellers Minis/Travel Refills Build Your Own Bundle Gift Cards The Support System Offers Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Mask Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Routine Quiz Subscriptions Stores and Facials Explore Stockist Locator Skin Rocks at Liberty Skin Rocks at John Le
+
+=== BRAND 3 ===
 Name: Votary
 Website: https://votary.co.uk
 Discovery query: watchlist
@@ -92,20 +107,5 @@ Site snippets:
   VOTARY | High Performance, Plant-powered Skincare All taxes included for UK, USA, EU Free Gift when you purchase a serum Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Free Gift when you purchase a serum Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND YOUR ROUTINE SETS 
 - products (https://votary.co.uk/products)
   Collections - VOTARY All taxes included for UK, USA, EU Free Gift when you purchase a serum Discover New makeup collection SETS & OFFERS MAKEUP SHOP Shop All Shop All Find Your Routine Sets & Offers Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Free Gift when you purchase a serum Discover New makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND YOUR ROUTINE SETS & OFFERS THE VOTARY STORY REV
-
-=== BRAND 3 ===
-Name: Skin Rocks
-Website: https://skinrocks.com
-Discovery query: watchlist
-Evidence link: 
-Score: 51 Reasons: Contact method found, 4 site page(s) captured
-Site changed flags: None
-Contact: email=store@skinrocks.com form=https://skinrocks.com/products/digital-gift-card
-News mentions: None
-Site snippets:
-- homepage (https://skinrocks.com)
-  Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SUBSCRIBE AND RECEIVE FREE GIFTS Shop Shop All New in Bestsellers Minis/Travel Refills Build Your Own Bundle Gift Cards Offers Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Mask Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Minis Routine Quiz Subscriptions Stores and Facials Explore Stockist Locator Skin Rocks at Liberty Skin Rocks at John Lewis Skin
-- products (https://skinrocks.com/products)
-  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SUBSCRIBE AND RECEIVE FREE GIFTS Shop Shop All New in Bestsellers Minis/Travel Refills Build Your Own Bundle Gift Cards Offers Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Mask Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Minis Routine Quiz Subscriptions Stores and Facials Explore Stockist Locator Skin Rocks at Liberty Skin Rocks at John Lewis Skin Rock
 
 
