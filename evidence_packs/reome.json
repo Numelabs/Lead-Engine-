@@ -5,8 +5,10 @@
   "website": "https://reome.com",
   "news_mentions": [],
   "contact": {
-    "primary_email": "nothing@all.try",
-    "other_emails": [],
+    "primary_email": "Primary_241b2513-0558-4d15-9910-f17e3bdda958_200x60@2x.png.webp",
+    "other_emails": [
+      "nothing@all.try"
+    ],
     "contact_form_url": "https://reome.com/contact",
     "checked_pages": [
       "https://reome.com/sitemap.xml",
@@ -46,19 +48,13 @@
         "snippet": "Collections – REOME Skip to content Complimentary UK shipping with orders over £60 Shop LIMITED EDITION Skin Transformation Trio Shop Treatments Biotechnology Account Paper Cart 0 Bag Shop Treatments Biotechnology Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The Extraordinary"
       }
     },
-    "change_flags": [
-      "homepage",
-      "products",
-      "shop",
-      "collections"
-    ]
+    "change_flags": []
   },
-  "generated_at": "2026-10-20T12:33:31.477241+00:00",
-  "score": 71,
+  "generated_at": "2026-10-21T12:44:46.951008+00:00",
+  "score": 51,
   "score_reasons": [
     "Contact method found",
-    "4 site page(s) captured",
-    "Site changed since last check"
+    "4 site page(s) captured"
   ],
   "has_contact": true
 }
