@@ -1,70 +1,6 @@
 {
-  "generated_at": "2026-10-29T13:57:11.271482+00:00",
+  "generated_at": "2026-10-30T13:52:20.047797+00:00",
   "brands": [
-    {
-      "brand_name": "REOME",
-      "matched_query": "watchlist",
-      "evidence_link": "",
-      "website": "https://reome.com",
-      "news_mentions": [],
-      "contact": {
-        "primary_email": "nothing@all.try",
-        "other_emails": [],
-        "contact_form_url": "https://reome.com/contact",
-        "checked_pages": [
-          "https://reome.com/sitemap.xml",
-          "https://reome.com/contact",
-          "https://reome.com/stockists",
-          "https://reome.com/about",
-          "https://reome.com/products/skin-transformation-trio",
-          "https://reome.com/products/active-recovery-broth",
-          "https://reome.com/products/hydra-plasma-veil-5",
-          "https://reome.com/products/biogenic-melting-cream"
-        ]
-      },
-      "site": {
-        "pages": {
-          "homepage": "https://reome.com",
-          "products": "https://reome.com/products",
-          "shop": "https://reome.com/shop",
-          "collections": "https://reome.com/collections",
-          "press": "https://reome.com/press",
-          "journal": "https://reome.com/journal"
-        },
-        "fetched_pages": {
-          "homepage": {
-            "url": "https://reome.com",
-            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free UK delivery with orders £60+ Free SIGNATURE MIRROR COMPACT with all orders Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The E"
-          },
-          "products": {
-            "url": "https://reome.com/products",
-            "snippet": "Collections – REOME Skip to content Free UK delivery with orders £60+ Free SIGNATURE MIRROR COMPACT with all orders Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The Extraordinary Skin Set BUN"
-          },
-          "shop": {
-            "url": "https://reome.com/shop",
-            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free UK delivery with orders £60+ Free SIGNATURE MIRROR COMPACT with all orders Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The E"
-          },
-          "collections": {
-            "url": "https://reome.com/collections",
-            "snippet": "Collections – REOME Skip to content Free UK delivery with orders £60+ Free SIGNATURE MIRROR COMPACT with all orders Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The Extraordinary Skin Set BUN"
-          }
-        },
-        "change_flags": [
-          "homepage",
-          "products",
-          "shop",
-          "collections"
-        ]
-      },
-      "generated_at": "2026-10-29T13:57:11.271549+00:00",
-      "score": 71,
-      "score_reasons": [
-        "Contact method found",
-        "4 site page(s) captured",
-        "Site changed since last check"
-      ],
-      "has_contact": true
-    },
     {
       "brand_name": "Skin Rocks",
       "matched_query": "watchlist",
@@ -117,12 +53,70 @@
           "collections"
         ]
       },
-      "generated_at": "2026-10-29T13:57:48.652670+00:00",
+      "generated_at": "2026-10-30T13:52:56.746838+00:00",
       "score": 71,
       "score_reasons": [
         "Contact method found",
         "4 site page(s) captured",
         "Site changed since last check"
+      ],
+      "has_contact": true
+    },
+    {
+      "brand_name": "REOME",
+      "matched_query": "watchlist",
+      "evidence_link": "",
+      "website": "https://reome.com",
+      "news_mentions": [],
+      "contact": {
+        "primary_email": "nothing@all.try",
+        "other_emails": [],
+        "contact_form_url": "https://reome.com/contact",
+        "checked_pages": [
+          "https://reome.com/sitemap.xml",
+          "https://reome.com/contact",
+          "https://reome.com/stockists",
+          "https://reome.com/about",
+          "https://reome.com/products/skin-transformation-trio",
+          "https://reome.com/products/active-recovery-broth",
+          "https://reome.com/products/hydra-plasma-veil-5",
+          "https://reome.com/products/biogenic-melting-cream"
+        ]
+      },
+      "site": {
+        "pages": {
+          "homepage": "https://reome.com",
+          "products": "https://reome.com/products",
+          "shop": "https://reome.com/shop",
+          "collections": "https://reome.com/collections",
+          "press": "https://reome.com/press",
+          "journal": "https://reome.com/journal"
+        },
+        "fetched_pages": {
+          "homepage": {
+            "url": "https://reome.com",
+            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free UK delivery with orders £60+ Free SIGNATURE MIRROR COMPACT with all orders Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The E"
+          },
+          "products": {
+            "url": "https://reome.com/products",
+            "snippet": "Collections – REOME Skip to content Free UK delivery with orders £60+ Free SIGNATURE MIRROR COMPACT with all orders Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The Extraordinary Skin Set BUN"
+          },
+          "shop": {
+            "url": "https://reome.com/shop",
+            "snippet": "REOME | Award-Winning Biotechnology Skincare Skip to content Free UK delivery with orders £60+ Free SIGNATURE MIRROR COMPACT with all orders Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The E"
+          },
+          "collections": {
+            "url": "https://reome.com/collections",
+            "snippet": "Collections – REOME Skip to content Free UK delivery with orders £60+ Free SIGNATURE MIRROR COMPACT with all orders Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The Extraordinary Skin Set BUN"
+          }
+        },
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:52:20.047852+00:00",
+      "score": 51,
+      "score_reasons": [
+        "Contact method found",
+        "4 site page(s) captured"
       ],
       "has_contact": true
     },
@@ -179,7 +173,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:57:30.860563+00:00",
+      "generated_at": "2026-10-30T13:52:38.838026+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",
@@ -188,15 +182,15 @@
       "has_contact": true
     },
     {
-      "brand_name": "Jennifer Lawrence launches hair care",
+      "brand_name": "Is Kylie Jenner’s daughter Stormi",
       "matched_query": "UK beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1d6Ykw5ekY0SzRzbmFGRGxBTU5wcmtNdU95X20zWVJyLUk1ZU9tbkc3bHBGczdxMzV1RERsalhDcGZVcW1TdWJ5U2ZKWC03b0U4cTBabTZFWmNnODdmc1VhalN2M0ZqN3ZCRFdsQzFjaURNTlgtNGZJMngtWmJUUzdn?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3ZnV1lKTW92UEl0VlJzQkhWNHJtaTJ0VDUyZDFQVWV6cVd0SUdJRFRGNjFSeVBFdmVwUnVsMVRCUTRaajBBQWk0MGp1dC04R3N3VXBpWU0zSVZlMDk0NmN6b3JVMndGT1RXdk5uOUQxRncwR09mRmF6ZldyT1ZjYjgwbmxQZw?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Jennifer Lawrence launches hair care brand mes° – everything we know so far - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1d6Ykw5ekY0SzRzbmFGRGxBTU5wcmtNdU95X20zWVJyLUk1ZU9tbkc3bHBGczdxMzV1RERsalhDcGZVcW1TdWJ5U2ZKWC03b0U4cTBabTZFWmNnODdmc1VhalN2M0ZqN3ZCRFdsQzFjaURNTlgtNGZJMngtWmJUUzdn?oc=5",
-          "published": "Tue, 27 Oct 2026 12:54:08 GMT"
+          "title": "Is Kylie Jenner’s daughter Stormi planning to launch a beauty brand? - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3ZnV1lKTW92UEl0VlJzQkhWNHJtaTJ0VDUyZDFQVWV6cVd0SUdJRFRGNjFSeVBFdmVwUnVsMVRCUTRaajBBQWk0MGp1dC04R3N3VXBpWU0zSVZlMDk0NmN6b3JVMndGT1RXdk5uOUQxRncwR09mRmF6ZldyT1ZjYjgwbmxQZw?oc=5",
+          "published": "Fri, 30 Oct 2026 12:35:33 GMT"
         }
       ],
       "contact": {
@@ -210,7 +204,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:09.801992+00:00",
+      "generated_at": "2026-10-30T13:53:16.534936+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -240,7 +234,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:11.496603+00:00",
+      "generated_at": "2026-10-30T13:53:17.317596+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -270,7 +264,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:12.375087+00:00",
+      "generated_at": "2026-10-30T13:53:18.033106+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -300,7 +294,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:13.171496+00:00",
+      "generated_at": "2026-10-30T13:53:19.306786+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Jennifer Lawrence launches hair care",
+      "matched_query": "UK beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1d6Ykw5ekY0SzRzbmFGRGxBTU5wcmtNdU95X20zWVJyLUk1ZU9tbkc3bHBGczdxMzV1RERsalhDcGZVcW1TdWJ5U2ZKWC03b0U4cTBabTZFWmNnODdmc1VhalN2M0ZqN3ZCRFdsQzFjaURNTlgtNGZJMngtWmJUUzdn?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Jennifer Lawrence launches hair care brand mes° – everything we know so far - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1d6Ykw5ekY0SzRzbmFGRGxBTU5wcmtNdU95X20zWVJyLUk1ZU9tbkc3bHBGczdxMzV1RERsalhDcGZVcW1TdWJ5U2ZKWC03b0U4cTBabTZFWmNnODdmc1VhalN2M0ZqN3ZCRFdsQzFjaURNTlgtNGZJMngtWmJUUzdn?oc=5",
+          "published": "Tue, 27 Oct 2026 12:54:08 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:20.107230+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -330,37 +354,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:14.434459+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Sephora partners with M&S to",
-      "matched_query": "UK beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSE1rNHpmNHowQm8wTnpuZGtZWkRzTkdDWWFlVWRySlpEYk9reUN4NHhudnVUM3ktQ2xnY3FEZ0EzeDBsTEFydVFmZkJiREpEOUU5WTdIOER6UDZuSlFyQzNCLUtkWTN0M0NFX0VOQTB5SERZa1BHa3VKQWJLc1ZwOUR5OHBIY3ZOT2hRTmkwWHFtYUotc2RLOVlKcXRWR2c?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Sephora partners with M&S to launch new UK beauty destination, Sephora at M&S - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSE1rNHpmNHowQm8wTnpuZGtZWkRzTkdDWWFlVWRySlpEYk9reUN4NHhudnVUM3ktQ2xnY3FEZ0EzeDBsTEFydVFmZkJiREpEOUU5WTdIOER6UDZuSlFyQzNCLUtkWTN0M0NFX0VOQTB5SERZa1BHa3VKQWJLc1ZwOUR5OHBIY3ZOT2hRTmkwWHFtYUotc2RLOVlKcXRWR2c?oc=5",
-          "published": "Tue, 29 Sep 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:15.762689+00:00",
+      "generated_at": "2026-10-30T13:53:20.830184+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -390,7 +384,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:17.060851+00:00",
+      "generated_at": "2026-10-30T13:53:21.616541+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -398,15 +392,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Sol de Janeiro to launch",
+      "brand_name": "Sephora partners with M&S to",
       "matched_query": "UK beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEVMV3lLNXJ2Vzk3RG15SUFqOHd1dEFta2lZYnhObWFITVlGeHJ1T1hxWEM4UlpnSlNtMDNKT2l1OXFjTC1ONl9oT0IwRVpFaG9wVXRKVkI4NUZmU1ljS0hsU1hLV25RT0VLTUdkdXItRk9ha1B3V3lmdV9tMzdVcA?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSE1rNHpmNHowQm8wTnpuZGtZWkRzTkdDWWFlVWRySlpEYk9reUN4NHhudnVUM3ktQ2xnY3FEZ0EzeDBsTEFydVFmZkJiREpEOUU5WTdIOER6UDZuSlFyQzNCLUtkWTN0M0NFX0VOQTB5SERZa1BHa3VKQWJLc1ZwOUR5OHBIY3ZOT2hRTmkwWHFtYUotc2RLOVlKcXRWR2c?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Sol de Janeiro to launch ‘vertical micro drama’ series with UK broadcaster Channel 4 - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEVMV3lLNXJ2Vzk3RG15SUFqOHd1dEFta2lZYnhObWFITVlGeHJ1T1hxWEM4UlpnSlNtMDNKT2l1OXFjTC1ONl9oT0IwRVpFaG9wVXRKVkI4NUZmU1ljS0hsU1hLV25RT0VLTUdkdXItRk9ha1B3V3lmdV9tMzdVcA?oc=5",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT"
+          "title": "Sephora partners with M&S to launch new UK beauty destination, Sephora at M&S - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSE1rNHpmNHowQm8wTnpuZGtZWkRzTkdDWWFlVWRySlpEYk9reUN4NHhudnVUM3ktQ2xnY3FEZ0EzeDBsTEFydVFmZkJiREpEOUU5WTdIOER6UDZuSlFyQzNCLUtkWTN0M0NFX0VOQTB5SERZa1BHa3VKQWJLc1ZwOUR5OHBIY3ZOT2hRTmkwWHFtYUotc2RLOVlKcXRWR2c?oc=5",
+          "published": "Tue, 29 Sep 2026 07:00:00 GMT"
         }
       ],
       "contact": {
@@ -420,7 +414,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:17.811482+00:00",
+      "generated_at": "2026-10-30T13:53:22.401165+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -450,7 +444,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:18.612075+00:00",
+      "generated_at": "2026-10-30T13:53:23.220424+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -458,15 +452,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Exclusive: Jo Malone London launches",
+      "brand_name": "Sol de Janeiro to launch",
       "matched_query": "UK beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdmlXbXZ0blRScEZBNTRFRFE4ZXZ2OU0zOXplWlpnS21xdXV2cl9sM2JzWTdLOHF3RURuY0VzZF9WMUh4VUg3MXJIVkt4S3pfYWVNNDQzX3VLRVVQRkhqVXNpd19mUXl4RDl0MUxfWV9aNmRGTGM4RUJscmlydlpxSko1MA?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEVMV3lLNXJ2Vzk3RG15SUFqOHd1dEFta2lZYnhObWFITVlGeHJ1T1hxWEM4UlpnSlNtMDNKT2l1OXFjTC1ONl9oT0IwRVpFaG9wVXRKVkI4NUZmU1ljS0hsU1hLV25RT0VLTUdkdXItRk9ha1B3V3lmdV9tMzdVcA?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Exclusive: Jo Malone London launches at Space NK to drive UK growth - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdmlXbXZ0blRScEZBNTRFRFE4ZXZ2OU0zOXplWlpnS21xdXV2cl9sM2JzWTdLOHF3RURuY0VzZF9WMUh4VUg3MXJIVkt4S3pfYWVNNDQzX3VLRVVQRkhqVXNpd19mUXl4RDl0MUxfWV9aNmRGTGM4RUJscmlydlpxSko1MA?oc=5",
-          "published": "Tue, 29 Sep 2026 07:00:00 GMT"
+          "title": "Sol de Janeiro to launch ‘vertical micro drama’ series with UK broadcaster Channel 4 - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEVMV3lLNXJ2Vzk3RG15SUFqOHd1dEFta2lZYnhObWFITVlGeHJ1T1hxWEM4UlpnSlNtMDNKT2l1OXFjTC1ONl9oT0IwRVpFaG9wVXRKVkI4NUZmU1ljS0hsU1hLV25RT0VLTUdkdXItRk9ha1B3V3lmdV9tMzdVcA?oc=5",
+          "published": "Wed, 14 Oct 2026 07:00:00 GMT"
         }
       ],
       "contact": {
@@ -480,7 +474,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:19.414533+00:00",
+      "generated_at": "2026-10-30T13:53:24.021698+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -510,7 +504,97 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:21.116085+00:00",
+      "generated_at": "2026-10-30T13:53:24.743728+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "From Trinny London to REFY:",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91WGwxWGx1WFIwdEhSVnNkMm0tWGRweld0M1BlaV9zZjBMcldXSldTdFREMHhFSUg2REduVFRfdXBmRW56NFQ4Zko3bnROVDNGTDNaZDhLMDFlWHZFdFZ4MWNFOGpXa2tHV2t3eG5aNGptVVhpRFBKTlpwZjNQaEE?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "From Trinny London to REFY: How beauty brands build true communities and why it's not what you think - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91WGwxWGx1WFIwdEhSVnNkMm0tWGRweld0M1BlaV9zZjBMcldXSldTdFREMHhFSUg2REduVFRfdXBmRW56NFQ4Zko3bnROVDNGTDNaZDhLMDFlWHZFdFZ4MWNFOGpXa2tHV2t3eG5aNGptVVhpRFBKTlpwZjNQaEE?oc=5",
+          "published": "Mon, 19 Oct 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:25.581178+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Dragons' Den star Touker Suleyman's",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdjg1V0xqaVdmSVZUTHc4VTgxZHBoUE5WM294VFNSaXJMR0tRMVVja3Y4MjlhRjg0S1lLMFh0Z0RTVGxkLThqd194a1hBTXR2cldFS3VjcU02WW5Tay1wcUs4cThGejZ4Uk9lU2ZzVGpUYXFqMEhDOXprd25DVDIxYWRDTEdKdnFqUHZQNG85emtNMmJXTzBBbHBPVTFZMXV2WGl0Y3d1TWhpUExqaGlRVk5rRGVVQWNlNkJ2SURQY1pzWXpkeUZvb3RMRQ?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Dragons' Den star Touker Suleyman's new beauty brand Lipstick London gets physical at Westfield - Retail Technology Innovation Hub",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdjg1V0xqaVdmSVZUTHc4VTgxZHBoUE5WM294VFNSaXJMR0tRMVVja3Y4MjlhRjg0S1lLMFh0Z0RTVGxkLThqd194a1hBTXR2cldFS3VjcU02WW5Tay1wcUs4cThGejZ4Uk9lU2ZzVGpUYXFqMEhDOXprd25DVDIxYWRDTEdKdnFqUHZQNG85emtNMmJXTzBBbHBPVTFZMXV2WGl0Y3d1TWhpUExqaGlRVk5rRGVVQWNlNkJ2SURQY1pzWXpkeUZvb3RMRQ?oc=5",
+          "published": "Mon, 05 Oct 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:26.282829+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Meet the world-class brands exhibiting",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFJ3WGlUenZoM1lUNms2UVVOLThfRlhtRXc1bVBwdEwwb0o0Y25XMGhXU2I2LTJQMk5UM3Qyb0dhUGxibnJxSXQyR1NBT1BvOVotMFpkU3lNQmVoVHdVcTJLcUV4T1Bsa2RMZ3B5eXBqQk5hOENSaGw4WmR4NjRYS2wtbWo2QVhfa1RQcmVOa3ZzUjlISFBXaUZ2Nk5IVlRGTEpuaWxZM0ZkZw?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Meet the world-class brands exhibiting at Professional Beauty London 2026 - Professional Beauty",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFJ3WGlUenZoM1lUNms2UVVOLThfRlhtRXc1bVBwdEwwb0o0Y25XMGhXU2I2LTJQMk5UM3Qyb0dhUGxibnJxSXQyR1NBT1BvOVotMFpkU3lNQmVoVHdVcTJLcUV4T1Bsa2RMZ3B5eXBqQk5hOENSaGw4WmR4NjRYS2wtbWo2QVhfa1RQcmVOa3ZzUjlISFBXaUZ2Nk5IVlRGTEpuaWxZM0ZkZw?oc=5",
+          "published": "Mon, 21 Sep 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:27.016751+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -540,7 +624,217 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:21.947748+00:00",
+      "generated_at": "2026-10-30T13:53:28.321625+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "EXCLUSIVE: Skin Design London Launches",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjBtVUNFU2loVXFmQ2pkdDJOQW1LcWhGVFRqOWxGZmYwXzlCNmNsNTlhUUpLRzJxUFp3dlg0WEV5XzVNdnR2cmstTXhtMGNwalN6NGV3WWhfVHUzbG9kWDlGaDNiejdxTEhHSGQwdW9VdmNWcnh1MVB2a29KN25SRzRKRzhmYzhCNGtoajRvdUNvd2VMVldjM211MWpzWHB6RlBsekxhMHctMVA2Q1pNbnhmYnJvNVk?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "EXCLUSIVE: Skin Design London Launches First Beauty-tech Device - WWD",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjBtVUNFU2loVXFmQ2pkdDJOQW1LcWhGVFRqOWxGZmYwXzlCNmNsNTlhUUpLRzJxUFp3dlg0WEV5XzVNdnR2cmstTXhtMGNwalN6NGV3WWhfVHUzbG9kWDlGaDNiejdxTEhHSGQwdW9VdmNWcnh1MVB2a29KN25SRzRKRzhmYzhCNGtoajRvdUNvd2VMVldjM211MWpzWHB6RlBsekxhMHctMVA2Q1pNbnhmYnJvNVk?oc=5",
+          "published": "Mon, 03 Aug 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:29.083793+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Margaret Dabbs London to unveil",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbHBuZU0xNEZrem5LMFFSVU02N3BTa0FxaU5rR2xLMXRVZldWY3JhczU5bFBnOVZCbmtSZ1IxcEdndjlMV0JJdENDbjJMSWJzS2xic0ZxRERxZkNLZlJ4NEdZOGpKYTJhNU5xTWsyWnV3TjRxbEtHMWJaZzdBVHRpeFAyd0lyZ2JpWmlOUG9PYW11VThnMkNOT0hHSWZESWFZVk1OQnZGZGZIclpaNERmZTlMZGNRZFBYR29HWHVURkUtOVEySVE?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Margaret Dabbs London to unveil beauty launches at TFWA Cannes 2026 - DFNI",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbHBuZU0xNEZrem5LMFFSVU02N3BTa0FxaU5rR2xLMXRVZldWY3JhczU5bFBnOVZCbmtSZ1IxcEdndjlMV0JJdENDbjJMSWJzS2xic0ZxRERxZkNLZlJ4NEdZOGpKYTJhNU5xTWsyWnV3TjRxbEtHMWJaZzdBVHRpeFAyd0lyZ2JpWmlOUG9PYW11VThnMkNOT0hHSWZESWFZVk1OQnZGZGZIclpaNERmZTlMZGNRZFBYR29HWHVURkUtOVEySVE?oc=5",
+          "published": "Thu, 24 Sep 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:29.831763+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Down to Business with CB",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Sb1VxMFpRR2lnZkhfX2hnb0Z5eU4xbGVZeHMxQ19JNEtQRjFfaDlWSHktZndiaTloSmNMa2IyNGpGMXR1RXhMajNJZlJlTEt3Zzd2dkR4M0tmVXZtQzItd0pVREg?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Down to Business with CB gives insight into the worklives of some of beauty’s biggest names - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Sb1VxMFpRR2lnZkhfX2hnb0Z5eU4xbGVZeHMxQ19JNEtQRjFfaDlWSHktZndiaTloSmNMa2IyNGpGMXR1RXhMajNJZlJlTEt3Zzd2dkR4M0tmVXZtQzItd0pVREg?oc=5",
+          "published": "Thu, 15 Oct 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:31.046820+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "20 British Beauty Brands The",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2VETVJydmFPVjZJbF81WmtpQ2F3MEdMSUY2TGp3V1NFeHE4Y1JLVF9GWjhyanVFUGxkaDZRRDBkSEdxRlpiNWxDbHBfemk5Wm1MZ3ltLW8yOS1nQW9vVE8tODFNa0N3WEhwUlh0NTBGY184MUNKVWJZaGlDcW5CYldzYnZ4VS1ERkE?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "20 British Beauty Brands The C&TH Editors Love - Country and Town House",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2VETVJydmFPVjZJbF81WmtpQ2F3MEdMSUY2TGp3V1NFeHE4Y1JLVF9GWjhyanVFUGxkaDZRRDBkSEdxRlpiNWxDbHBfemk5Wm1MZ3ltLW8yOS1nQW9vVE8tODFNa0N3WEhwUlh0NTBGY184MUNKVWJZaGlDcW5CYldzYnZ4VS1ERkE?oc=5",
+          "published": "Wed, 20 May 2026 16:07:23 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:31.870867+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "In Review, February 2026: Headline",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlFiUGkxMW50SVlOcm16dTFKZHZDLW1Od09JN1dOYWVfaGQ0dHlTT1VRU3k4Wm5VV1duUjg2MVl0a3ZJOTFKbkNWVFZDUXRzc0VoRDBaOV9wLVBfbWY1aWRtQ2xwMkd0MWluX0JKaUZaZjJjdEdtdDY4ei1EendmMVM1NW10TGl2UlJnR0lJS0pmRkdhZ0dhMW8wWG1hVXJOYWNBR1RpdWs5QTNSTEc3ag?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "In Review, February 2026: Headline highlights from Sephora, L'Oreal, Selfridges and more... - TheIndustry.beauty",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlFiUGkxMW50SVlOcm16dTFKZHZDLW1Od09JN1dOYWVfaGQ0dHlTT1VRU3k4Wm5VV1duUjg2MVl0a3ZJOTFKbkNWVFZDUXRzc0VoRDBaOV9wLVBfbWY1aWRtQ2xwMkd0MWluX0JKaUZaZjJjdEdtdDY4ei1EendmMVM1NW10TGl2UlJnR0lJS0pmRkdhZ0dhMW8wWG1hVXJOYWNBR1RpdWs5QTNSTEc3ag?oc=5",
+          "published": "Mon, 02 Mar 2026 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:32.629426+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Exclusive: Jo Malone London launches",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdmlXbXZ0blRScEZBNTRFRFE4ZXZ2OU0zOXplWlpnS21xdXV2cl9sM2JzWTdLOHF3RURuY0VzZF9WMUh4VUg3MXJIVkt4S3pfYWVNNDQzX3VLRVVQRkhqVXNpd19mUXl4RDl0MUxfWV9aNmRGTGM4RUJscmlydlpxSko1MA?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Exclusive: Jo Malone London launches at Space NK to drive UK growth - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdmlXbXZ0blRScEZBNTRFRFE4ZXZ2OU0zOXplWlpnS21xdXV2cl9sM2JzWTdLOHF3RURuY0VzZF9WMUh4VUg3MXJIVkt4S3pfYWVNNDQzX3VLRVVQRkhqVXNpd19mUXl4RDl0MUxfWV9aNmRGTGM4RUJscmlydlpxSko1MA?oc=5",
+          "published": "Tue, 29 Sep 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:33.394938+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Hello Klean launches first out-of-home",
+      "matched_query": "London beauty brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OVkF0RzNkWUJNTDdvWkgxb3U2TUxsZEY2QV8zYVNZdTN2aXFVaUtDS29tZlJFQnZVLTA1Mk16WWFMM2xfT2tsc3M2WlUtSzd2RzhhTEFfRS00MGNmMmRPeWNIZXliaklfWXYtdWhMR3RVUjZiWW1fS2p1WQ?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Hello Klean launches first out-of-home campaign across London hard-water hotspots - TheIndustry.beauty",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OVkF0RzNkWUJNTDdvWkgxb3U2TUxsZEY2QV8zYVNZdTN2aXFVaUtDS29tZlJFQnZVLTA1Mk16WWFMM2xfT2tsc3M2WlUtSzd2RzhhTEFfRS00MGNmMmRPeWNIZXliaklfWXYtdWhMR3RVUjZiWW1fS2p1WQ?oc=5",
+          "published": "Fri, 03 Jul 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:34.147085+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -570,277 +864,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:23.161532+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Best beauty advent calendars for",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlV6ZFF0bHJFTktVVHB3OVUxTFREdnlfOEJLb0JWd1VRT09jZjRJSFZMNGN6eWhpc0VHQXo4Z0lQdEY5N2pOUldZNi1sclBiUEw4cXUtUThxQ05zWXF6bDF0eEhWVmpXYUFaS3RHUWtNOER4eWZYb0dRMV9DdWhnUXItNFhDMmF6UVE5My16YzZIQ0tKYXVLVkRSSGlEaXN3cFVZMlFGQXcxbm92ZlY1N19KYkZDVlRGTTFhUEhMNmcxTlE?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Best beauty advent calendars for 2026, reviewed by experts - London Evening Standard",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlV6ZFF0bHJFTktVVHB3OVUxTFREdnlfOEJLb0JWd1VRT09jZjRJSFZMNGN6eWhpc0VHQXo4Z0lQdEY5N2pOUldZNi1sclBiUEw4cXUtUThxQ05zWXF6bDF0eEhWVmpXYUFaS3RHUWtNOER4eWZYb0dRMV9DdWhnUXItNFhDMmF6UVE5My16YzZIQ0tKYXVLVkRSSGlEaXN3cFVZMlFGQXcxbm92ZlY1N19KYkZDVlRGTTFhUEhMNmcxTlE?oc=5",
-          "published": "Thu, 08 Oct 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:24.014461+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "British startup brand, Curated Beauty",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWdsOW9yV0tua1B6a3JISWNRSU1LTzA3d2ljRkN3cVpJaUJHRUZlNUxqZlhhZVUwNEpKMU5oR2FNSk15MkM2RGpldW51WXNqN0lyMTJTelZTak9MeVFFcWl4MHZrRVBwVXdLWXRCTDFrUzVuakJuWmdqUDZLUFRmSzh3VGRVZ0NXcW5V?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "British startup brand, Curated Beauty London, launches in award-winning ‘super salon’ - Scratch Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWdsOW9yV0tua1B6a3JISWNRSU1LTzA3d2ljRkN3cVpJaUJHRUZlNUxqZlhhZVUwNEpKMU5oR2FNSk15MkM2RGpldW51WXNqN0lyMTJTelZTak9MeVFFcWl4MHZrRVBwVXdLWXRCTDFrUzVuakJuWmdqUDZLUFRmSzh3VGRVZ0NXcW5V?oc=5",
-          "published": "Wed, 17 Dec 2025 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:25.319531+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Aveeno to unveil new skincare",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHpSai1aN0ZpbEx3U2xrRkZaWGtYS0RiNGFSS2Q0NnNmamlfSTZhYjM2NWxrSjAtdHB2ZEN4ZFRQQ19mcjlWa29wd0tjbkNsMTQxTl9jRXhsZ24zMVZscDZhbmxNYU14eW1WX0pJemdFME5hbF9wakxqbWU0ZVpoNVVxbDRkYjU5alVPbTllU3hQZXNxSkk4?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Aveeno to unveil new skincare launches at London wellness pop-up - TheIndustry.beauty",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHpSai1aN0ZpbEx3U2xrRkZaWGtYS0RiNGFSS2Q0NnNmamlfSTZhYjM2NWxrSjAtdHB2ZEN4ZFRQQ19mcjlWa29wd0tjbkNsMTQxTl9jRXhsZ24zMVZscDZhbmxNYU14eW1WX0pJemdFME5hbF9wakxqbWU0ZVpoNVVxbDRkYjU5alVPbTllU3hQZXNxSkk4?oc=5",
-          "published": "Wed, 08 Jul 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:26.553950+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Is Jo Malone London’s marketing",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU2JORFhuMTRvMnFRUnJuWmZiWGkzZ3RuUFJuWHd2Z3JWT3VsRDllMzlZa0pyY3BVVUYwamE5dFFLZG9sdF9KandOenMtT0pIYmwtYXdhM0JVVjB5b1pmOVctUTNuVmVkR0JzcFFkbFE5Q0Q3VGxERlI2UE82UVdpbWtLdE12TWJfbGc?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Is Jo Malone London’s marketing and brand shake-up working? These experts weigh in - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU2JORFhuMTRvMnFRUnJuWmZiWGkzZ3RuUFJuWHd2Z3JWT3VsRDllMzlZa0pyY3BVVUYwamE5dFFLZG9sdF9KandOenMtT0pIYmwtYXdhM0JVVjB5b1pmOVctUTNuVmVkR0JzcFFkbFE5Q0Q3VGxERlI2UE82UVdpbWtLdE12TWJfbGc?oc=5",
-          "published": "Tue, 08 Sep 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:27.781623+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Stacey Solomon launches beauty brand's",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGlVM0pTWUVsMnpqdFJ5ZHhBaU9jdzI5ZzBEbkVnQlFoV1dVVUk0WW8zc2Q2UWtuSlctSU1aYmJBSGVIUVg4ZUp6MWFxbGMxQXhZcUxodnZJRUxyNmZNYW9FSHJlaWRVOGZDd3BKdnp0TmxVVjJlVGFScmw0b3c5VkJqaUxYSVQtXzRGeVo2c2l3OVk?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Stacey Solomon launches beauty brand's Selfridges pop-up as she leads celeb parties across London - London Evening Standard",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGlVM0pTWUVsMnpqdFJ5ZHhBaU9jdzI5ZzBEbkVnQlFoV1dVVUk0WW8zc2Q2UWtuSlctSU1aYmJBSGVIUVg4ZUp6MWFxbGMxQXhZcUxodnZJRUxyNmZNYW9FSHJlaWRVOGZDd3BKdnp0TmxVVjJlVGFScmw0b3c5VkJqaUxYSVQtXzRGeVo2c2l3OVk?oc=5",
-          "published": "Fri, 27 Feb 2026 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:28.550650+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Cult beauty brand with over",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHSmNQYlY1ZGZTR1FfeUcwS1I2eF8yajdKaGNrdFFWNkx5ZndrLS14U0pOWHBuM1gtdFo5LTNWc2traXVnUVNLYVg1M0VkSTc5NEhlSE04TTItSjBBcF9BYzcyY0FxSkxlTXBCNEhLNmZkMGh1emw0T3Joa0w?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Cult beauty brand with over 500 products finally launches in UK – as first store location revealed - The Sun",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHSmNQYlY1ZGZTR1FfeUcwS1I2eF8yajdKaGNrdFFWNkx5ZndrLS14U0pOWHBuM1gtdFo5LTNWc2traXVnUVNLYVg1M0VkSTc5NEhlSE04TTItSjBBcF9BYzcyY0FxSkxlTXBCNEhLNmZkMGh1emw0T3Joa0w?oc=5",
-          "published": "Tue, 11 Nov 2025 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:29.337832+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "In Review 2025: This year's",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43eXpFbXdlc25WT3ppUU1yNzUzeFlTbWl0dEZXTFdDVURhSVR3bzY3bmFMN1dqb0drQ0gydlNyNWlkREV1dUFJR2pPcTFNRktZYjE5SldPeXVrVXlweHJDWXF5bzNwVkVhLVRobDBEZUNiMEFMMjBVUi1tbEE1dw?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "In Review 2025: This year's big beauty launches - TheIndustry.beauty",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43eXpFbXdlc25WT3ppUU1yNzUzeFlTbWl0dEZXTFdDVURhSVR3bzY3bmFMN1dqb0drQ0gydlNyNWlkREV1dUFJR2pPcTFNRktZYjE5SldPeXVrVXlweHJDWXF5bzNwVkVhLVRobDBEZUNiMEFMMjBVUi1tbEE1dw?oc=5",
-          "published": "Mon, 29 Dec 2025 08:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:30.623888+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Exclusive: Jo Malone London expands",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNamtEZlVtMEpYc2Z0NGlTcUJacm1IRjRoc2pNeGQ2Q19XZlR1dFcxU2RGVWhhQ2J6X3FIVTF5cm9iVS1vdk9nQkdJUkVWSEhwZ1EzMVdIcEk3Mnp0VXBVSWtiNS10Q0VnUV9JVUNfZjl2NDNjekxoYmp2YjJ6RlpLRUZR?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Exclusive: Jo Malone London expands retail footprint with Boots launch and unveils new collection - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNamtEZlVtMEpYc2Z0NGlTcUJacm1IRjRoc2pNeGQ2Q19XZlR1dFcxU2RGVWhhQ2J6X3FIVTF5cm9iVS1vdk9nQkdJUkVWSEhwZ1EzMVdIcEk3Mnp0VXBVSWtiNS10Q0VnUV9JVUNfZjl2NDNjekxoYmp2YjJ6RlpLRUZR?oc=5",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:31.461260+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Celebrities rumoured to be launching",
-      "matched_query": "London beauty brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWo4eHhLdm0wYWNvVWEwelNVYjVCeW9heVJiZU45T0x6OXpXVUlxWTVIWjhvenc2cmduTzFQblJQU3Q4LXg5TWZEVEVkeWJVVm10Y3F3QndDakRqbXEtcWJWSm94VDhvLTBKV0xyeEFfQmpPQUcxaVgyV1N3T283UGVuU0FEYlR1bzFpcnFR?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Celebrities rumoured to be launching beauty brands: from Tate McRae to Sydney Sweeney - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWo4eHhLdm0wYWNvVWEwelNVYjVCeW9heVJiZU45T0x6OXpXVUlxWTVIWjhvenc2cmduTzFQblJQU3Q4LXg5TWZEVEVkeWJVVm10Y3F3QndDakRqbXEtcWJWSm94VDhvLTBKV0xyeEFfQmpPQUcxaVgyV1N3T283UGVuU0FEYlR1bzFpcnFR?oc=5",
-          "published": "Wed, 19 Aug 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:32.707996+00:00",
+      "generated_at": "2026-10-30T13:53:34.910763+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -870,7 +894,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:34.451678+00:00",
+      "generated_at": "2026-10-30T13:53:35.740753+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -900,7 +924,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:36.140899+00:00",
+      "generated_at": "2026-10-30T13:53:36.531834+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -930,7 +954,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:37.356380+00:00",
+      "generated_at": "2026-10-30T13:53:37.353812+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -960,7 +984,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:38.672474+00:00",
+      "generated_at": "2026-10-30T13:53:38.140352+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -990,37 +1014,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:39.462504+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Harper Beckham's new beauty brand:",
-      "matched_query": "new beauty brand UK",
-      "evidence_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdFI4aHA5RS1qMkt4X3BOaC1xNmhlQXROTnVBaUlUdVI1MnBDc2lRVFpDSURneTA1c21tS2g2MXlweEYwN2V4MzBja0plaURyZG1tYUI1cGNaakV0cXc5RktCeUw5bWxOUUZUR1pxaVI4ak4tQkxYdDVPT0pPY2xRZmJoVjA5U2NhN3JKOVFZa3VZN2Z1amVTS2R0QUZ5QWw5OTNtOVRmZjJIYkZfZkRR?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Harper Beckham's new beauty brand: Everything we know, including the recently revealed name - Cosmopolitan",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdFI4aHA5RS1qMkt4X3BOaC1xNmhlQXROTnVBaUlUdVI1MnBDc2lRVFpDSURneTA1c21tS2g2MXlweEYwN2V4MzBja0plaURyZG1tYUI1cGNaakV0cXc5RktCeUw5bWxOUUZUR1pxaVI4ak4tQkxYdDVPT0pPY2xRZmJoVjA5U2NhN3JKOVFZa3VZN2Z1amVTS2R0QUZ5QWw5OTNtOVRmZjJIYkZfZkRR?oc=5",
-          "published": "Wed, 22 Jul 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:40.721307+00:00",
+      "generated_at": "2026-10-30T13:53:38.972649+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1050,7 +1044,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:41.512429+00:00",
+      "generated_at": "2026-10-30T13:53:39.734965+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Harper Beckham's new beauty brand:",
+      "matched_query": "new beauty brand UK",
+      "evidence_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdFI4aHA5RS1qMkt4X3BOaC1xNmhlQXROTnVBaUlUdVI1MnBDc2lRVFpDSURneTA1c21tS2g2MXlweEYwN2V4MzBja0plaURyZG1tYUI1cGNaakV0cXc5RktCeUw5bWxOUUZUR1pxaVI4ak4tQkxYdDVPT0pPY2xRZmJoVjA5U2NhN3JKOVFZa3VZN2Z1amVTS2R0QUZ5QWw5OTNtOVRmZjJIYkZfZkRR?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Harper Beckham's new beauty brand: Everything we know, including the recently revealed name - Cosmopolitan",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdFI4aHA5RS1qMkt4X3BOaC1xNmhlQXROTnVBaUlUdVI1MnBDc2lRVFpDSURneTA1c21tS2g2MXlweEYwN2V4MzBja0plaURyZG1tYUI1cGNaakV0cXc5RktCeUw5bWxOUUZUR1pxaVI4ak4tQkxYdDVPT0pPY2xRZmJoVjA5U2NhN3JKOVFZa3VZN2Z1amVTS2R0QUZ5QWw5OTNtOVRmZjJIYkZfZkRR?oc=5",
+          "published": "Wed, 22 Jul 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:40.478150+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1080,7 +1104,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:42.435315+00:00",
+      "generated_at": "2026-10-30T13:53:40.983396+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1110,7 +1134,37 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:42.961369+00:00",
+      "generated_at": "2026-10-30T13:53:41.469118+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Boots accelerates beauty reinvention with",
+      "matched_query": "new beauty brand UK",
+      "evidence_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1UxdFVTWUVmV21iNl9LZUF6ZGxCc2ZBaHlRY2x5aE5uYVlpamxWLXBYY2p2ekNOMFVkTXM1d2tCWmtWV2VlYjBtNWRmTlhQSnhTOWt4cEZfQ3dFR2tnV1lkWVYwYVY2d1h6bFdra3hwUENHNGlrbDlTMXh5eUJaSTBIcVd5dE5yRDZHMlVSYUJNY0NDOTZORFRVNjBRV1dpQndpa0t5VDByX25CczhWT1ZCallYeWw2d2ZVdzB4MG9IVXVX?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Boots accelerates beauty reinvention with opening of new concept store in Bristol - Boots UK",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1UxdFVTWUVmV21iNl9LZUF6ZGxCc2ZBaHlRY2x5aE5uYVlpamxWLXBYY2p2ekNOMFVkTXM1d2tCWmtWV2VlYjBtNWRmTlhQSnhTOWt4cEZfQ3dFR2tnV1lkWVYwYVY2d1h6bFdra3hwUENHNGlrbDlTMXh5eUJaSTBIcVd5dE5yRDZHMlVSYUJNY0NDOTZORFRVNjBRV1dpQndpa0t5VDByX25CczhWT1ZCallYeWw2d2ZVdzB4MG9IVXVX?oc=5",
+          "published": "Thu, 28 May 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:41.983114+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1140,67 +1194,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:44.384558+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "I Was One of the",
-      "matched_query": "new beauty brand UK",
-      "evidence_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByV3FyNDJuV19ES1pwYkJoN0QtV3p5bWQtazIydkZHaTY3RGUtVzltZVlYeEwyLThXd01jVVh4THlNdmJVZ0g1Y211R0tBZTFXbS1UbUE0enZEdWpmcFhDNzVBc1JLZjdUTUl0NE5WcjU?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "I Was One of the First Beauty Directors to Try Marc Jacobs' Relaunch—These Are the 3 Products I'd Recommend - Marie Claire UK",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByV3FyNDJuV19ES1pwYkJoN0QtV3p5bWQtazIydkZHaTY3RGUtVzltZVlYeEwyLThXd01jVVh4THlNdmJVZ0g1Y211R0tBZTFXbS1UbUE0enZEdWpmcFhDNzVBc1JLZjdUTUl0NE5WcjU?oc=5",
-          "published": "Mon, 08 Jun 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:45.288682+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "From Trinny London to REFY:",
-      "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91WGwxWGx1WFIwdEhSVnNkMm0tWGRweld0M1BlaV9zZjBMcldXSldTdFREMHhFSUg2REduVFRfdXBmRW56NFQ4Zko3bnROVDNGTDNaZDhLMDFlWHZFdFZ4MWNFOGpXa2tHV2t3eG5aNGptVVhpRFBKTlpwZjNQaEE?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "From Trinny London to REFY: How beauty brands build true communities and why it's not what you think - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91WGwxWGx1WFIwdEhSVnNkMm0tWGRweld0M1BlaV9zZjBMcldXSldTdFREMHhFSUg2REduVFRfdXBmRW56NFQ4Zko3bnROVDNGTDNaZDhLMDFlWHZFdFZ4MWNFOGpXa2tHV2t3eG5aNGptVVhpRFBKTlpwZjNQaEE?oc=5",
-          "published": "Mon, 19 Oct 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:45.796352+00:00",
+      "generated_at": "2026-10-30T13:53:43.003990+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1230,37 +1224,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:46.326893+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Dragons' Den star Touker Suleyman's",
-      "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdjg1V0xqaVdmSVZUTHc4VTgxZHBoUE5WM294VFNSaXJMR0tRMVVja3Y4MjlhRjg0S1lLMFh0Z0RTVGxkLThqd194a1hBTXR2cldFS3VjcU02WW5Tay1wcUs4cThGejZ4Uk9lU2ZzVGpUYXFqMEhDOXprd25DVDIxYWRDTEdKdnFqUHZQNG85emtNMmJXTzBBbHBPVTFZMXV2WGl0Y3d1TWhpUExqaGlRVk5rRGVVQWNlNkJ2SURQY1pzWXpkeUZvb3RMRQ?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Dragons' Den star Touker Suleyman's new beauty brand Lipstick London gets physical at Westfield - Retail Technology Innovation Hub",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdjg1V0xqaVdmSVZUTHc4VTgxZHBoUE5WM294VFNSaXJMR0tRMVVja3Y4MjlhRjg0S1lLMFh0Z0RTVGxkLThqd194a1hBTXR2cldFS3VjcU02WW5Tay1wcUs4cThGejZ4Uk9lU2ZzVGpUYXFqMEhDOXprd25DVDIxYWRDTEdKdnFqUHZQNG85emtNMmJXTzBBbHBPVTFZMXV2WGl0Y3d1TWhpUExqaGlRVk5rRGVVQWNlNkJ2SURQY1pzWXpkeUZvb3RMRQ?oc=5",
-          "published": "Mon, 05 Oct 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:47.311164+00:00",
+      "generated_at": "2026-10-30T13:53:43.591218+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1290,37 +1254,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:48.266471+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Jennifer Lawrence introduces mes° beauty,",
-      "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FdVRmUWJDYWZHZW92UjZqeXdKZk5LbXdHVnpvRDJhdkhyN193VXVxLWtVSVhPTjV6d3FvMFBaQ2tvYU44bk9lUXZGZjYxaGdaWHgtZFlva2hESV9aS3AtZlpQb0dUamU2R3RwdFZ3?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Jennifer Lawrence introduces mes° beauty, her new haircare brand - Vogue Adria",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FdVRmUWJDYWZHZW92UjZqeXdKZk5LbXdHVnpvRDJhdkhyN193VXVxLWtVSVhPTjV6d3FvMFBaQ2tvYU44bk9lUXZGZjYxaGdaWHgtZFlva2hESV9aS3AtZlpQb0dUamU2R3RwdFZ3?oc=5",
-          "published": "Mon, 19 Oct 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:48.757075+00:00",
+      "generated_at": "2026-10-30T13:53:44.146252+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1350,37 +1284,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:50.161489+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "Down to Business with CB",
-      "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Sb1VxMFpRR2lnZkhfX2hnb0Z5eU4xbGVZeHMxQ19JNEtQRjFfaDlWSHktZndiaTloSmNMa2IyNGpGMXR1RXhMajNJZlJlTEt3Zzd2dkR4M0tmVXZtQzItd0pVREg?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "Down to Business with CB gives insight into the worklives of some of beauty’s biggest names - Cosmetics Business",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Sb1VxMFpRR2lnZkhfX2hnb0Z5eU4xbGVZeHMxQ19JNEtQRjFfaDlWSHktZndiaTloSmNMa2IyNGpGMXR1RXhMajNJZlJlTEt3Zzd2dkR4M0tmVXZtQzItd0pVREg?oc=5",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:51.143806+00:00",
+      "generated_at": "2026-10-30T13:53:44.652945+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1410,7 +1314,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:51.617558+00:00",
+      "generated_at": "2026-10-30T13:53:45.156089+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1418,15 +1322,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "20 British Beauty Brands The",
+      "brand_name": "H&F artists go global with",
       "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2VETVJydmFPVjZJbF81WmtpQ2F3MEdMSUY2TGp3V1NFeHE4Y1JLVF9GWjhyanVFUGxkaDZRRDBkSEdxRlpiNWxDbHBfemk5Wm1MZ3ltLW8yOS1nQW9vVE8tODFNa0N3WEhwUlh0NTBGY184MUNKVWJZaGlDcW5CYldzYnZ4VS1ERkE?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGVIVzRWaFprMXVLeHAxb2JEZXpFRW04VGhJUktsVVhadE90elFCUTNKMTlvcGNBeW9YYm9WVnljY25Pb2xsbjRjT29qR2h3emdHUXJ0ZHN0Q3hRSVdla2R2bEVhOXZzMEVKUkptREpLcEVZNnU4Q0F1amNUcmZpZXUxaF90aDNmMmlwd3JkNlhjT3FLbDVOaA?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "20 British Beauty Brands The C&TH Editors Love - Country and Town House",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2VETVJydmFPVjZJbF81WmtpQ2F3MEdMSUY2TGp3V1NFeHE4Y1JLVF9GWjhyanVFUGxkaDZRRDBkSEdxRlpiNWxDbHBfemk5Wm1MZ3ltLW8yOS1nQW9vVE8tODFNa0N3WEhwUlh0NTBGY184MUNKVWJZaGlDcW5CYldzYnZ4VS1ERkE?oc=5",
-          "published": "Wed, 20 May 2026 16:07:23 GMT"
+          "title": "H&F artists go global with unique designs for ethical beauty brand - London Borough of Hammersmith & Fulham",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGVIVzRWaFprMXVLeHAxb2JEZXpFRW04VGhJUktsVVhadE90elFCUTNKMTlvcGNBeW9YYm9WVnljY25Pb2xsbjRjT29qR2h3emdHUXJ0ZHN0Q3hRSVdla2R2bEVhOXZzMEVKUkptREpLcEVZNnU4Q0F1amNUcmZpZXUxaF90aDNmMmlwd3JkNlhjT3FLbDVOaA?oc=5",
+          "published": "Wed, 04 Feb 2026 08:00:00 GMT"
         }
       ],
       "contact": {
@@ -1440,7 +1344,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:53.048425+00:00",
+      "generated_at": "2026-10-30T13:53:45.681851+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1448,15 +1352,15 @@
       "has_contact": false
     },
     {
-      "brand_name": "Meet the world-class brands exhibiting",
+      "brand_name": "Jennifer Lawrence introduces mes° beauty,",
       "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFJ3WGlUenZoM1lUNms2UVVOLThfRlhtRXc1bVBwdEwwb0o0Y25XMGhXU2I2LTJQMk5UM3Qyb0dhUGxibnJxSXQyR1NBT1BvOVotMFpkU3lNQmVoVHdVcTJLcUV4T1Bsa2RMZ3B5eXBqQk5hOENSaGw4WmR4NjRYS2wtbWo2QVhfa1RQcmVOa3ZzUjlISFBXaUZ2Nk5IVlRGTEpuaWxZM0ZkZw?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FdVRmUWJDYWZHZW92UjZqeXdKZk5LbXdHVnpvRDJhdkhyN193VXVxLWtVSVhPTjV6d3FvMFBaQ2tvYU44bk9lUXZGZjYxaGdaWHgtZFlva2hESV9aS3AtZlpQb0dUamU2R3RwdFZ3?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "Meet the world-class brands exhibiting at Professional Beauty London 2026 - Professional Beauty",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFJ3WGlUenZoM1lUNms2UVVOLThfRlhtRXc1bVBwdEwwb0o0Y25XMGhXU2I2LTJQMk5UM3Qyb0dhUGxibnJxSXQyR1NBT1BvOVotMFpkU3lNQmVoVHdVcTJLcUV4T1Bsa2RMZ3B5eXBqQk5hOENSaGw4WmR4NjRYS2wtbWo2QVhfa1RQcmVOa3ZzUjlISFBXaUZ2Nk5IVlRGTEpuaWxZM0ZkZw?oc=5",
-          "published": "Mon, 21 Sep 2026 07:00:00 GMT"
+          "title": "Jennifer Lawrence introduces mes° beauty, her new haircare brand - Vogue Adria",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FdVRmUWJDYWZHZW92UjZqeXdKZk5LbXdHVnpvRDJhdkhyN193VXVxLWtVSVhPTjV6d3FvMFBaQ2tvYU44bk9lUXZGZjYxaGdaWHgtZFlva2hESV9aS3AtZlpQb0dUamU2R3RwdFZ3?oc=5",
+          "published": "Mon, 19 Oct 2026 07:00:00 GMT"
         }
       ],
       "contact": {
@@ -1470,7 +1374,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:53.535052+00:00",
+      "generated_at": "2026-10-30T13:53:46.192713+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1500,37 +1404,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:54.944430+00:00",
-      "score": 6,
-      "score_reasons": [
-        "1 news mention(s)"
-      ],
-      "has_contact": false
-    },
-    {
-      "brand_name": "As a Beauty Editor, I",
-      "matched_query": "new beauty brand London",
-      "evidence_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ncV9pdU5JTGp2RUNWdWU5UGlWOGZodXJwY1NwcTlTc1EyZklkYndRWV9OekZOQmQtUUVacEZpUjFFdDU0cEJxclo0Ym9GQW4tTWlPTVg2dWozQ2c2NktQUkFXYVp0SS1JZlNqMUFVRUlZdw?oc=5",
-      "website": "",
-      "news_mentions": [
-        {
-          "title": "As a Beauty Editor, I Cannot Believe I Have Been Hesitant to Try This Brand—It’s Now Become My Most Used - Marie Claire UK",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ncV9pdU5JTGp2RUNWdWU5UGlWOGZodXJwY1NwcTlTc1EyZklkYndRWV9OekZOQmQtUUVacEZpUjFFdDU0cEJxclo0Ym9GQW4tTWlPTVg2dWozQ2c2NktQUkFXYVp0SS1JZlNqMUFVRUlZdw?oc=5",
-          "published": "Tue, 28 Jul 2026 07:00:00 GMT"
-        }
-      ],
-      "contact": {
-        "primary_email": "",
-        "other_emails": [],
-        "contact_form_url": "",
-        "checked_pages": []
-      },
-      "site": {
-        "pages": {},
-        "fetched_pages": {},
-        "change_flags": []
-      },
-      "generated_at": "2026-10-29T13:58:55.472468+00:00",
+      "generated_at": "2026-10-30T13:53:47.207930+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1560,7 +1434,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:55.948470+00:00",
+      "generated_at": "2026-10-30T13:53:47.712731+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1590,7 +1464,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:56.932765+00:00",
+      "generated_at": "2026-10-30T13:53:48.243479+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1620,7 +1494,127 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:57.921015+00:00",
+      "generated_at": "2026-10-30T13:53:48.785428+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Within a Year of Launching",
+      "matched_query": "UK makeup brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd2FPeVdEbUpFb1dqODlwWC1SYXVNaTVmNGNfRUtPN0ZpUU1fa0YyVFlkeUtlcWVWVlB0Tk9JU1pWWDBxZXIzQmxud3ZQMXVQQzgwbGg5V3FGTFdfaG9oaGR0eEVBOXVRT2Z5UHdTZkJZWm5RN2k0N3hiNERPajJjeUZJN00ydUs4V3Q3T0dxZXJSRVRQYUl5NnZ4Q0VKNDJ6cFNDMmFxODY4WVBYUFVXTWl1S3cxbk92VVhZVjktcm1BeFJpb0NBOVdHWVNtMkZHY3RkTmRBX25MdjFKc3g2UUszS3BibFE1X2FCS1FGaGnSAfYBQVVfeXFMTkw3dnhGbmx5ZTN5djJtQWlUYWdjR0MyTFRqSjQ0ZlFWZW94R3I3ajdGdUY0elBMZE9TRlU2Wi1UMVhQUzRfZXFHTXF0bTQxQUZpeW5oZmZxUGpGTjh4STNCVXEwRi15b3VFREpHUTVKcW5IaXgyNTBkMzJFaUh0Z1dqd3kxcU9YQVJoUTVMSHhOVHVCWWstM29aUzRMcmpwS01JVzZyaE9raTZkeXFwYjh2cXVWZnN5a0NZMmhndkVmLVU0XzlsNEo3NUhQNGdEOWY0MXpZX2pWMm1ybVp2QnBuRUNYblQ2a0JLUE9PeHJUOVIyM3N3?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Within a Year of Launching in the UK with Space NK, Kay Beauty Wins a Prestigious Honour at the CEW UK Beauty Awards 2026 - TheWire.in",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd2FPeVdEbUpFb1dqODlwWC1SYXVNaTVmNGNfRUtPN0ZpUU1fa0YyVFlkeUtlcWVWVlB0Tk9JU1pWWDBxZXIzQmxud3ZQMXVQQzgwbGg5V3FGTFdfaG9oaGR0eEVBOXVRT2Z5UHdTZkJZWm5RN2k0N3hiNERPajJjeUZJN00ydUs4V3Q3T0dxZXJSRVRQYUl5NnZ4Q0VKNDJ6cFNDMmFxODY4WVBYUFVXTWl1S3cxbk92VVhZVjktcm1BeFJpb0NBOVdHWVNtMkZHY3RkTmRBX25MdjFKc3g2UUszS3BibFE1X2FCS1FGaGnSAfYBQVVfeXFMTkw3dnhGbmx5ZTN5djJtQWlUYWdjR0MyTFRqSjQ0ZlFWZW94R3I3ajdGdUY0elBMZE9TRlU2Wi1UMVhQUzRfZXFHTXF0bTQxQUZpeW5oZmZxUGpGTjh4STNCVXEwRi15b3VFREpHUTVKcW5IaXgyNTBkMzJFaUh0Z1dqd3kxcU9YQVJoUTVMSHhOVHVCWWstM29aUzRMcmpwS01JVzZyaE9raTZkeXFwYjh2cXVWZnN5a0NZMmhndkVmLVU0XzlsNEo3NUhQNGdEOWY0MXpZX2pWMm1ybVp2QnBuRUNYblQ2a0JLUE9PeHJUOVIyM3N3?oc=5",
+          "published": "Tue, 23 Jun 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:49.274668+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "MAC Cosmetics’ big bet on",
+      "matched_query": "UK makeup brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDdkNmtMVkdLY2xzR1FLa0RtOTBrTWpLZnlpQVNjTndsUHg0ZTBPZlU0LXJBYkc0d21tMDk1SnZ2dnlxZHpBYlM0ZkNRbXp1YUYyNWRFYi1ZLXdjOFhMaXJCX1lZTFRxa0FWaV90NHByWko4QUNLdWt3ZGZUb05HdjA0TmRBVkRhaWJpNg?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "MAC Cosmetics’ big bet on TikTok Shop UK is beginning to pay off, but can it last? - Cosmetics Business",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDdkNmtMVkdLY2xzR1FLa0RtOTBrTWpLZnlpQVNjTndsUHg0ZTBPZlU0LXJBYkc0d21tMDk1SnZ2dnlxZHpBYlM0ZkNRbXp1YUYyNWRFYi1ZLXdjOFhMaXJCX1lZTFRxa0FWaV90NHByWko4QUNLdWt3ZGZUb05HdjA0TmRBVkRhaWJpNg?oc=5",
+          "published": "Thu, 16 Apr 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:49.844060+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Glossier's first ever powder blush,",
+      "matched_query": "UK makeup brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1lUbm02LUFoaXpUU2oyTGIxd1RUM2Vta0ZOQWxZY0FsQ24tblotMWNRU2Y0ekRJT1E3N0lWUEhaMHd2WGRsMXlkQkZLQUNESnJYanFHbXdwUW82dkZrU04waFpCNTEwd0ZCYlZDbjRocHoxbmFOYUtSaHlhdkIxbUZKZlFycWlYUlBXODhraklib2prSjd2Y2puQWZaazlfeDcw?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Glossier's first ever powder blush, plus 3 more beauty launches under £30 to shop this month - Good Housekeeping",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1lUbm02LUFoaXpUU2oyTGIxd1RUM2Vta0ZOQWxZY0FsQ24tblotMWNRU2Y0ekRJT1E3N0lWUEhaMHd2WGRsMXlkQkZLQUNESnJYanFHbXdwUW82dkZrU04waFpCNTEwd0ZCYlZDbjRocHoxbmFOYUtSaHlhdkIxbUZKZlFycWlYUlBXODhraklib2prSjd2Y2puQWZaazlfeDcw?oc=5",
+          "published": "Wed, 28 Jan 2026 08:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:50.366636+00:00",
+      "score": 6,
+      "score_reasons": [
+        "1 news mention(s)"
+      ],
+      "has_contact": false
+    },
+    {
+      "brand_name": "Viral UK beauty brand lands",
+      "matched_query": "UK makeup brand launch",
+      "evidence_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSlRSU25zbkpOelNLNDVTTnV6T0oxdjh3YUFGeWdqc3Y4ZWZWMDRQaGpESUo2LUtvTGpLVDV6UmoxV0pocEw2cFl6eENZdUtSQTF1bjFQZzVBb0plQXZQalB1Z2tBT0ZHSl90Y2J0ZTlIZko0UW0tSWhkUTVKTzFCUTZlZ1poSWJuZUFfNVRuSjdCV0gwQWFIUlFXZXFrcTFzSGY3amZOYWJUakgtUnlJTFlaSFNvbFdleENkeVJVTFVUdXlGSzJGZl9uTHc0U1paRVIwQnpEdXVaTHlnRmN5MC13djJBcEtyZXZyd9IB8gFBVV95cUxOSVREN3RFdXBDRndwLUtHWFp1LU5SNFc2SzNOaWx3SWtTajZqaUFzcVpiT19CaW1zTVozU0VhdWkxbEgtc1NkNjVOYk5ZNGtRdV90SWlmT3ZwcTFwMFYzR2t4S0t3aHZCbjJkUENhMXFFLVpsS2lPN3d4alVvSlpRNnJfV2sydHJvQlFmUm8xMWZKN214Zks3eVh6THFtandCQmFpbDVzRGozTHNVLS1OWkM3a3lVM1lnY05PR2h4N2tJcmc2c0ZCU3J0Q3BuOUh3QW1LX0xJb0k2SmhFZFFKM2N2SXc3Yi1oS1AzUDl2STg2dw?oc=5",
+      "website": "",
+      "news_mentions": [
+        {
+          "title": "Viral UK beauty brand lands in Aus stores - News.com.au",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSlRSU25zbkpOelNLNDVTTnV6T0oxdjh3YUFGeWdqc3Y4ZWZWMDRQaGpESUo2LUtvTGpLVDV6UmoxV0pocEw2cFl6eENZdUtSQTF1bjFQZzVBb0plQXZQalB1Z2tBT0ZHSl90Y2J0ZTlIZko0UW0tSWhkUTVKTzFCUTZlZ1poSWJuZUFfNVRuSjdCV0gwQWFIUlFXZXFrcTFzSGY3amZOYWJUakgtUnlJTFlaSFNvbFdleENkeVJVTFVUdXlGSzJGZl9uTHc0U1paRVIwQnpEdXVaTHlnRmN5MC13djJBcEtyZXZyd9IB8gFBVV95cUxOSVREN3RFdXBDRndwLUtHWFp1LU5SNFc2SzNOaWx3SWtTajZqaUFzcVpiT19CaW1zTVozU0VhdWkxbEgtc1NkNjVOYk5ZNGtRdV90SWlmT3ZwcTFwMFYzR2t4S0t3aHZCbjJkUENhMXFFLVpsS2lPN3d4alVvSlpRNnJfV2sydHJvQlFmUm8xMWZKN214Zks3eVh6THFtandCQmFpbDVzRGozTHNVLS1OWkM3a3lVM1lnY05PR2h4N2tJcmc2c0ZCU3J0Q3BuOUh3QW1LX0xJb0k2SmhFZFFKM2N2SXc3Yi1oS1AzUDl2STg2dw?oc=5",
+          "published": "Fri, 21 Aug 2026 07:00:00 GMT"
+        }
+      ],
+      "contact": {
+        "primary_email": "",
+        "other_emails": [],
+        "contact_form_url": "",
+        "checked_pages": []
+      },
+      "site": {
+        "pages": {},
+        "fetched_pages": {},
+        "change_flags": []
+      },
+      "generated_at": "2026-10-30T13:53:50.817930+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
@@ -1630,12 +1624,12 @@
     {
       "brand_name": "rhode Announces the Return of",
       "matched_query": "UK makeup brand launch",
-      "evidence_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb0luRUE2dUt3YlBtd2RJUkFBTVRRYVYtTjRsRVVZSXJaMTJVUEp1eHUzOEs3cVlyd2FkTkpTSzRfZzhxQUVkMFBkY2JpOXozLVNxVk1EeFN0V2ZWZ2FhU3N0S0E1ZkpDU3Q1dm5vajNETmJoVGVwazJ6UmFlQ3F2TnVHcThOM042dGx0VUN0RW51UUdUb0ptbUQ1V1NGMDNpTC1vUmFzb0VXNWN2ZjNTZE51SkFwLXBqYTVwU3BJckFfek4waWRfMF9uQzlxdWRMZDk3bEF6cmhvbU5JUzhhVA?oc=5",
+      "evidence_link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTlFmak1pTVBQd1dwcVhSTlRPdW9PNGtzSTdTWjc0T1A2Rm9GM05LMjVoY1diRWZiTmZvU3VxcnF4X25uNDJfbkRUZm93eDZwZ3JIZ3o3NTNxaG4yZE95XzB4X21mTVJJOGZVejhFU2otalVQMU41MEJ4V3RpNUQwWHYzcEhMR1doX0N4ZjNYMFRTRk1uZk4tN0NaamExc1ZDWWNiN1dXSlJyT1N2SmlEUFRzTVlldFdxYm9ZRmJMUEdtSUk0QUhUR2R1bUxKSmZ1MHVxYzVQUUJlMENhN0ZISV9wTklzMVpwQUZNM2Y3UXNtU3BXdEcxTzczRVV5SkQxc0NONXhEWmFrbTQ?oc=5",
       "website": "",
       "news_mentions": [
         {
-          "title": "rhode Announces the Return of Limited Edition Favorites and New Exclusives at Sephora Across Europe and the U.K. - e.l.f. Beauty",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb0luRUE2dUt3YlBtd2RJUkFBTVRRYVYtTjRsRVVZSXJaMTJVUEp1eHUzOEs3cVlyd2FkTkpTSzRfZzhxQUVkMFBkY2JpOXozLVNxVk1EeFN0V2ZWZ2FhU3N0S0E1ZkpDU3Q1dm5vajNETmJoVGVwazJ6UmFlQ3F2TnVHcThOM042dGx0VUN0RW51UUdUb0ptbUQ1V1NGMDNpTC1vUmFzb0VXNWN2ZjNTZE51SkFwLXBqYTVwU3BJckFfek4waWRfMF9uQzlxdWRMZDk3bEF6cmhvbU5JUzhhVA?oc=5",
+          "title": "rhode Announces the Return of Limited Edition Favorites and New Exclusives at Sephora Across Europe and the U.K. - STT Info",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTlFmak1pTVBQd1dwcVhSTlRPdW9PNGtzSTdTWjc0T1A2Rm9GM05LMjVoY1diRWZiTmZvU3VxcnF4X25uNDJfbkRUZm93eDZwZ3JIZ3o3NTNxaG4yZE95XzB4X21mTVJJOGZVejhFU2otalVQMU41MEJ4V3RpNUQwWHYzcEhMR1doX0N4ZjNYMFRTRk1uZk4tN0NaamExc1ZDWWNiN1dXSlJyT1N2SmlEUFRzTVlldFdxYm9ZRmJMUEdtSUk0QUhUR2R1bUxKSmZ1MHVxYzVQUUJlMENhN0ZISV9wTklzMVpwQUZNM2Y3UXNtU3BXdEcxTzczRVV5SkQxc0NONXhEWmFrbTQ?oc=5",
           "published": "Mon, 21 Sep 2026 07:00:00 GMT"
         }
       ],
@@ -1650,7 +1644,7 @@
         "fetched_pages": {},
         "change_flags": []
       },
-      "generated_at": "2026-10-29T13:58:58.876041+00:00",
+      "generated_at": "2026-10-30T13:53:51.314677+00:00",
       "score": 6,
       "score_reasons": [
         "1 news mention(s)"
