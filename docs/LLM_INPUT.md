@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-11-02T16:52:43.446011+00:00
+Generated at: 2026-11-03T14:53:24.862843+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -64,6 +64,21 @@ OFFER PRESETS (choose the best fit per brand):
 EVIDENCE SHORTLIST (do not browse; only use this):
 
 === BRAND 1 ===
+Name: Votary
+Website: https://votary.co.uk
+Discovery query: watchlist
+Evidence link: 
+Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
+Site changed flags: homepage, products, shop, collections
+Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
+News mentions: None
+Site snippets:
+- homepage (https://votary.co.uk)
+  VOTARY | High Performance, Plant-powered Skincare All taxes included for UK, USA, EU Discover NEW makeup collection CHRISTMAS SETS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Washbag Christmas Sets Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories Minis + Free Washbag FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Discover NEW makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND YOUR ROUTINE CHRISTMAS SETS THE VOTARY STORY R
+- products (https://votary.co.uk/products)
+  Collections - VOTARY All taxes included for UK, USA, EU Discover NEW makeup collection CHRISTMAS SETS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Washbag Christmas Sets Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories Minis + Free Washbag FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Discover NEW makeup collection Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND YOUR ROUTINE CHRISTMAS SETS THE VOTARY STORY REVIEWS AND AWARDS Search SHOP
+
+=== BRAND 2 ===
 Name: REOME
 Website: https://reome.com
 Discovery query: watchlist
@@ -77,21 +92,6 @@ Site snippets:
   REOME | Award-Winning Biotechnology Skincare Skip to content Free UK delivery with orders £60+ Free SIGNATURE MIRROR COMPACT with all orders Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The E
 - products (https://reome.com/products)
   Collections – REOME Skip to content Free UK delivery with orders £60+ Free SIGNATURE MIRROR COMPACT with all orders Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The Extraordinary Skin Set BUN
-
-=== BRAND 2 ===
-Name: Votary
-Website: https://votary.co.uk
-Discovery query: watchlist
-Evidence link: 
-Score: 51 Reasons: Contact method found, 4 site page(s) captured
-Site changed flags: None
-Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
-News mentions: None
-Site snippets:
-- homepage (https://votary.co.uk)
-  VOTARY | High Performance, Plant-powered Skincare All taxes included for UK, USA, EU 20% off for world vegan day with code VEGAN20 CHRISTMAS SETS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Washbag Christmas Sets Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories Minis + Free Washbag FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU 20% off for world vegan day with code VEGAN20 Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND YOUR ROUTINE CHR
-- products (https://votary.co.uk/products)
-  Collections - VOTARY All taxes included for UK, USA, EU 20% off for world vegan day with code VEGAN20 CHRISTMAS SETS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Washbag Christmas Sets Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories Minis + Free Washbag FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU 20% off for world vegan day with code VEGAN20 Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND YOUR ROUTINE CHRISTMAS SETS THE VOTARY STORY 
 
 === BRAND 3 ===
 Name: Skin Rocks
