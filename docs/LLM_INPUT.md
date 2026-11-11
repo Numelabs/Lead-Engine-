@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-11-10T15:27:12.399891+00:00
+Generated at: 2026-11-11T14:58:38.178661+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -64,6 +64,21 @@ OFFER PRESETS (choose the best fit per brand):
 EVIDENCE SHORTLIST (do not browse; only use this):
 
 === BRAND 1 ===
+Name: Votary
+Website: https://votary.co.uk
+Discovery query: watchlist
+Evidence link: 
+Score: 75 Reasons: Contact method found, 6 site page(s) captured, Site changed since last check
+Site changed flags: homepage, products, shop, collections
+Contact: email=aa4cacd33be28673d7e69be559ce7ad7@o4506196830715904.ingest.us.sentry.io form=https://votary.co.uk/contact
+News mentions: None
+Site snippets:
+- homepage (https://votary.co.uk)
+  VOTARY – Opening Soon VOTARY Opening Soon • Enter store using password • I have read and agree to the Privacy Policy Spread the word © 2026 VOTARY. Designed by Out of the Sandbox . This shop will be powered by Shopify Password Are you the store owner? Log in here or change your password settings A private invitation Black Friday Early Access Be among the first to discover what’s coming. Enter your password below or join our list for updates. Enter using password Enter the store Or Request your access code Sign up Thank you. You're on the list. By signing up, you agree to receive updates from us. You can unsubscribe at any time. Withdraw
+- products (https://votary.co.uk/products)
+  VOTARY – Opening Soon VOTARY Opening Soon • Enter store using password • I have read and agree to the Privacy Policy Spread the word © 2026 VOTARY. Designed by Out of the Sandbox . This shop will be powered by Shopify Password Are you the store owner? Log in here or change your password settings A private invitation Black Friday Early Access Be among the first to discover what’s coming. Enter your password below or join our list for updates. Enter using password Enter the store Or Request your access code Sign up Thank you. You're on the list. By signing up, you agree to receive updates from us. You can unsubscribe at any time. Withdraw
+
+=== BRAND 2 ===
 Name: REOME
 Website: https://reome.com
 Discovery query: watchlist
@@ -78,21 +93,6 @@ Site snippets:
 - products (https://reome.com/products)
   Collections – REOME Skip to content Free UK delivery with orders £60+ Free SIGNATURE MIRROR COMPACT with all orders Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio NEW Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm Award-winning Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo BUNDLE Save 15% The Hydra-Glow Duo NEW BUNDLE Save 15% The Extraordinary Skin Set BUN
 
-=== BRAND 2 ===
-Name: Votary
-Website: https://votary.co.uk
-Discovery query: watchlist
-Evidence link: 
-Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage, shop
-Contact: email=sales@VOTARY.co.uk form=https://votary.co.uk/stockists
-News mentions: None
-Site snippets:
-- homepage (https://votary.co.uk)
-  VOTARY | High Performance, Plant-powered Skincare All taxes included for UK, USA, EU Extra 10% off Christmas sets with code EXTRA10 CHRISTMAS SETS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Washbag Christmas Sets Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories Minis + Free Washbag FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Extra 10% off Christmas sets with code EXTRA10 Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND YOUR ROUTINE C
-- products (https://votary.co.uk/products)
-  Collections - VOTARY All taxes included for UK, USA, EU Extra 10% off Christmas sets with code EXTRA10 CHRISTMAS SETS MAKEUP SHOP Shop All Shop All Find Your Routine Minis + Free Washbag Christmas Sets Cleansers and Toners Serums & Facial Oils Masks & Peels Creams Bath and Body Eye Care Accessories Minis + Free Washbag FIND YOUR ROUTINE THE VOTARY STORY REVIEWS AND AWARDS Search Login CONTACT US UK/EU Store US Store Rest of the World AI 0 All taxes included for UK, USA, EU Extra 10% off Christmas sets with code EXTRA10 Login ✦ ASK AI CONTACT US 0 Your Cart is Empty Continue Shopping £0 Subtotal All taxes included for UK, USA, EU. Checkout SHOP FIND YOUR ROUTINE CHRISTMAS SETS THE VOTARY STOR
-
 === BRAND 3 ===
 Name: Skin Rocks
 Website: https://skinrocks.com
@@ -104,8 +104,8 @@ Contact: email=store@skinrocks.com form=https://skinrocks.com/products/digital-g
 News mentions: None
 Site snippets:
 - homepage (https://skinrocks.com)
-  Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE FREE FULL-SIZE GEL CLEANSER WHEN YOU SPEND £70+ Shop Shop All New in Bestsellers Minis/Travel Refills Custom Gift Set Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Mask Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Gifting Offers Routine Quiz Subscriptions Stores and Facials Explore Stockist Locator Skin Rocks at Liberty Skin Rocks at John
+  Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SIGN UP FOR 15% OFF YOUR FIRST ORDER FREE FULL-SIZE GEL CLEANSER WHEN YOU SPEND £70+ Shop Shop All New in Bestsellers Minis/Travel Refills Custom Gift Set Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Mask Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Gifting Offers Routine Quiz Subscriptions Stores and Facials Explore Stockist Locator Ski
 - products (https://skinrocks.com/products)
-  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE FREE FULL-SIZE GEL CLEANSER WHEN YOU SPEND £70+ Shop Shop All New in Bestsellers Minis/Travel Refills Custom Gift Set Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Mask Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Gifting Offers Routine Quiz Subscriptions Stores and Facials Explore Stockist Locator Skin Rocks at Liberty Skin Rocks at John Lewi
+  Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE SIGN UP FOR 15% OFF YOUR FIRST ORDER FREE FULL-SIZE GEL CLEANSER WHEN YOU SPEND £70+ Shop Shop All New in Bestsellers Minis/Travel Refills Custom Gift Set Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Mask Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Gifting Offers Routine Quiz Subscriptions Stores and Facials Explore Stockist Locator Skin Roc
 
 
