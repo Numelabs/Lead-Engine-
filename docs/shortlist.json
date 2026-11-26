@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:51:07.262669+00:00",
+  "generated_at": "2026-11-26T17:34:41.156553+00:00",
   "rules": {
     "requires_website": true,
     "requires_contact": true
@@ -8,70 +8,6 @@
   "total_actionable": 3,
   "count": 3,
   "shortlist": [
-    {
-      "brand_name": "REOME",
-      "matched_query": "watchlist",
-      "evidence_link": "",
-      "website": "https://reome.com",
-      "news_mentions": [],
-      "contact": {
-        "primary_email": "nothing@all.try",
-        "other_emails": [],
-        "contact_form_url": "https://reome.com/contact",
-        "checked_pages": [
-          "https://reome.com/sitemap.xml",
-          "https://reome.com/contact",
-          "https://reome.com/stockists",
-          "https://reome.com/about",
-          "https://reome.com/products/skin-transformation-trio",
-          "https://reome.com/products/active-recovery-broth",
-          "https://reome.com/products/hydra-plasma-veil-5",
-          "https://reome.com/products/biogenic-melting-cream"
-        ]
-      },
-      "site": {
-        "pages": {
-          "homepage": "https://reome.com",
-          "products": "https://reome.com/products",
-          "shop": "https://reome.com/shop",
-          "collections": "https://reome.com/collections",
-          "press": "https://reome.com/press",
-          "journal": "https://reome.com/journal"
-        },
-        "fetched_pages": {
-          "homepage": {
-            "url": "https://reome.com",
-            "snippet": "REOME Private Sale - 25% Off Sitewide Skip to content 25% off sitewide Plus free gift with purchase Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio LIMITED EDITION Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm AWARD-WINNING Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo Skincare Set The Hydra-Glow Duo NEW Skincare Set The Extraordinary Skin Set Skincare Set "
-          },
-          "products": {
-            "url": "https://reome.com/products",
-            "snippet": "Collections – REOME Skip to content 25% off sitewide Plus free gift with purchase Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio LIMITED EDITION Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm AWARD-WINNING Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo Skincare Set The Hydra-Glow Duo NEW Skincare Set The Extraordinary Skin Set Skincare Set Shop All Shop All "
-          },
-          "shop": {
-            "url": "https://reome.com/shop",
-            "snippet": "REOME Private Sale - 25% Off Sitewide Skip to content 25% off sitewide Plus free gift with purchase Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio LIMITED EDITION Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm AWARD-WINNING Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo Skincare Set The Hydra-Glow Duo NEW Skincare Set The Extraordinary Skin Set Skincare Set "
-          },
-          "collections": {
-            "url": "https://reome.com/collections",
-            "snippet": "Collections – REOME Skip to content 25% off sitewide Plus free gift with purchase Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio LIMITED EDITION Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm AWARD-WINNING Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo Skincare Set The Hydra-Glow Duo NEW Skincare Set The Extraordinary Skin Set Skincare Set Shop All Shop All "
-          }
-        },
-        "change_flags": [
-          "homepage",
-          "products",
-          "shop",
-          "collections"
-        ]
-      },
-      "generated_at": "2026-11-25T17:49:47.288452+00:00",
-      "score": 71,
-      "score_reasons": [
-        "Contact method found",
-        "4 site page(s) captured",
-        "Site changed since last check"
-      ],
-      "has_contact": true
-    },
     {
       "brand_name": "Skin Rocks",
       "matched_query": "watchlist",
@@ -124,12 +60,70 @@
           "collections"
         ]
       },
-      "generated_at": "2026-11-25T17:50:16.851337+00:00",
+      "generated_at": "2026-11-26T17:33:51.014505+00:00",
       "score": 71,
       "score_reasons": [
         "Contact method found",
         "4 site page(s) captured",
         "Site changed since last check"
+      ],
+      "has_contact": true
+    },
+    {
+      "brand_name": "REOME",
+      "matched_query": "watchlist",
+      "evidence_link": "",
+      "website": "https://reome.com",
+      "news_mentions": [],
+      "contact": {
+        "primary_email": "nothing@all.try",
+        "other_emails": [],
+        "contact_form_url": "https://reome.com/contact",
+        "checked_pages": [
+          "https://reome.com/sitemap.xml",
+          "https://reome.com/contact",
+          "https://reome.com/stockists",
+          "https://reome.com/about",
+          "https://reome.com/products/skin-transformation-trio",
+          "https://reome.com/products/active-recovery-broth",
+          "https://reome.com/products/hydra-plasma-veil-5",
+          "https://reome.com/products/biogenic-melting-cream"
+        ]
+      },
+      "site": {
+        "pages": {
+          "homepage": "https://reome.com",
+          "products": "https://reome.com/products",
+          "shop": "https://reome.com/shop",
+          "collections": "https://reome.com/collections",
+          "press": "https://reome.com/press",
+          "journal": "https://reome.com/journal"
+        },
+        "fetched_pages": {
+          "homepage": {
+            "url": "https://reome.com",
+            "snippet": "REOME Private Sale - 25% Off Sitewide Skip to content 25% off sitewide Plus free gift with purchase Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio LIMITED EDITION Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm AWARD-WINNING Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo Skincare Set The Hydra-Glow Duo NEW Skincare Set The Extraordinary Skin Set Skincare Set "
+          },
+          "products": {
+            "url": "https://reome.com/products",
+            "snippet": "Collections – REOME Skip to content 25% off sitewide Plus free gift with purchase Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio LIMITED EDITION Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm AWARD-WINNING Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo Skincare Set The Hydra-Glow Duo NEW Skincare Set The Extraordinary Skin Set Skincare Set Shop All Shop All "
+          },
+          "shop": {
+            "url": "https://reome.com/shop",
+            "snippet": "REOME Private Sale - 25% Off Sitewide Skip to content 25% off sitewide Plus free gift with purchase Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio LIMITED EDITION Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm AWARD-WINNING Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo Skincare Set The Hydra-Glow Duo NEW Skincare Set The Extraordinary Skin Set Skincare Set "
+          },
+          "collections": {
+            "url": "https://reome.com/collections",
+            "snippet": "Collections – REOME Skip to content 25% off sitewide Plus free gift with purchase Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio LIMITED EDITION Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm AWARD-WINNING Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo Skincare Set The Hydra-Glow Duo NEW Skincare Set The Extraordinary Skin Set Skincare Set Shop All Shop All "
+          }
+        },
+        "change_flags": []
+      },
+      "generated_at": "2026-11-26T17:33:16.923152+00:00",
+      "score": 51,
+      "score_reasons": [
+        "Contact method found",
+        "4 site page(s) captured"
       ],
       "has_contact": true
     },
@@ -186,7 +180,7 @@
         },
         "change_flags": []
       },
-      "generated_at": "2026-11-25T17:50:02.576699+00:00",
+      "generated_at": "2026-11-26T17:33:34.672510+00:00",
       "score": 51,
       "score_reasons": [
         "Contact method found",

@@ -1,5 +1,5 @@
 # Nume Lead Engine → LLM Input
-Generated at: 2026-11-25T17:51:07.382535+00:00
+Generated at: 2026-11-26T17:34:41.179374+00:00
 
 You are a senior cultural strategist + creative director hired to spot brand opportunities worth £1K–£5K. You combine market intelligence, aesthetic literacy, and AI-assisted execution speed. Your tone is that of a London-level creative agency: concise, culturally aware, insight-led, never “prompty.”
 
@@ -64,21 +64,6 @@ OFFER PRESETS (choose the best fit per brand):
 EVIDENCE SHORTLIST (do not browse; only use this):
 
 === BRAND 1 ===
-Name: REOME
-Website: https://reome.com
-Discovery query: watchlist
-Evidence link: 
-Score: 71 Reasons: Contact method found, 4 site page(s) captured, Site changed since last check
-Site changed flags: homepage, products, shop, collections
-Contact: email=nothing@all.try form=https://reome.com/contact
-News mentions: None
-Site snippets:
-- homepage (https://reome.com)
-  REOME Private Sale - 25% Off Sitewide Skip to content 25% off sitewide Plus free gift with purchase Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio LIMITED EDITION Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm AWARD-WINNING Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo Skincare Set The Hydra-Glow Duo NEW Skincare Set The Extraordinary Skin Set Skincare Set 
-- products (https://reome.com/products)
-  Collections – REOME Skip to content 25% off sitewide Plus free gift with purchase Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio LIMITED EDITION Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm AWARD-WINNING Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo Skincare Set The Hydra-Glow Duo NEW Skincare Set The Extraordinary Skin Set Skincare Set Shop All Shop All 
-
-=== BRAND 2 ===
 Name: Skin Rocks
 Website: https://skinrocks.com
 Discovery query: watchlist
@@ -92,6 +77,21 @@ Site snippets:
   Skin Rocks by Caroline Hirons Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout BLACK FRIDAY: UP TO 25% OFF ALMOST EVERYTHING* FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE FOR A LIMITED TIME ONLY Our biggest offer of the year is here. Shop Black Friday Black Friday Shop Shop All New in Bestsellers Minis/Travel Refills Custom Gift Set Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Mask Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Gifting Routine Quiz Subscription
 - products (https://skinrocks.com/products)
   Collections – Skin Rocks Skip to content Your cart is empty Continue shopping Your cart (0 items) Loading... Subtotal £0.00 Continue to Checkout BLACK FRIDAY: UP TO 25% OFF ALMOST EVERYTHING* FREE UK SHIPPING ON ORDERS £50+ 30-DAY MONEY BACK GUARANTEE FOR A LIMITED TIME ONLY Our biggest offer of the year is here. Shop Black Friday Black Friday Shop Shop All New in Bestsellers Minis/Travel Refills Custom Gift Set Gift Cards Category Cleanse Tone Serums/Treatment Eye Face Oil Moisturise Mask Gift Sets Merchandise Skin Concern Fine Lines and Wrinkles Hyperpigmentation Breakouts or Congestion Dehydration Dullness Redness or Sensitivity Texture Visible Pores Gifting Routine Quiz Subscriptions Sto
+
+=== BRAND 2 ===
+Name: REOME
+Website: https://reome.com
+Discovery query: watchlist
+Evidence link: 
+Score: 51 Reasons: Contact method found, 4 site page(s) captured
+Site changed flags: None
+Contact: email=nothing@all.try form=https://reome.com/contact
+News mentions: None
+Site snippets:
+- homepage (https://reome.com)
+  REOME Private Sale - 25% Off Sitewide Skip to content 25% off sitewide Plus free gift with purchase Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio LIMITED EDITION Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm AWARD-WINNING Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo Skincare Set The Hydra-Glow Duo NEW Skincare Set The Extraordinary Skin Set Skincare Set 
+- products (https://reome.com/products)
+  Collections – REOME Skip to content 25% off sitewide Plus free gift with purchase Shop Biotechnology Treatments Account Paper Cart 0 Bag Shop Biotechnology Treatments Paper Account Menu Shop Skin Transformation Trio LIMITED EDITION Limited Edition Festive Set Active Recovery Broth AWARD-WINNING Serum Concentrate Hydra-Plasma Veil BESTSELLER Bio-Cellulose Mask Biogenic Melting Cream AWARD-WINNING Cell-Preserving Hydrator Three Suns Balm AWARD-WINNING Revitalising Cleanser Firming Eye Treatment AWARD-WINNING Activated Gel-Crème Skin Evolution Set BESTSELLER Discovery Set The Bio-Glow Duo Skincare Set The Hydra-Glow Duo NEW Skincare Set The Extraordinary Skin Set Skincare Set Shop All Shop All 
 
 === BRAND 3 ===
 Name: Votary
